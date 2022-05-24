@@ -13,33 +13,18 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h2 align="center">Resources</h2>
+<h2 align="center">News</h2>
 
 РоскомСвобода | https://roskomsvoboda.org
 <br>
-Android в Android | https://www.vmos.com
-<br>
 Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
-<br>
-StartPage поиск | https://startpage.com 
 <br>
 Twitter | https://nitter.net
 <br>
-Element.io | https://element.io/get-started
-<br>
-Мессенджер | https://github.com/orbitdb/orbit
-<br>
-Мессенджер | https://github.com/berty/berty
-<br>
-Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
-<br>
-Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
-<br>
-Мессенджер | https://newnode.com/download-messenger
-<br>
-Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
+🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
 
 <h2 align="center">❓ Check for block</h2>
+
 GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 <br>
 Is It Blocked In Russia? | https://isitblockedinrussia.com
@@ -60,6 +45,8 @@ VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secu
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 <br>
 Заходить без VPN | https://jahproxy.pro
+<br>
+StartPage поиск | https://startpage.com 
 <br>
 ЦензорТрекер | https://censortracker.org
 <br>
@@ -86,6 +73,7 @@ VPN список | https://vpnlove.me
 Net Healer | https://net-healer.com
 
 <h2 align="center">🔑 Encryption</h2>
+
 🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 <br>
 🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
@@ -110,10 +98,25 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 <br>
 Браузер Тор | https://tor.invidious.site/ru/download
 <br>
+Android в Android | https://www.vmos.com
+<br>
 Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
 
 <h2 align="center">Sites</h2>
 
+Element.io | https://element.io/get-started
+<br>
+Мессенджер | https://github.com/orbitdb/orbit
+<br>
+Мессенджер | https://github.com/berty/berty
+<br>
+Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
+<br>
+Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
+<br>
+Мессенджер | https://newnode.com/download-messenger
+<br>
+Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
 Международные переводы денег | https://paysend.com
 <br>
 Блокировка hosts | https://energized.pro
@@ -123,8 +126,6 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 Спрятать текст в картинку | https://futureboy.us/stegano
 <br>
 Спрятать текст в текст | https://stegcloak.surge.sh
-<br>
-🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
 <br>
 📰 Wired Security | https://www.wired.com/category/security
 <br>
