@@ -4,7 +4,7 @@
 > <br>
 > https://vk.com/zapret_net
 > <br>
-> [Скачать репозиторий для оффлайн доступа при отсутствии к интернету](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
+> [Download for offline use](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
 ### Обозначения:
 ⛔ | Сервис заблокирован в РФ
