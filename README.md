@@ -13,7 +13,7 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h2 align="center">News</h2>
+<h2 align="center">📰 News</h2>
 
 РоскомСвобода | https://roskomsvoboda.org
 <br>
