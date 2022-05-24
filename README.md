@@ -85,10 +85,10 @@ VPN список | https://vpnlove.me
 <br>
 Net Healer | https://net-healer.com
 
-<h2 align="center">Encryption</h2>
-Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
+<h2 align="center">🔑 Encryption</h2>
+🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 <br>
-Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
+🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
 <br>
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 <br>
