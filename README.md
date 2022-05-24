@@ -85,24 +85,13 @@ VPN список | https://vpnlove.me
 <br>
 Net Healer | https://net-healer.com
 
-<h2 align="center">Apps</h2>
-
-Браузер I2p | https://geti2p.net/ru
-<br>
-Браузер ZeroNet | https://zeronet.io
-<br>
-Браузер Тор | https://tor.invidious.site/ru/download
-<br>
-Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
-<br>
+<h2 align="center">Encryption</h2>
 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 <br>
 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
 <br>
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
-
-<h2 align="center">Sites</h2>
-
+<br>
 💬 Приватные СМС | https://privnote.com
 <br>
 💬 Приватные СМС | https://wipenote.io
@@ -112,7 +101,19 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 💬 Приватные СМС | https://ots.sniptt.com
 <br>
 📝 Приватные заметки | https://privatebin.net
+
+<h2 align="center">Apps</h2>
+
+Браузер I2p | https://geti2p.net/ru
 <br>
+Браузер ZeroNet | https://zeronet.io
+<br>
+Браузер Тор | https://tor.invidious.site/ru/download
+<br>
+Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
+
+<h2 align="center">Sites</h2>
+
 Международные переводы денег | https://paysend.com
 <br>
 Блокировка hosts | https://energized.pro
