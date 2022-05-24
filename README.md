@@ -7,7 +7,7 @@
 > [📵 Download for offline use](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
 ### Designations:
-⛔ | Site block from Russia
+⛔ | Site block in Russia
 
 <h1 align="center">BlackList VPN</h1>
 
