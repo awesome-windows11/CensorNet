@@ -22,6 +22,10 @@ Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 Twitter | https://nitter.net
 <br>
 🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
+<br>
+📰 Wired Security | https://www.wired.com/category/security
+<br>
+📰 TheTinHat | https://thetinhat.com/index.html
 
 <h2 align="center">❓ Check for block</h2>
 
@@ -127,10 +131,6 @@ Element.io | https://element.io/get-started
 Спрятать текст в картинку | https://futureboy.us/stegano
 <br>
 Спрятать текст в текст | https://stegcloak.surge.sh
-<br>
-📰 Wired Security | https://www.wired.com/category/security
-<br>
-📰 TheTinHat | https://thetinhat.com/index.html
 <br>
 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 <br>
