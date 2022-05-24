@@ -1,6 +1,6 @@
 <h1 align="center">🕵️‍ CensorNow</h1>
 
-> https://zapretnet.vercel.app
+> https://censor.now.sh
 > <br>
 > https://vk.com/zapret_net
 > <br>
