@@ -15,45 +15,73 @@
 
 <h1 align="center">VPN</h1>
 
-| Название | URL | 
-| --- | --- |
-| РоскомСвобода | https://roskomsvoboda.org
-| ЦензорТрекер | https://censortracker.org
-| Гайд: Тор | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
-| ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
-| Android в Android | https://www.vmos.com
-| GlobalCheck | https://globalcheck.net/ru/monitoring/ru
-| Is It Blocked In Russia? | https://isitblockedinrussia.com
-| Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-| Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
-| StartPage поиск | https://startpage.com 
-| Twitter | https://nitter.net
-| CloudFlare | ⛔ https://1.1.1.1
+РоскомСвобода | https://roskomsvoboda.org
+<br>
+ЦензорТрекер | https://censortracker.or
+<br>
+ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
+<br>
+Android в Android | https://www.vmos.com
+<br>
+GlobalCheck | https://globalcheck.net/ru/monitoring/ru
+<br>
+Is It Blocked In Russia? | https://isitblockedinrussia.com
+<br>
+Down for Everyone or Just Me | https://downforeveryoneorjustme.com
+<br>
+Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
+<br>
+StartPage поиск | https://startpage.com 
+<br>
+Twitter | https://nitter.net
+<br>
+CloudFlare | ⛔ https://1.1.1.1
+<br>
+Element.io | https://element.io/get-started
+<br>
+Мессенджер | https://github.com/orbitdb/orbit
+<br>
+Мессенджер | https://github.com/berty/berty
+<br>
+Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
+<br>
+Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
+<br>
+Мессенджер | https://newnode.com/download-messenger
+<br>
+Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
 
-| Название | URL | 
-| --- | --- |
-| Element.io | https://element.io/get-started
-| Мессенджер | https://github.com/orbitdb/orbit
-| Мессенджер | https://github.com/berty/berty
-| Мессенджер | https://play.google.com/store/apps/details?id=me.bridgefy.main
-| Мессенджер | https://play.google.com/store/apps/details?id=org.briarproject.briar.android
-| Мессенджер | https://newnode.com/download-messenger
-| Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
-| VPN браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
-| VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
-| Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
-| Заходить без VPN | https://jahproxy.pro
-| psiphon3 | https://www.psiphon3.com/ru/download.html
-| getlantern | https://getlantern.org/ru_RU/index.html
-| Windscribe | https://rus.windscribe.com/download
-| HighLoad VPN | https://hi-l.eu/start
-| Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
-| VPN сервис | https://www.nthlink.com
-| WireGuard | https://www.wireguard.com
-| Veepn | https://veepn.com/ru/
-| LetsVpn | https://letsvpn.world/?hl=ru
-| VPN список | https://vpnlove.me
-| Net Healer | https://net-healer.com
+<h1 align="center">🕵️‍♂️ VPN</h1>
+
+Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
+<br>
+VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
+<br>
+Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
+<br>
+Заходить без VPN | https://jahproxy.pro
+<br>
+psiphon3 | https://www.psiphon3.com/ru/download.html
+<br>
+getlantern | https://getlantern.org/ru_RU/index.html
+<br>
+Windscribe | https://rus.windscribe.com/download
+<br>
+HighLoad VPN | https://hi-l.eu/start
+<br>
+Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
+<br>
+VPN сервис | https://www.nthlink.com
+<br>
+WireGuard | https://www.wireguard.com
+<br>
+Veepn | https://veepn.com/ru/
+<br>
+LetsVpn | https://letsvpn.world/?hl=ru
+<br>
+VPN список | https://vpnlove.me
+<br>
+Net Healer | https://net-healer.com
 
 <h1 align="center">Apps</h1>
 
@@ -91,7 +119,8 @@
 
 
 <h1 align="center">📚 Guides</h1>
-
+🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
+<br>
 🔐 PrivacyGuides | https://www.privacyguides.org/tools
 <br>
 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
