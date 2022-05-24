@@ -13,7 +13,7 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h1 align="center">Resources</h1>
+<h2 align="center">Resources</h2>
 
 РоскомСвобода | https://roskomsvoboda.org
 <br>
@@ -47,7 +47,7 @@ Is It Blocked In Russia? | https://isitblockedinrussia.com
 Down for Everyone or Just Me | https://downforeveryoneorjustme.com
 
 
-<h1 align="center">🕵️‍♂️ VPN</h1>
+<h2 align="center">🕵️‍♂️ VPN</h2>
 
 ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
 <br>
@@ -85,7 +85,7 @@ VPN список | https://vpnlove.me
 <br>
 Net Healer | https://net-healer.com
 
-<h1 align="center">Apps</h1>
+<h2 align="center">Apps</h2>
 
 | Название | URL | 
 | --- | --- |
@@ -97,7 +97,7 @@ Net Healer | https://net-healer.com
 | Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
 | USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 
-<h1 align="center">Sites</h1>
+<h2 align="center">Sites</h2>
 
 | Название | URL | 
 | --- | --- |
@@ -120,7 +120,7 @@ Net Healer | https://net-healer.com
 | 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc |
 
 
-<h1 align="center">📚 Guides</h1>
+<h2 align="center">📚 Guides</h2>
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 <br>
 🔐 PrivacyGuides | https://www.privacyguides.org/tools
@@ -135,7 +135,7 @@ Net Healer | https://net-healer.com
 <br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
-<h1 align="center">📲 Phone Security</h1>
+<h2 align="center">📲 Phone Security</h2>
 
 🚔 Anti Theft | https://bloketech.com/lockwatch
 <br>
@@ -147,7 +147,7 @@ Net Healer | https://net-healer.com
 <br>
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 
-<h1 align="center">🔐 Leaks</h1>
+<h2 align="center">🔐 Leaks</h2>
 
 🔓 Leak Pass | https://haveibeenpwned.com
 <br>
