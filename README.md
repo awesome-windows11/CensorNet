@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍ ZapretNet</h1>
+<h1 align="center">🕵️‍ CensorNow</h1>
 
 > https://zapretnet.vercel.app
 > <br>
