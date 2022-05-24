@@ -19,12 +19,6 @@
 <br>
 Android в Android | https://www.vmos.com
 <br>
-GlobalCheck | https://globalcheck.net/ru/monitoring/ru
-<br>
-Is It Blocked In Russia? | https://isitblockedinrussia.com
-<br>
-Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-<br>
 Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 <br>
 StartPage поиск | https://startpage.com 
@@ -44,6 +38,14 @@ Element.io | https://element.io/get-started
 Мессенджер | https://newnode.com/download-messenger
 <br>
 Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
+
+<h1 align="center">Checkers block</h1>
+GlobalCheck | https://globalcheck.net/ru/monitoring/ru
+<br>
+Is It Blocked In Russia? | https://isitblockedinrussia.com
+<br>
+Down for Everyone or Just Me | https://downforeveryoneorjustme.com
+
 
 <h1 align="center">🕵️‍♂️ VPN</h1>
 
