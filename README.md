@@ -13,13 +13,11 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h1 align="center">VPN</h1>
+<h1 align="center">Resources</h1>
 
 РоскомСвобода | https://roskomsvoboda.org
 <br>
-ЦензорТрекер | https://censortracker.or
-<br>
-ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
+ЦензорТрекер | https://censortracker.org
 <br>
 Android в Android | https://www.vmos.com
 <br>
@@ -34,8 +32,6 @@ Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 StartPage поиск | https://startpage.com 
 <br>
 Twitter | https://nitter.net
-<br>
-CloudFlare | ⛔ https://1.1.1.1
 <br>
 Element.io | https://element.io/get-started
 <br>
@@ -53,6 +49,10 @@ Element.io | https://element.io/get-started
 
 <h1 align="center">🕵️‍♂️ VPN</h1>
 
+ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
+<br>
+CloudFlare | ⛔ https://1.1.1.1
+<br>
 Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 <br>
 VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
