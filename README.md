@@ -103,25 +103,39 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 
 <h2 align="center">Sites</h2>
 
-| Название | URL | 
-| --- | --- |
-| 💬 Приватные СМС | https://privnote.com
-| 💬 Приватные СМС | https://wipenote.io
-| 💬 Приватные СМС | https://onetimesecret.com
-| 💬 Приватные СМС | https://ots.sniptt.com
-| 📝 Приватные заметки | https://privatebin.net
-| Международные переводы денег | https://paysend.com
-| Блокировка hosts | https://energized.pro
-| Блокировка hosts 2 | https://github.com/StevenBlack/hosts
-| Спрятать текст в картинку | https://futureboy.us/stegano
-| Спрятать текст в текст | https://stegcloak.surge.sh
-| 🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
-| 📰 Wired Security | https://www.wired.com/category/security
-| 📰 TheTinHat | https://thetinhat.com/index.html
-| 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
-| 💥 Сломать документ | https://corrupt-a-file.net
-| 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
-| 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc |
+💬 Приватные СМС | https://privnote.com
+<br>
+💬 Приватные СМС | https://wipenote.io
+<br>
+💬 Приватные СМС | https://onetimesecret.com
+<br>
+💬 Приватные СМС | https://ots.sniptt.com
+<br>
+📝 Приватные заметки | https://privatebin.net
+<br>
+Международные переводы денег | https://paysend.com
+<br>
+Блокировка hosts | https://energized.pro
+<br>
+Блокировка hosts 2 | https://github.com/StevenBlack/hosts
+<br>
+Спрятать текст в картинку | https://futureboy.us/stegano
+<br>
+Спрятать текст в текст | https://stegcloak.surge.sh
+<br>
+🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
+<br>
+📰 Wired Security | https://www.wired.com/category/security
+<br>
+📰 TheTinHat | https://thetinhat.com/index.html
+<br>
+🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
+<br>
+💥 Сломать документ | https://corrupt-a-file.net
+<br>
+🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
+<br>
+🖥 Мощность ПК | https://technical.city/ru/rate-my-pc |
 
 
 <h2 align="center">📚 Guides</h2>
