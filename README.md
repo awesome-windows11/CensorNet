@@ -39,7 +39,7 @@ Element.io | https://element.io/get-started
 <br>
 Мессенджер шифратор | https://github.com/u4i-admin/Nahoft
 
-<h1 align="center">Block check</h1>
+<h1 align="center">Check for blok</h1>
 GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 <br>
 Is It Blocked In Russia? | https://isitblockedinrussia.com
