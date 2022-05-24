@@ -6,8 +6,8 @@
 > <br>
 > [📵 Download for offline use](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
 
-### Обозначения:
-⛔ | Сервис заблокирован в РФ
+### Designations:
+⛔ | Site block from Russia
 
 <h1 align="center">BlackList VPN</h1>
 
