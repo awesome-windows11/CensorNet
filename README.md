@@ -17,8 +17,6 @@
 
 РоскомСвобода | https://roskomsvoboda.org
 <br>
-ЦензорТрекер | https://censortracker.org
-<br>
 Android в Android | https://www.vmos.com
 <br>
 GlobalCheck | https://globalcheck.net/ru/monitoring/ru
@@ -60,6 +58,8 @@ VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secu
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 <br>
 Заходить без VPN | https://jahproxy.pro
+<br>
+ЦензорТрекер | https://censortracker.org
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
