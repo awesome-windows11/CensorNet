@@ -87,15 +87,19 @@ Net Healer | https://net-healer.com
 
 <h2 align="center">Apps</h2>
 
-| Название | URL | 
-| --- | --- |
-| Браузер I2p | https://geti2p.net/ru
-| Браузер ZeroNet | https://zeronet.io
-| Браузер Тор | https://tor.invidious.site/ru/download
-| Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
-| Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
-| Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
-| USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
+Браузер I2p | https://geti2p.net/ru
+<br>
+Браузер ZeroNet | https://zeronet.io
+<br>
+Браузер Тор | https://tor.invidious.site/ru/download
+<br>
+Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
+<br>
+Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
+<br>
+Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
+<br>
+USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 
 <h2 align="center">Sites</h2>
 
