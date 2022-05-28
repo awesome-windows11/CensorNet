@@ -1,5 +1,6 @@
 ria.ru##.page
 ria.ru##.js__toggle-lenta.widgets__b-cover
+ria.ru##.widgets__b-slide
 iz.ru##.active.new_page.inside_page.page-content
 iz.ru##.tablet_css.mibile_css
 iz.ru###block-ticker-page
