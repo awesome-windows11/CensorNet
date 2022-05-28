@@ -1,1 +1,2 @@
 ria.ru##.page
+ria.ru##.js__toggle-lenta.widgets__b-cover
