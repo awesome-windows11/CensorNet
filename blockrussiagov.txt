@@ -13,3 +13,5 @@ yandex.ru###zen-row-0
 yandex.ru##.feed__item-wrap
 www.gazeta.ru###_id_main_article
 gazeta.ru###_id_main_article
+www.gazeta.ru##._s_added_article.jbcncr
+gazeta.ru##._s_added_article.jbcncr
