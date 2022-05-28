@@ -4,3 +4,4 @@ iz.ru##.active.new_page.inside_page.page-content
 iz.ru##.tablet_css.mibile_css
 iz.ru###block-ticker-page
 iz.ru##.active.inside_page.page-content
+yandex.ru##.tFX98cbd5N20.tFX9kL_toNw
