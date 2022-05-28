@@ -19,3 +19,5 @@ www.gazeta.ru##.fpts._s_added_article
 gazeta.ru##.fpts._s_added_article
 www.gazeta.ru##._s_added_article
 gazeta.ru##._s_added_article
+gazeta.ru##body
+www.gazeta.ru##body
