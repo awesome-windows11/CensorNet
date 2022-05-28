@@ -1,2 +1,3 @@
 ria.ru##.page
 ria.ru##.js__toggle-lenta.widgets__b-cover
+iz.ru####.active.new_page.inside_page.page-content
