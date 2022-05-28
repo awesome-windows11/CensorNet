@@ -17,3 +17,5 @@ www.gazeta.ru##._s_added_article.jbcncr
 gazeta.ru##._s_added_article.jbcncr
 www.gazeta.ru##.fpts._s_added_article
 gazeta.ru##.fpts._s_added_article
+www.gazeta.ru##._s_added_article
+gazeta.ru##._s_added_article
