@@ -10,3 +10,5 @@ iz.ru##.footer
 yandex.ru##.tFX98cbd5N20.tFX9kL_toNw
 yandex.ru###zen-row-0
 yandex.ru##.feed__item-wrap
+www.gazeta.ru###_id_main_article
+gazeta.ru###_id_main_article
