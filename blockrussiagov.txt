@@ -21,3 +21,5 @@ www.gazeta.ru##._s_added_article
 gazeta.ru##._s_added_article
 gazeta.ru##body
 www.gazeta.ru##body
+www.vedomosti.ru##body
+vedomosti.ru##body
