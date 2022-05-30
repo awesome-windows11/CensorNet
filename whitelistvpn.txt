@@ -2,3 +2,4 @@
 rutracker.org
 *.protonmail.com
 *.twitter.com
+*.abs.twimg.com
