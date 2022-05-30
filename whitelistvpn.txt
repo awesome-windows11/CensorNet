@@ -1,2 +1,3 @@
 *.meduza.io
 rutracker.org
+*.protonmail.com
