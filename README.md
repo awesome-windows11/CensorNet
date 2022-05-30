@@ -78,6 +78,10 @@ Net Healer | https://net-healer.com
 
 <h2 align="center">🔑 Encryption</h2>
 
+🔑 Create HASH | http://www.hashemall.com
+<br>
+🔑 Decrypt HASH | https://crackstation.net
+<br>
 🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 <br>
 🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
