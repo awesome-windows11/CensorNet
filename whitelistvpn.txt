@@ -6,3 +6,5 @@ rutracker.org
 *.instagram.com
 *.cdninstagram.com
 *.fbcdn.net
+facebook.com
+www.facebook.com
