@@ -13,8 +13,3 @@ obfs4 198.244.142.230:46705 8DB8819DD253051FA4CD7445CD1499DBCEC82DDD cert=ntC7rg
 ```
 *.github.com
 ```
-# Instagram
-```
-external.xx.fbcdn.net - для картинок
-
-instagram.*.fna.fbcdn.net - картинки
