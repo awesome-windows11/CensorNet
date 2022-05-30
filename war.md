@@ -1,5 +1,3 @@
-https://psiphon3.com/ru/index.html
-
 https://twitter.com/ki_de_ri/status/1496727222941593604
 
 https://twitter.com/amyfist/status/1496727008130342912
