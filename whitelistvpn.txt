@@ -2,6 +2,7 @@
 rutracker.org
 *.protonmail.com
 *.twitter.com
-*.twimg.com
+*.abs.twimg.com
 *.instagram.com
 *.cdninstagram.com
+*.fbcdn.net
