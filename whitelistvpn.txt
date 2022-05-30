@@ -1,3 +1,4 @@
 *.meduza.io
 rutracker.org
 *.protonmail.com
+*.twitter.com
