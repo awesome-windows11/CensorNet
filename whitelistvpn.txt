@@ -10,3 +10,8 @@ facebook.com
 www.facebook.com
 play.google.com
 *.ggpht.com
+proxy.antizapret.prostovpn.org
+proxy-ssl.antizapret.prostovpn.org
+proxy-fbtw-ssl.antizapret.prostovpn.org
+proxy-nossl.antizapret.prostovpn.org
+vpn.antizapret.prostovpn.org 
