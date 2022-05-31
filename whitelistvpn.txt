@@ -8,3 +8,4 @@ rutracker.org
 *.fbcdn.net
 facebook.com
 www.facebook.com
+play.google.com
