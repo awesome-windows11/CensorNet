@@ -1,4 +1,4 @@
-## Blacklist VPN
+## 🕵️‍♀️ Blacklist VPN
 ```
 meduza.io
 sebeanus.online
