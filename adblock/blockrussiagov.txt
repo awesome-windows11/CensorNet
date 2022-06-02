@@ -21,7 +21,12 @@ www.gazeta.ru##._s_added_article
 gazeta.ru##._s_added_article
 gazeta.ru##body
 www.gazeta.ru##body
-www.vedomosti.ru##body
+img.gazeta.ru
+www.img.gazeta.ru
+kraken.rambler.ru
+www.kraken.rambler.ru
+zoomdecorate.rambler.ru
+www.zoomdecorate.rambler.ru
 vedomosti.ru##body
 1tv.ru
 *.1tv.ru
