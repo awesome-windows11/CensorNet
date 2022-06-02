@@ -23,3 +23,7 @@ gazeta.ru##body
 www.gazeta.ru##body
 www.vedomosti.ru##body
 vedomosti.ru##body
+1tv.ru
+*.1tv.ru
+static.1tv.ru
+www.1tv.ru
