@@ -1,3 +1,5 @@
+### Blacklist VPN
+```
 *.meduza.io
 rutracker.org
 *.protonmail.com
@@ -16,3 +18,9 @@ proxy-ssl.antizapret.prostovpn.org
 proxy-fbtw-ssl.antizapret.prostovpn.org
 proxy-nossl.antizapret.prostovpn.org
 vpn.antizapret.prostovpn.org 
+```
+
+### No proxy connection
+```
+google.com, comss.com, gstatic.om, www.gstatic.om, yandex.ru. *.comss.ru, youtube.com, studio.youtube.com. github.com, github.githubassets.com, githubassets.com
+```
