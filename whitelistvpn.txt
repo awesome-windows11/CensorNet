@@ -5,6 +5,7 @@ rutracker.org
 *.twimg.com
 *.instagram.com
 *.cdninstagram.com
+scontent-ams4-1.cdninstagram.com
 *.fbcdn.net
 facebook.com
 www.facebook.com
