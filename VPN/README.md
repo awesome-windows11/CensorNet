@@ -28,6 +28,7 @@ yt3.ggpht.com
 ```
 
 ### AntiZapret
+```
 proxy.antizapret.prostovpn.org
 proxy-ssl.antizapret.prostovpn.org
 proxy-fbtw-ssl.antizapret.prostovpn.org
