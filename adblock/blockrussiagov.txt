@@ -34,9 +34,11 @@ static.1tv.ru
 www.1tv.ru
 rs.mail.ru
 trk.mail.ru
-«Яндекс.Диск»,
-«Облако MailRu»,
-«СберДиск»,
+! cloud storage
+disk.yandex.ru
+mail.ru
+cloud.mail.ru
+sberdisk.ru
 «МТС. Вторая память»,
 «Облако Билайн»,
 «Tele2 Диск».
