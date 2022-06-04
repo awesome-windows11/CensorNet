@@ -32,6 +32,7 @@ vedomosti.ru##body
 *.1tv.ru
 static.1tv.ru
 www.1tv.ru
+https://*/*porn*
 rs.mail.ru
 trk.mail.ru
 ! cloud storage
