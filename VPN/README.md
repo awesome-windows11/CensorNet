@@ -6,6 +6,7 @@ news.doxajournal.ru
 doxajournal.ru
 *.doxajournal.ru
 sebeanus.online
+*.zona.media
 zona.media
 ### Other
 rutracker.org
