@@ -6,19 +6,15 @@ doxajournal.ru
 *.doxajournal.ru
 sebeanus.online
 rutracker.org
+protonmail.com
 *.protonmail.com
-```
 ### Twitter
-```
 twitter.com
 *.twitter.com
 *.twimg.com
 pbs.twimg.com
 t.co
-```
-
 ### Instagram
-```
 instagram.com
 *.instagram.com
 *.cdninstagram.com
@@ -26,9 +22,7 @@ scontent-ams4-1.cdninstagram.com
 *.fbcdn.net
 facebook.com
 www.facebook.com
-```
 ### YouTube (Google)
-```
 play.google.com
 news.google.com
 yt3.ggpht.com
