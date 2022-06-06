@@ -12,6 +12,7 @@ zona.media
 rutracker.org
 protonmail.com
 *.protonmail.com
+voices.com
 ### Twitter
 twitter.com
 *.twitter.com
