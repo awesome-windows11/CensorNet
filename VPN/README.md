@@ -10,6 +10,7 @@ rutracker.org
 ```
 ### Twitter
 ```
+twitter.com
 *.twitter.com
 *.twimg.com
 pbs.twimg.com
@@ -18,6 +19,7 @@ t.co
 
 ### Instagram
 ```
+instagram.com
 *.instagram.com
 *.cdninstagram.com
 scontent-ams4-1.cdninstagram.com
