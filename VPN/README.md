@@ -1,10 +1,13 @@
 ## 🕵️‍♀️ Blacklist VPN
 ```markdown
+### News
 meduza.io
 news.doxajournal.ru
 doxajournal.ru
 *.doxajournal.ru
 sebeanus.online
+zona.media
+### Other
 rutracker.org
 protonmail.com
 *.protonmail.com
