@@ -1,5 +1,5 @@
 ## 🕵️‍♀️ Blacklist VPN
-```
+```markdown
 meduza.io
 news.doxajournal.ru
 doxajournal.ru
@@ -23,9 +23,9 @@ scontent-ams4-1.cdninstagram.com
 facebook.com
 www.facebook.com
 ### YouTube (Google)
+yt3.ggpht.com
 play.google.com
 news.google.com
-yt3.ggpht.com
 ```
 
 ### AntiZapret
