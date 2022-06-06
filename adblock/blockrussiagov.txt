@@ -45,3 +45,4 @@ sberdisk.ru
 «Tele2 Диск».
 www.youtube.com##.vidiq-video-page-menu
 mail.proton.me##.flex-align-items-center.flex-nowrap.inline-flex.topnav-link.text-center.inline-block.button-outline-norm.button
+tv.yandex.ru##.recommended-ott
