@@ -12,6 +12,7 @@ rutracker.org
 ```
 *.twitter.com
 *.twimg.com
+pbs.twimg.com
 t.co
 ```
 
