@@ -14,7 +14,7 @@ protonmail.com
 *.protonmail.com
 voices.com
 ### Сайты закрывшие доступ РФ пользователям
-pixabay.com
+*.pixabay.com
 voices.com
 ### Twitter
 twitter.com
