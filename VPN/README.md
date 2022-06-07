@@ -16,6 +16,8 @@ voices.com
 ### Сайты закрывшие доступ РФ пользователям
 *.pixabay.com
 voices.com
+www.voices.com
+*.voices.com
 ### Twitter
 twitter.com
 *.twitter.com
