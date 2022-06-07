@@ -30,6 +30,7 @@ instagram.com
 scontent-ams4-1.cdninstagram.com
 *.fbcdn.net
 facebook.com
+*.facebook.com
 www.facebook.com
 ### YouTube (Google)
 yt3.ggpht.com
