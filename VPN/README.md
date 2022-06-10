@@ -20,6 +20,8 @@ voices.com
 *.pixabay.com
 www.voices.com
 *.voices.com
+remove.bg
+www.remove.bg
 ### Twitter
 twitter.com
 *.twitter.com
