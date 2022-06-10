@@ -16,6 +16,8 @@ moscowtimes.ru
 postimees.ee
 *.postimees.ee
 *.www.postimees.ee
+svoboda.org
+www.svoboda.org
 ### Other
 rutracker.org
 protonmail.com
