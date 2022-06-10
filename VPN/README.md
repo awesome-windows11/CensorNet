@@ -8,6 +8,8 @@ doxajournal.ru
 sebeanus.online
 *.zona.media
 zona.media
+the-village.ru
+www.the-village.ru
 ### Other
 rutracker.org
 protonmail.com
