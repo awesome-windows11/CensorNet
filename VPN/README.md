@@ -12,6 +12,7 @@ the-village.ru
 www.the-village.ru
 republic.ru
 rosinform.net
+moscowtimes.ru
 ### Other
 rutracker.org
 protonmail.com
