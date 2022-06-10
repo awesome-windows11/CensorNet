@@ -11,6 +11,7 @@ zona.media
 the-village.ru
 www.the-village.ru
 republic.ru
+rosinform.net
 ### Other
 rutracker.org
 protonmail.com
