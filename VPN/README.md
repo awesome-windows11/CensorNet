@@ -13,6 +13,7 @@ www.the-village.ru
 republic.ru
 rosinform.net
 moscowtimes.ru
+postimees.ee
 *.postimees.ee
 *.www.postimees.ee
 ### Other
