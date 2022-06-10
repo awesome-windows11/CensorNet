@@ -13,7 +13,7 @@ www.the-village.ru
 republic.ru
 rosinform.net
 moscowtimes.ru
-rus.postimees.ee
+*.postimees.ee
 ### Other
 rutracker.org
 protonmail.com
