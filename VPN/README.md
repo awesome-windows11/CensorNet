@@ -14,6 +14,7 @@ republic.ru
 rosinform.net
 moscowtimes.ru
 *.postimees.ee
+*.www.postimees.ee
 ### Other
 rutracker.org
 protonmail.com
