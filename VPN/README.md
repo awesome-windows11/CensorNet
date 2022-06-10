@@ -10,6 +10,7 @@ sebeanus.online
 zona.media
 the-village.ru
 www.the-village.ru
+republic.ru
 ### Other
 rutracker.org
 protonmail.com
