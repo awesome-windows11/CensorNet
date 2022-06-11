@@ -68,6 +68,8 @@ VPN сервис | https://www.nthlink.com
 <br>
 WireGuard | https://www.wireguard.com
 <br>
+Amnezia vpn | https://github.com/amnezia-vpn/desktop-client
+<br>
 Veepn | https://veepn.com/ru/
 <br>
 LetsVpn | https://letsvpn.world/?hl=ru
