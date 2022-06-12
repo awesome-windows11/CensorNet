@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍ CensorNow</h1>
+<h1 align="center">🕵️‍ CensorNet</h1>
 
 > https://censor.now.sh
 > <br>
