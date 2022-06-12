@@ -36,6 +36,8 @@ Is It Blocked In Russia? | https://isitblockedinrussia.com
 Down for Everyone or Just Me | https://downforeveryoneorjustme.com
 <br>
 Проверить что знает о вас ваш браузер | https://webkay.robinlinus.com
+<br>
+https://firstpartysimulator.net
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
