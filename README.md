@@ -34,7 +34,8 @@ GlobalCheck | https://globalcheck.net/ru/monitoring/ru
 Is It Blocked In Russia? | https://isitblockedinrussia.com
 <br>
 Down for Everyone or Just Me | https://downforeveryoneorjustme.com
-
+<br>
+Проверить что знает о вас ваш браузер | https://webkay.robinlinus.com
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
