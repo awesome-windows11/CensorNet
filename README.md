@@ -40,6 +40,8 @@ Down for Everyone or Just Me | https://downforeveryoneorjustme.com
 https://firstpartysimulator.net
 <br>
 https://inteltechniques.com/logger
+<br>
+https://amiunique.org/fp
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
