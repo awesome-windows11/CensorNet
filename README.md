@@ -38,6 +38,8 @@ Down for Everyone or Just Me | https://downforeveryoneorjustme.com
 Проверить что знает о вас ваш браузер | https://webkay.robinlinus.com
 <br>
 https://firstpartysimulator.net
+<br>
+https://inteltechniques.com/logger
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
