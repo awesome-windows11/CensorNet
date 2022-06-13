@@ -22,6 +22,8 @@ pressorg24.com
 www.pressorg24.com
 unn.com.ua
 www.unn.com.ua
+news.obozrevatel.com
+obozrevatel.com
 ### Other
 rutracker.org
 protonmail.com
