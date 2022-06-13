@@ -20,6 +20,8 @@ svoboda.org
 www.svoboda.org
 pressorg24.com
 www.pressorg24.com
+unn.com.ua
+www.unn.com.ua
 ### Other
 rutracker.org
 protonmail.com
