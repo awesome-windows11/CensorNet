@@ -171,6 +171,8 @@ Element.io | https://element.io/get-started
 
 <h2 align="center">📲 Phone Security</h2>
 
+InviZible | https://github.com/Gedsh/InviZible
+<br>
 🚔 Anti Theft | https://bloketech.com/lockwatch
 <br>
 🚔 Anti Theft | https://www.crookcatcher.app
