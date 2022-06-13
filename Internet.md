@@ -10,6 +10,8 @@ https://www.dnsleaktest.com
 https://browserleaks.com/dns
 <br>
 https://dnsleak.com
+<br>
+https://whoer.net/ru/dns-leak-test
 
 ## Apps
 https://www.sordum.org/7952/dns-jumper-v2-2
