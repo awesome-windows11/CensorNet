@@ -1,5 +1,5 @@
-```markdown
 # Porn
+```markdown
 0.0.0.0 rt.pornhub.com
 0.0.0.0 *rt.pornhub.com
 0.0.0.0 *.pornhub.com
@@ -118,8 +118,9 @@
 0.0.0.0 www.toprupornovideos.top
 0.0.0.0 aporner.pro
 0.0.0.0 www.aporner.pro
-
+```
 # News
+```
 0.0.0.0 www.1tv.ru
 0.0.0.0 1tv.ru
 0.0.0.0 www.ria.ru
