@@ -50,6 +50,8 @@
 0.0.0.0 sexdesant.com
 0.0.0.0 www.sexdesant.com
 0.0.0.0 *.sexdesant.com
+0.0.0.0 porno365.bet
+0.0.0.0 www.porno365.bet
 # News
 0.0.0.0 www.1tv.ru
 0.0.0.0 1tv.ru
