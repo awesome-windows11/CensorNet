@@ -8,6 +8,8 @@ ipconfig /all | findstr /R "DNS Servers"
 https://www.dnsleaktest.com
 <br>
 https://browserleaks.com/dns
+<br>
+https://dnsleak.com
 
 ## Apps
 https://www.sordum.org/7952/dns-jumper-v2-2
