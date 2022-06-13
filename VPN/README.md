@@ -18,6 +18,8 @@ postimees.ee
 *.www.postimees.ee
 svoboda.org
 www.svoboda.org
+pressorg24.com
+www.pressorg24.com
 ### Other
 rutracker.org
 protonmail.com
