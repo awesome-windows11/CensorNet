@@ -6,7 +6,8 @@ https://www.comss.ru/list.php?c=securedns
 ipconfig /all | findstr /R "DNS Servers"
 ```
 https://www.dnsleaktest.com
-
+<br>
+https://browserleaks.com/dns
 
 ## Apps
 https://www.sordum.org/7952/dns-jumper-v2-2
