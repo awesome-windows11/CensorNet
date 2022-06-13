@@ -1,6 +1,11 @@
 # DNS
 https://www.comss.ru/list.php?c=securedns
 
+## Check
+```cmd
+ipconfig /all | findstr /R "DNS Servers"
+```
+
 ## Apps
 https://www.sordum.org/7952/dns-jumper-v2-2
 <br>
