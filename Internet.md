@@ -19,3 +19,8 @@ https://www.sordum.org/7952/dns-jumper-v2-2
 https://www.nirsoft.net/utils/quick_set_dns.html
 <br>
 https://www.nirsoft.net/utils/wireless_network_watcher.html
+
+## Login
+https://my.nextdns.io
+<br>
+https://dashboard.opendns.com
