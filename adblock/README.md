@@ -128,6 +128,8 @@
 0.0.0.0 www.hentaihaven.com
 0.0.0.0 mult-porno.xyz
 0.0.0.0 www.mult-porno.xyz
+0.0.0.0 sslkn.site
+0.0.0.0 www.sslkn.site
 ```
 
 ```
