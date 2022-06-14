@@ -136,6 +136,8 @@ https://vk.com/*hent*
 https://vk.com/*notsafe*
 https://vk.com/*porn*
 https://yandex.ru/video
+'*://*hent*/*
+'*://*porn*/*
 ```
 
 ```
