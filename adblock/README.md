@@ -126,6 +126,8 @@
 0.0.0.0 www.hentasis1.top
 0.0.0.0 hentaihaven.com
 0.0.0.0 www.hentaihaven.com
+0.0.0.0 mult-porno.xyz
+0.0.0.0 www.mult-porno.xyz
 ```
 
 ```
