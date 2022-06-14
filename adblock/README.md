@@ -175,7 +175,6 @@ https://yandex.ru/video
 *://*sex*/*
 ```
 
-```
 # News
 ```
 0.0.0.0 www.1tv.ru
