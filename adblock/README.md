@@ -120,6 +120,8 @@
 0.0.0.0 www.aporner.pro
 0.0.0.0 animedesuh.org
 0.0.0.0 www.animedesuh.org
+0.0.0.0 animefox.org
+0.0.0.0 www.animefox.org
 ```
 
 ```
