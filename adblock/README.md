@@ -170,6 +170,8 @@ https://vk.com/*hent*
 https://vk.com/*notsafe*
 https://vk.com/*porn*
 https://yandex.ru/video
+https://yandex.*/search/*porn*
+https://yandex.*/search/*hent*
 *://*hent*/*
 *://*porn*/*
 *://*sex*/*
