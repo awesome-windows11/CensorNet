@@ -33,6 +33,8 @@
 0.0.0.0 *.hl.24video.in
 0.0.0.0 porno365.digital
 0.0.0.0 www.porno365.digital
+0.0.0.0 porno365.plus
+0.0.0.0 www.porno365.plus
 0.0.0.0 porno365.digital
 0.0.0.0 porno365.bet
 0.0.0.0 www.porno365.bet
