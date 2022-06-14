@@ -140,6 +140,7 @@ https://vk.com/*porn*
 https://yandex.ru/video
 *://*hent*/*
 *://*porn*/*
+*://*sex*/*
 ```
 
 ```
