@@ -73,6 +73,8 @@
 0.0.0.0 www.porno365.org
 0.0.0.0 sex-studentki.fun
 0.0.0.0 www.sex-studentki.fun
+0.0.0.0 prostoporno.skin
+0.0.0.0 www.prostoporno.skin
 0.0.0.0 porno365.bet
 0.0.0.0 www.porno365.bet
 0.0.0.0 m-xvideos.com
