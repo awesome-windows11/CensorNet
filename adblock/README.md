@@ -122,11 +122,8 @@
 
 ```
 https://vk.com/*henta*
-Optional redirect URL
 https://vk.com/*hent*
-Optional redirect URL
 https://vk.com/*notsafe*
-Optional redirect URL
 https://vk.com/*porn*
 ```
 
