@@ -119,6 +119,18 @@
 0.0.0.0 aporner.pro
 0.0.0.0 www.aporner.pro
 ```
+
+```
+https://vk.com/*henta*
+Optional redirect URL
+https://vk.com/*hent*
+Optional redirect URL
+https://vk.com/*notsafe*
+Optional redirect URL
+https://vk.com/*porn*
+```
+
+```
 # News
 ```
 0.0.0.0 www.1tv.ru
