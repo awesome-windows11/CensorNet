@@ -168,6 +168,8 @@ Element.io | https://element.io/get-started
 <br>
 🔐 PrivacyToolsList | https://privacytoolslist.com
 <br>
+🔐 PrivacyTests https://privacytests.org/private.html
+<br>
 🔐 Electronic Frontier Foundation | https://ssd.eff.org
 <br>
 🤵 Персональный ассистент по безопасности | https://securno.org
