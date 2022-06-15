@@ -121,6 +121,8 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 Android в Android | https://www.vmos.com
 <br>
 Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
+<br>
+ExtPassword | https://www.nirsoft.net/utils/external_drive_password_recovery.html
 
 <h2 align="center">Sites</h2>
 
