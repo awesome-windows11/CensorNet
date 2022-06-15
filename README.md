@@ -105,7 +105,10 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 <br>
 💬 Приватные СМС | https://ots.sniptt.com
 <br>
+💬 Приватные СМС | https://sendsecure.ly
+<br>
 📝 Приватные заметки | https://privatebin.net
+
 
 <h2 align="center">Apps</h2>
 
