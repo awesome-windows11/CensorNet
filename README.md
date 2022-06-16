@@ -162,6 +162,13 @@ Element.io | https://element.io/get-started
 <br>
 Стоит ли удалять программу? | https://www.shouldiremoveit.com
 
+<h2 align="center">🎨 Design</h2>
+https://tweet.pics
+<br>
+https://pika.style
+<br>
+https://www.brandbird.app/studio
+
 <h2 align="center">📚 Guides</h2>
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 <br>
