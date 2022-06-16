@@ -158,8 +158,9 @@ Element.io | https://element.io/get-started
 <br>
 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
 <br>
-🖥 Мощность ПК | https://technical.city/ru/rate-my-pc |
-
+🖥 Мощность ПК | https://technical.city/ru/rate-my-pc
+<br>
+Стоит ли удалять программу? | https://www.shouldiremoveit.com
 
 <h2 align="center">📚 Guides</h2>
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
