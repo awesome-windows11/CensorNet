@@ -186,6 +186,8 @@ https://www.brandbird.app/studio
 <br>
 🤵 Персональный ассистент по безопасности | https://securno.org
 <br>
+🔐 Курс по анонимности и безопасности в сети |  https://book.cyberyozh.com/ru
+<br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
 <h2 align="center">📲 Phone Security</h2>
