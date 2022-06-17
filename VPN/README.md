@@ -24,11 +24,11 @@ unn.com.ua
 www.unn.com.ua
 news.obozrevatel.com
 obozrevatel.com
+theins.ru
 ### Other
 rutracker.org
 protonmail.com
 *.protonmail.com
-voices.com
 ### Сайты закрывшие доступ РФ пользователям
 *.pixabay.com
 www.voices.com
