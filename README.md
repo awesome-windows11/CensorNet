@@ -61,7 +61,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 Заходить без VPN 3 | https://proxyium.com
 <br>
-Заходить без VPN 4 | https://www.croxyproxy.rocks/
+Заходить без VPN 4 | https://www.croxyproxy.rocks
 <br>
 StartPage поиск | https://startpage.com 
 <br>
