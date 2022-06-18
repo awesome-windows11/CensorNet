@@ -57,6 +57,8 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 Заходить без VPN | https://jahproxy.pro
 <br>
+Заходить без VPN 2 | https://www.proxfree.com
+<br>
 StartPage поиск | https://startpage.com 
 <br>
 ЦензорТрекер | https://censortracker.org
