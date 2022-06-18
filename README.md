@@ -103,6 +103,8 @@ Net Healer | https://net-healer.com
 <br>
 🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
 <br>
+🔑 Шифрование Cryptomator | https://github.com/cryptomator/cryptomator
+<br>
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 <br>
 💬 Приватные СМС | https://privnote.com
