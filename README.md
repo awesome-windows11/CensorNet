@@ -63,6 +63,8 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 Заходить без VPN 4 | https://www.croxyproxy.rocks
 <br>
+Заходить без VPN 5 | https://hide.me/ru/proxy
+<br>
 StartPage поиск | https://startpage.com 
 <br>
 ЦензорТрекер | https://censortracker.org
