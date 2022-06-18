@@ -178,6 +178,8 @@ https://tweet.pics
 https://pika.style
 <br>
 https://www.brandbird.app/studio
+<br>
+https://screenstab.com/editor
 
 <h2 align="center">📚 Guides</h2>
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
