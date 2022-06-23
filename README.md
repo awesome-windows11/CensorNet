@@ -215,6 +215,8 @@ InviZible | https://github.com/Gedsh/InviZible
 💥 Hard Reset | https://github.com/x13a/Wasted
 <br>
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
+<br>
+🚔 Duress | http://play.google.com/store/apps/details?id=me.lucky.duress
 
 <h2 align="center">🔐 Leaks</h2>
 
