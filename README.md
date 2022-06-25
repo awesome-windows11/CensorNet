@@ -92,6 +92,8 @@ LetsVpn | https://letsvpn.world/?hl=ru
 VPN список | https://vpnlove.me
 <br>
 Net Healer | https://net-healer.com
+<br>
+SkyVPN | https://www.skyvpn.net
 
 <h2 align="center">🔑 Encryption</h2>
 
