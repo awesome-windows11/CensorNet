@@ -168,6 +168,8 @@ Element.io | https://element.io/get-started
 <br>
 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 <br>
+🧹 Очистить метаданные 2 | https://gitlab.com/rmnvgr/metadata-cleaner
+<br>
 💥 Сломать документ | https://corrupt-a-file.net
 <br>
 🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
