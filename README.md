@@ -206,6 +206,8 @@ https://screenstab.com/editor
 <br>
 Гайд по безопасности и анонимности в сети от ТМ. | https://vk.com/@scamersant-gaid-po-bezopasnosti-i-anonimnosti-v-seti-ot-tm
 <br>
+ufolabs | https://ufolabs.net/categories/informacionnaja-bezopasnost.18
+<br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
 <h2 align="center">📲 Phone Security</h2>
