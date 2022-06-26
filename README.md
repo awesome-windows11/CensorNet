@@ -202,6 +202,8 @@ https://screenstab.com/editor
 <br>
 🔐 Курс по анонимности и безопасности в сети |  https://book.cyberyozh.com/ru
 <br>
+🔐 Personal Security Checklist | https://github.com/Lissy93/personal-security-checklist
+<br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
 <h2 align="center">📲 Phone Security</h2>
