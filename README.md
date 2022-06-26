@@ -95,6 +95,10 @@ Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
 
+<h2 align="center">🔗 File Share</h2>
+
+<img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
+
 <h2 align="center">🔑 Encryption</h2>
 
 🔑 Create HASH | http://www.hashemall.com
