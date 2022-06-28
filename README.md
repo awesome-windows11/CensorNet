@@ -99,6 +99,8 @@ SkyVPN | https://www.skyvpn.net
 
 <img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
 
+<img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
+
 <h2 align="center">🔑 Encryption</h2>
 
 🔑 Create HASH | http://www.hashemall.com
