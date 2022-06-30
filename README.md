@@ -225,6 +225,8 @@ ufolabs | https://ufolabs.net/categories/informacionnaja-bezopasnost.18
 <br>
 DeGoogle | https://github.com/tycrek/degoogle
 <br>
+https://spy-soft.net
+<br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
 <h2 align="center">📲 Phone Security</h2>
