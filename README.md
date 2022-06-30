@@ -107,6 +107,8 @@ SkyVPN | https://www.skyvpn.net
 <br>
 🔑 Decrypt HASH | https://crackstation.net
 <br>
+🔑 Шифрование Hat.sh | https://github.com/sh-dv/hat.sh
+<br>
 🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
 <br>
 🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
