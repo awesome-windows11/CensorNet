@@ -94,6 +94,8 @@ VPN список | https://vpnlove.me
 Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
+<br>
+CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔗 File Share</h2>
 
