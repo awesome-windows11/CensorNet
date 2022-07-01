@@ -193,6 +193,13 @@ Element.io | https://element.io/get-started
 <br>
 Стоит ли удалять программу? | https://www.shouldiremoveit.com
 
+<h2 align="center">🔇 Stop Fake</h2>
+https://stopfake.kz
+<br>
+https://factcheck.kz
+<br>
+https://xn--90aivcdt6dxbc.xn--p1ai/articles/stopfake
+
 <h2 align="center">🎨 Design</h2>
 https://tweet.pics
 <br>
