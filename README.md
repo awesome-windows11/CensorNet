@@ -198,7 +198,9 @@ https://stopfake.kz
 <br>
 https://factcheck.kz
 <br>
-https://объясняем.рф/articles/stopfake
+https://xn--90aivcdt6dxbc.xn--p1ai/articles/stopfake
+<br>
+https://www.stopfake.org
 
 <h2 align="center">🎨 Design</h2>
 https://tweet.pics
