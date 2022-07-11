@@ -103,6 +103,8 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 <br>
 <img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
 
+Pass
+
 <h2 align="center">🔑 Encryption</h2>
 
 🔑 Create HASH | http://www.hashemall.com
