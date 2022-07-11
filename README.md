@@ -99,6 +99,8 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔑 Pass</h2>
 
+LessPass | https://www.lesspass.com
+<br>
 2FA winauth | https://github.com/winauth/winauth
 
 <h2 align="center">🛡 Encryption</h2>
