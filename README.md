@@ -101,7 +101,7 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 2FA winauth | https://github.com/winauth/winauth
 
-<h2 align="center">🔑 Encryption</h2>
+<h2 align="center">🛡 Encryption</h2>
 
 🔑 Create HASH | http://www.hashemall.com
 <br>
