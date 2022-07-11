@@ -97,13 +97,9 @@ SkyVPN | https://www.skyvpn.net
 <br>
 CENO browser | https://github.com/censorship-no/ceno-browser
 
-<h2 align="center">🔗 File Share</h2>
+<h2 align="center">🔑 Pass</h2>
 
-<img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
-<br>
-<img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
-
-Pass
+2FA winauth | https://github.com/winauth/winauth
 
 <h2 align="center">🔑 Encryption</h2>
 
@@ -140,6 +136,12 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 💬 Приватные СМС и Файлы | https://cryptgeon.nicco.io
 <br>
 💬 Приватные СМС | https://0bin.net
+
+<h2 align="center">🔗 File Share</h2>
+
+<img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
+<br>
+<img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
 
 <h2 align="center">Apps</h2>
 
