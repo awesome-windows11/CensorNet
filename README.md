@@ -101,7 +101,6 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 LessPass | https://www.lesspass.com
 <br>
-<br>
 https://authy.com
 <br>
 2FA winauth | https://github.com/winauth/winauth
