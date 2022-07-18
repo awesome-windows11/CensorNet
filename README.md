@@ -204,6 +204,10 @@ Element.io | https://element.io/get-started
 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc
 <br>
 Стоит ли удалять программу? | https://www.shouldiremoveit.com
+<br>
+✍️ Текст в рукопись | https://handwrittner.com
+<br> 
+✍️ Текст в рукопись | https://hand-text.ru
 
 <h2 align="center">🔇 Stop Fake</h2>
 https://stopfake.kz
