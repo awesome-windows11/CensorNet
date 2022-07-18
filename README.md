@@ -166,6 +166,8 @@ ExtPassword | https://www.nirsoft.net/utils/external_drive_password_recovery.htm
 MultiLogin Accounts | https://github.com/getferdi/ferdi
 <br>
 Телеграм с двойным дном | https://postufgram.com
+<br>
+Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 
 <h2 align="center">Sites</h2>
 
