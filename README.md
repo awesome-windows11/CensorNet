@@ -99,11 +99,11 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔑 Pass</h2>
 
-<img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://Bitwarden.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://KeePassXC.org
+<img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://keepassxc.org
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://LessPass.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://lesspass.com
 
 <h2 align="center">2FA</h2> 
 
