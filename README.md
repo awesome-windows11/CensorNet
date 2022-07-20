@@ -99,15 +99,17 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔑 Pass</h2>
 
-<img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> Bitwarden | https://bitwarden.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> KeePassXC | https://keepassxc.org
+<img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://keepassxc.org
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> LessPass | https://www.lesspass.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://www.lesspass.com
+
+<h2 align="center">2FA</h2> 
+
+<img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> 2FA Authy | https://authy.com
-<br>
-<img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> 2FA winauth | https://github.com/winauth/winauth
+<img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
 
 <h2 align="center">🛡 Encryption</h2>
 
