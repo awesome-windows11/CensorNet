@@ -99,7 +99,7 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔑 Pass</h2>
 
-Bitwarden | https://bitwarden.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> Bitwarden | https://bitwarden.com
 <br>
 KeePassXC | https://keepassxc.org
 <br>
