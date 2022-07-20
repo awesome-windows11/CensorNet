@@ -103,7 +103,7 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://keepassxc.org
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://www.lesspass.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://lesspass.com
 
 <h2 align="center">2FA</h2> 
 
