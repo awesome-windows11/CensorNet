@@ -101,7 +101,7 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> Bitwarden | https://bitwarden.com
 <br>
-KeePassXC | https://keepassxc.org
+<img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> KeePassXC | https://keepassxc.org
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> LessPass | https://www.lesspass.com
 <br>
