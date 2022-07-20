@@ -99,6 +99,10 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h2 align="center">🔑 Pass</h2>
 
+Bitwarden | https://bitwarden.com
+<br>
+KeePassXC | https://keepassxc.org
+<br>
 LessPass | https://www.lesspass.com
 <br>
 2FA Authy | https://authy.com
