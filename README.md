@@ -103,7 +103,7 @@ Bitwarden | https://bitwarden.com
 <br>
 KeePassXC | https://keepassxc.org
 <br>
-LessPass | https://www.lesspass.com
+<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> LessPass | https://www.lesspass.com
 <br>
 2FA Authy | https://authy.com
 <br>
