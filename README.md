@@ -107,7 +107,7 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> 2FA Authy | https://authy.com
 <br>
-2FA winauth | https://github.com/winauth/winauth
+<img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> 2FA winauth | https://github.com/winauth/winauth
 
 <h2 align="center">🛡 Encryption</h2>
 
