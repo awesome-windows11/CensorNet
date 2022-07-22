@@ -163,8 +163,6 @@ https://github.com/timvisee/send-instances
 <br>
 Браузер Тор | https://tor.invidious.site/ru/download
 <br>
-Android в Android | https://www.vmos.com
-<br>
 Приём SMS в Telegram | https://f-droid.org/packages/com.github.igrmk.smsq
 <br>
 ExtPassword | https://www.nirsoft.net/utils/external_drive_password_recovery.html
@@ -174,6 +172,8 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 Телеграм с двойным дном | https://postufgram.com
 <br>
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
+<br>
+Android в Android | https://www.vmos.com
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android ADB Cleaner | https://github.com/0x192/universal-android-debloater
 
