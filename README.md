@@ -139,13 +139,13 @@ https://ots.sniptt.com
 <br>
 https://sendsecure.ly
 <br>
-ttps://privatebin.net
+https://privatebin.net
 <br>
 https://secserv.me
 <br>
 https://snote.io
 <br>
-💬 Приватные СМС и Файлы | https://cryptgeon.nicco.io
+https://cryptgeon.nicco.io
 <br>
 https://0bin.net
 
