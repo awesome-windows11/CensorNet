@@ -175,6 +175,8 @@ Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 <br>
 Android в Android | https://www.vmos.com
 <br>
+<img width=20px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
+<br>
 <img width=20px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android ADB Cleaner | https://github.com/0x192/universal-android-debloater
 
 <h2 align="center">Sites</h2>
