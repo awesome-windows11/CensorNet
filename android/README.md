@@ -27,6 +27,12 @@ HwChrService
 
 Huawei Запись истории вызовов. 
 
+### com.huawei.android.FloatTasks" 
+Floating dock function.
+
+https://consumer.huawei.com/en/support/how-to/detail-troubleshooting/en-us00310067/
+
+
 ---
 
 https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
