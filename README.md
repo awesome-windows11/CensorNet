@@ -175,7 +175,7 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 <br>
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 <br>
-Android ADB Cleaner | https://github.com/0x192/universal-android-debloater
+<img width=20px src="https://site-iota-coral.vercel.app/censor/android.png"></img> Android ADB Cleaner | https://github.com/0x192/universal-android-debloater
 
 <h2 align="center">Sites</h2>
 
