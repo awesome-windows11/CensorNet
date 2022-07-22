@@ -119,12 +119,6 @@ HwUE (Huawei UserExperience)
 
 Имеет красивое пользовательское разрешение com.huawei.permission.BIG_DATA
 
-<h3 align="center">com.huawei.bluetooth</h3>
-
-Позволяет импортировать контакты через Bluetooth
-
-Bluetooth будет работать, если вы удалите этот пакет.
-
 <h3 align="center">com.huawei.browser</h3>
 
 Huawei Browser app
@@ -225,17 +219,23 @@ HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 
 Huawei cloud features
 
+<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200">Import via Bluetooth (com.huawei.bluetooth) ✔</h3>
+
+Позволяет импортировать контакты через Bluetooth
+<br>
+Bluetooth будет работать, если вы удалите этот пакет.
+
 <h3 align="center"><img width=30px src="https://img.utdstc.com/icon/330/5ef/3305ef3468438429dd78e582df3b1e2ad6ec027caa7143faf84e5c358152103d:200"> Smart diagnosis (com.huawei.hwdetectrepair) ✔</h3>
 
 Диагностика Huawei Smart (https://play.google.com/store/apps/details?id=com.huawei.hwdetectrepair)
-
+<br>
 Бесполезные функции и работа в фоновом режиме.
 
 
 <h3 align="center"><img width=30px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> AppAdvisor (com.huawei.hifolder) ✔</h3>
 
 Huawei Online Cloud folder service
-
+<br>
 Простыми словами — данная программ просто предложит вам загрузить приложения, которые вероятно вам могут быть интересны. Нет необходимости их искать вручную. То есть программа сама порекомендует вам приложения, которые считает что будут вам интересны.
 
 <h3 align="center">com.huawei.himovie.overseas</h3>
