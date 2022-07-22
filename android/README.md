@@ -1,19 +1,19 @@
-### com.android.keyguard
+<h3 align="center"> com.android.keyguard </h3>
 Разблокировка журнала HUAWEI (Название пакета действительно запутанное)
 
 Это проприетарное приложение, основанное на пакете AOSP под названием `com.android.keyguard`. Это совсем не умно.
 
 Позволяет настраивать обои для экрана блокировки.
 
-### com.android.hwmirror
+<h3 align="center"> com.android.hwmirror </h3>
 Позволяет использовать телефон в качестве зеркала...
 
-### com.baidu.input_huawei
+<h3 align="center"> com.baidu.input_huawei </h3>
 Woh! 51 разрешение! 
 
 Huawei китайская стоковая клавиатура ввода.
 
-### com.hicloud.android.clone
+<h3 align="center"> com.hicloud.android.clone </h3>
 Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)
 
 171 Permissions (https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest)
