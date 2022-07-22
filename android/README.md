@@ -7,3 +7,7 @@
 
 ### com.android.hwmirror
 Позволяет использовать телефон в качестве зеркала...
+
+---
+
+https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
