@@ -36,3 +36,7 @@ https://consumer.huawei.com/en/support/how-to/detail-troubleshooting/en-us003100
 ---
 
 https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
+<br>
+https://forum.xda-developers.com/honor-6x/how-to/guide-list-bloat-software-emui-safe-to-t3700814
+<br>
+https://forum.xda-developers.com/t/p40-pro-debloating-guide.4088633
