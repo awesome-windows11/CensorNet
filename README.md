@@ -261,6 +261,8 @@ DeGoogle | https://github.com/tycrek/degoogle
 <br>
 https://spy-soft.net
 <br>
+https://mipped.com/f/forums/poleznoe
+<br>
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 
 <h2 align="center">📲 Phone Security</h2>
