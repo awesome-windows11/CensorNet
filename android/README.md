@@ -16,7 +16,7 @@ Huawei китайская стоковая клавиатура ввода.
 ### com.hicloud.android.clone
 Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)
 
-171 Permissions (https://reports.exodus-privacy.eu.org/fr/reports/144565/)
+171 Permissions (https://reports.exodus-privacy.eu.org/reports/144565/)
 
 Приложение для миграции данных между телефонами Huawei.
 
