@@ -31,7 +31,19 @@ Huawei Запись истории вызовов.
 
 Функция плавучего дока
 
-https://consumer.huawei.com/en/support/how-to/detail-troubleshooting/en-us00310067/
+<h3 align="center"> com.huawei.android.hsf </h3>
+
+Huawei Services Framework
+
+3 разрешения : DELETE_PACKAGES, INSTALL_PACKAGES, PACKAGE_USAGE_STATS
+
+Безопасное удаление по мнению пользователей huawei
+
+<h3 align="center">com.huawei.android.hwpay</h3>
+
+Huawei Pay
+
+Сервис мобильных платежей и электронных кошельков для устройств Huawei, который предлагает те же услуги, что и Apple Pay, Samsung Pay и т.д....
 
 
 ---
