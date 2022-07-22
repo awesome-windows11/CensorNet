@@ -126,7 +126,9 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 🔑 Шифрование Cryptomator | https://github.com/cryptomator/cryptomator
 <br>
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
-<br>
+
+<h2 align="center">📝 Notes</h2>
+
 💬 Приватные СМС | https://privnote.com
 <br>
 💬 Приватные СМС | https://wipenote.io
