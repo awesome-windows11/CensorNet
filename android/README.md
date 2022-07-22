@@ -232,7 +232,7 @@ Huawei cloud features
 Бесполезные функции и работа в фоновом режиме.
 
 
-<h3 align="center"><img width=30px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> com.huawei.hifolder ✔</h3>
+<h3 align="center"><img width=30px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> AppAdvisor (com.huawei.hifolder) ✔</h3>
 
 Huawei Online Cloud folder service
 
