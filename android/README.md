@@ -22,12 +22,12 @@ Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.an
 
 Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
 
-### com.huawei.android.chr
+<h3 align="center"> com.huawei.android.chr </h3>
 HwChrService
 
 Huawei Запись истории вызовов. 
 
-### com.huawei.android.FloatTasks
+<h3 align="center"> com.huawei.android.FloatTasks </h3>
 
 Функция плавучего дока
 
