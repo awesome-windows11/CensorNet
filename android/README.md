@@ -219,7 +219,7 @@ HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 
 Huawei cloud features
 
-<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200">Import via Bluetooth (com.huawei.bluetooth) ✔</h3>
+<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200"> Import via Bluetooth (com.huawei.bluetooth) ✔</h3>
 
 Позволяет импортировать контакты через Bluetooth
 <br>
