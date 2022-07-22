@@ -22,6 +22,11 @@ Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.an
 
 Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
 
+### com.huawei.android.chr
+HwChrService
+
+Huawei Запись истории вызовов. 
+
 ---
 
 https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
