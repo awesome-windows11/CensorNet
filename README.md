@@ -182,6 +182,8 @@ Android в Android | https://www.vmos.com
 ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
 <br>
 ADB Cleaner | https://github.com/0x192/universal-android-debloater
+<br>
+Havoc-OS | https://havoc-os.com
 
 <h2 align="center">Sites</h2>
 
