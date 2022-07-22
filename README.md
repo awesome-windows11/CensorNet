@@ -129,25 +129,25 @@ USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Dow
 
 <h2 align="center">📝 Notes</h2>
 
-💬 Приватные СМС | https://privnote.com
+https://privnote.com
 <br>
-💬 Приватные СМС | https://wipenote.io
+https://wipenote.io
 <br>
-💬 Приватные СМС | https://onetimesecret.com
+https://onetimesecret.com
 <br>
-💬 Приватные СМС | https://ots.sniptt.com
+https://ots.sniptt.com
 <br>
-💬 Приватные СМС | https://sendsecure.ly
+https://sendsecure.ly
 <br>
-📝 Приватные заметки | https://privatebin.net
+ttps://privatebin.net
 <br>
-💬 Приватные СМС | https://secserv.me
+https://secserv.me
 <br>
-💬 Приватные СМС | https://snote.io
+https://snote.io
 <br>
 💬 Приватные СМС и Файлы | https://cryptgeon.nicco.io
 <br>
-💬 Приватные СМС | https://0bin.net
+https://0bin.net
 
 <h2 align="center">🔗 File Share</h2>
 
