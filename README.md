@@ -175,7 +175,7 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 <br>
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 
-<h2 align="center"><img width=20px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
+<h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
 Android в Android | https://www.vmos.com
 <br>
