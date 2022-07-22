@@ -225,6 +225,13 @@ HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 
 Huawei cloud features
 
+<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/330/5ef/3305ef3468438429dd78e582df3b1e2ad6ec027caa7143faf84e5c358152103d:200"> Smart diagnosis (com.huawei.hwdetectrepair) ✔</h3>
+
+Диагностика Huawei Smart (https://play.google.com/store/apps/details?id=com.huawei.hwdetectrepair)
+
+Бесполезные функции и работа в фоновом режиме.
+
+
 <h3 align="center"><img width=30px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> com.huawei.hifolder ✔</h3>
 
 Huawei Online Cloud folder service
@@ -252,12 +259,6 @@ FIDO UAF Autenthicator-Specific Module.
 <h3 align="center">com.huawei.hwblockchain</h3>
 
 возможно, связанные с блокчейном, без заметных последствий
-
-<h3 align="center">com.huawei.hwdetectrepair</h3>
-
-Диагностика Huawei Smart (https://play.google.com/store/apps/details?id=com.huawei.hwdetectrepair)
-
-Бесполезные функции и работа в фоновом режиме.
 
 <h3 align="center">com.huawei.HwMultiScreenShot</h3>
 
@@ -416,7 +417,7 @@ IFLytek была замешана в нарушениях прав челове�
 
 Вы должны иметь возможность устанавливать обои без него. Кто-нибудь может проверить?
 
-<h3 align="center">Huawei share (com.huawei.android.internal.app) ❌</h3>
+<h3 align="center">Huawei Share (com.huawei.android.internal.app) ❌</h3>
 
 Компонент совместного использования Huawei. Я прочитал, что кто-то сказал: "Не удаляйте, иначе вы не сможете отправлять файлы в приложения".
 
