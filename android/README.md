@@ -64,15 +64,6 @@ Huawei Pay
 
 Используется для зеркального отображения экрана смартфона на телевизоре.
 
-
-<h3 align="center">com.huawei.android.pushagent</h3>
-
-агент push-уведомлений
-
-Похоже, что используется только для приложений Huawei.
-
-Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
-
 <h3 align="center">com.huawei.android.remotecontroller</h3>
 
 Приложение uawei Smart Controller.
@@ -218,6 +209,14 @@ HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 <h3 align="center">com.huawei.hicloud</h3>
 
 Huawei cloud features
+
+<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200"> Push Service (com.huawei.android.pushagent) ✔</h3>
+
+Агент push-уведомлений
+<br>
+Похоже, что используется только для приложений Huawei.
+<br>
+Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
 
 <h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200"> Import via Bluetooth (com.huawei.bluetooth) ✔</h3>
 
