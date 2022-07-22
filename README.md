@@ -201,9 +201,9 @@ Element.io | https://element.io/get-started
 <br>
 Блокировка hosts 2 | https://github.com/StevenBlack/hosts
 <br>
-Спрятать текст в картинку | https://futureboy.us/stegano
+Стенография текст в картинку | https://futureboy.us/stegano
 <br>
-Спрятать текст в текст | https://stegcloak.surge.sh
+Стенография текст в текст | https://stegcloak.surge.sh
 <br>
 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 <br>
