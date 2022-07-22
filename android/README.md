@@ -225,7 +225,7 @@ HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 
 Huawei cloud features
 
-<h3 align="center"><img width=20px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> ✔ com.huawei.hifolder</h3>
+<h3 align="center"><img width=20px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> com.huawei.hifolder ✔</h3>
 
 Huawei Online Cloud folder service
 
