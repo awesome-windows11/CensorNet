@@ -8,6 +8,11 @@
 ### com.android.hwmirror
 Позволяет использовать телефон в качестве зеркала...
 
+### com.baidu.input_huawei
+Woh! 51 разрешение! 
+
+Huawei китайская стоковая клавиатура ввода.
+
 ---
 
 https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
