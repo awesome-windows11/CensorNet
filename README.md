@@ -158,6 +158,8 @@ https://0bin.net
 https://github.com/timvisee/send-instances
 <br>
 https://upload.disroot.org
+<br>
+Text Share | https://tlk.io
 
 <h2 align="center">Apps</h2>
 
