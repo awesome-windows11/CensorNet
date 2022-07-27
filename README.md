@@ -13,20 +13,6 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h2 align="center">📰 News</h2>
-
-РоскомСвобода | https://roskomsvoboda.org
-<br>
-Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
-<br>
-Twitter | https://nitter.net
-<br>
-🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
-<br>
-📰 Wired Security | https://www.wired.com/category/security
-<br>
-📰 TheTinHat | https://thetinhat.com/index.html
-
 <h2 align="center">❓ Check for block</h2>
 
 GlobalCheck | https://globalcheck.net/ru/monitoring/ru
@@ -231,14 +217,20 @@ Element.io | https://element.io/get-started
 <br> 
 ✍️ Текст в рукопись | https://hand-text.ru
 
-<h2 align="center">🔇 Stop Fake</h2>
-https://stopfake.kz
+
+<h2 align="center">📰 News</h2>
+
+РоскомСвобода | https://roskomsvoboda.org
 <br>
-https://factcheck.kz
+Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 <br>
-https://xn--90aivcdt6dxbc.xn--p1ai/articles/stopfake
+Twitter | https://nitter.net
 <br>
-https://www.stopfake.org
+🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
+<br>
+📰 Wired Security | https://www.wired.com/category/security
+<br>
+📰 TheTinHat | https://thetinhat.com/index.html
 
 <h2 align="center">📚 Guides</h2>
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
@@ -315,6 +307,15 @@ InviZible | https://github.com/Gedsh/InviZible
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
 <br>
 Проверить уникальность расширений | https://z0ccc.github.io/extension-fingerprints
+
+<h2 align="center">🔇 Stop Fake</h2>
+https://stopfake.kz
+<br>
+https://factcheck.kz
+<br>
+https://xn--90aivcdt6dxbc.xn--p1ai/articles/stopfake
+<br>
+https://www.stopfake.org
 
 [архив](https://www.google.com/search?newwindow=1&client=ms-android-huawei&sxsrf=APq-WBtb39ELR0WIfWuTG2PGj9E6of7SAw:1646724219424&q=VPNify+-+Unlimited+Fast+VPN&si=ANhW_NoJ2qnokM-_T1OcSbqtuEZwAV8ODco_30MwEyRWOUwArx4Aqw_cTIoawlpAHdMIEkDi6QIGf3bh6g7c_dZSF-yCPjNgZPr2SibLpSrh9SF3ODpMtPGuXGmoLG-FLc8DFWAKXE8sAjpSmA_rCE5m01KCdlH_ItrdatZQP_EM1lMw2c5RinJjhPCYSanvNagvIQYDB-cvu2JOkSurwFBENcUvodA2OpUT8W-YcetGkGwkDKT9Nokr0U7afKWh1Koh46aRoytmF1Mjyv-fZZpQGke21hab-kOHrkvLMBXi-gH8yqs4U06gOywKC4se26RMNTpBQsKTglf5FWf0Kk7NQwPbdHKtDw%3D%3D&sa=X&ved=2ahUKEwjEyJDh_bX2AhXGEcAKHY5OA-YQgOQBegQIFRAE&biw=424&bih=782&dpr=2.55)
 
