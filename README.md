@@ -219,6 +219,9 @@ Element.io | https://element.io/get-started
 <br> 
 ✍️ Текст в рукопись | https://hand-text.ru
 
+<h2 align="center">🔓 File Hack</h2>
+
+[PassFab](https://github.com/jestxfot/ZapretNet/releases/download/1.0/PassFab.for.RAR.9.5.1.4.zip)
 
 <h2 align="center">📰 News</h2>
 
