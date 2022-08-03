@@ -35,6 +35,8 @@ https://amiunique.org/fp
 <br>
 CloudFlare | ⛔ https://1.1.1.1
 <br>
+CloudFlare | https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
+<br>
 Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 <br>
 VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
