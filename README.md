@@ -275,7 +275,8 @@ https://mipped.com/f/forums/poleznoe
 📚 DOXA | ⛔‍ https://doxajournal.ru/shutdown_guide
 <br>
 https://github.com/aviaryan/awesome-no-login-web-apps
-
+<br>
+https://github.com/sbilly/awesome-security
 
 <h2 align="center">📲 Phone Security</h2>
 
