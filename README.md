@@ -277,6 +277,9 @@ https://mipped.com/f/forums/poleznoe
 https://github.com/aviaryan/awesome-no-login-web-apps
 <br>
 https://github.com/sbilly/awesome-security
+<br>
+https://ghostbase.net/tag/bezopasnost
+
 
 <h2 align="center">📲 Phone Security</h2>
 
