@@ -324,6 +324,8 @@ https://github.com/Divested-Mobile/extirpater
 Проверить уникальность расширений | https://z0ccc.github.io/extension-fingerprints
 <br>
 РоскомСвобода | https://safe.roskomsvoboda.org
+<br>
+https://passwordbits.com
 
 <h2 align="center">🔇 Stop Fake</h2>
 https://stopfake.kz
