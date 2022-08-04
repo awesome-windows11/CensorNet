@@ -258,6 +258,8 @@ Twitter | https://nitter.net
 <br>
 🔐 Personal Security Checklist | https://github.com/Lissy93/personal-security-checklist
 <br>
+🔐 Awesome Privacy | https://github.com/Lissy93/awesome-privacy
+<br>
 Гайд по безопасности и анонимности в сети от ТМ. | https://vk.com/@scamersant-gaid-po-bezopasnosti-i-anonimnosti-v-seti-ot-tm
 <br>
 ufolabs | https://ufolabs.net/categories/informacionnaja-bezopasnost.18
