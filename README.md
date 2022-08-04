@@ -290,6 +290,8 @@ InviZible | https://github.com/Gedsh/InviZible
 <br>
 💥 Hard Reset | https://github.com/x13a/Wasted
 <br>
+https://github.com/Divested-Mobile/extirpater
+<br>
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 <br>
 🚔 Duress | http://play.google.com/store/apps/details?id=me.lucky.duress
