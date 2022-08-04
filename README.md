@@ -171,6 +171,8 @@ Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 
 <h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
+Apps List | https://github.com/LinuxCafeFederation/awesome-android
+<br>
 Android в Android | https://www.vmos.com
 <br>
 ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
