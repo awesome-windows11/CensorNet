@@ -229,8 +229,6 @@ Element.io | https://element.io/get-started
 
 <h2 align="center">📰 News</h2>
 
-РоскомСвобода | https://roskomsvoboda.org
-<br>
 Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
 <br>
 Twitter | https://nitter.net
@@ -324,6 +322,8 @@ https://github.com/Divested-Mobile/extirpater
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
 <br>
 Проверить уникальность расширений | https://z0ccc.github.io/extension-fingerprints
+<br>
+РоскомСвобода | https://safe.roskomsvoboda.org
 
 <h2 align="center">🔇 Stop Fake</h2>
 https://stopfake.kz
