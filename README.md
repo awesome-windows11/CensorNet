@@ -107,6 +107,8 @@ copy /b 1.jpg + 1.zip 2.jpg
 
 <img width=20px src="https://raw.githubusercontent.com/KuroLabs/stegcloak/master/assets/stegCloakIcon.svg"></img> https://github.com/KuroLabs/stegcloak
 <br>
+https://github.com/neatnik/steganographr
+<br>
 🔑 https://emn178.github.io/online-tools
 <br>
 🔑 Create HASH | http://www.hashemall.com
