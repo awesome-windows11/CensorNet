@@ -87,8 +87,20 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
 
-<h2 align="center">🔑 Encryption</h2>
+<h2 align="center">🔑 Encryption (Steganography, Hash)</h2>
 
+Hat.sh | https://github.com/sh-dv/hat.sh
+<br>
+Picocrypt | https://github.com/HACKERALERT/Picocrypt
+<br>
+VeraCrypt | https://github.com/veracrypt/VeraCrypt
+<br>
+Cryptomator | https://github.com/cryptomator/cryptomator
+<br>
+Steganography Text to Image | https://futureboy.us/stegano
+<br>
+Steganography Text to Text | https://stegcloak.surge.sh
+<br>
 🔑 https://emn178.github.io/online-tools
 <br>
 🔑 Create HASH | http://www.hashemall.com
@@ -96,14 +108,6 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 🔑 Decrypt HASH | https://crackstation.net
 <br>
 🔑 Decrypt SHA-1 | https://sha1.gromweb.com
-<br>
-🔑 Шифрование Hat.sh | https://github.com/sh-dv/hat.sh
-<br>
-🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
-<br>
-🔑 Шифрование VeraCrypt | https://github.com/veracrypt/VeraCrypt
-<br>
-🔑 Шифрование Cryptomator | https://github.com/cryptomator/cryptomator
 <br>
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 <br>
@@ -196,10 +200,6 @@ Element.io | https://element.io/get-started
 Блокировка hosts | https://energized.pro
 <br>
 Блокировка hosts 2 | https://github.com/StevenBlack/hosts
-<br>
-Стенография текст в картинку | https://futureboy.us/stegano
-<br>
-Стенография текст в текст | https://stegcloak.surge.sh
 <br>
 🧹 Очистить метаданные | https://www.adarsus.com/en/remove-metadata-online-document-image-video
 <br>
