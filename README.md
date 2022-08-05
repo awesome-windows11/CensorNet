@@ -229,6 +229,8 @@ https://firstpartysimulator.net
 https://inteltechniques.com/logger
 <br>
 https://amiunique.org/fp
+<br>
+https://z0ccc.github.io/extension-fingerprints
 
 <h2 align="center">🔓 File Hack</h2>
 
@@ -327,8 +329,6 @@ https://github.com/Divested-Mobile/extirpater
 💣 Strong Pass | https://security.org
 <br>
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
-<br>
-Проверить уникальность расширений | https://z0ccc.github.io/extension-fingerprints
 <br>
 РоскомСвобода | https://safe.roskomsvoboda.org
 <br>
