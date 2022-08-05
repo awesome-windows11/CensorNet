@@ -13,25 +13,6 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h2 align="center">❓ Check for block</h2>
-
-https://globalcheck.net/ru/monitoring/ru
-<br>
-https://isitblockedinrussia.com
-<br>
-https://downforeveryoneorjustme.com
-<br>
-
-<h2 align="center">👀 Trackers Browser</h2>
-
-https://webkay.robinlinus.com
-<br>
-https://firstpartysimulator.net
-<br>
-https://inteltechniques.com/logger
-<br>
-https://amiunique.org/fp
-
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
 ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
@@ -229,6 +210,25 @@ Element.io | https://element.io/get-started
 ✍️ Текст в рукопись | https://handwrittner.com
 <br> 
 ✍️ Текст в рукопись | https://hand-text.ru
+
+<h2 align="center">❓ Check for block</h2>
+
+https://globalcheck.net/ru/monitoring/ru
+<br>
+https://isitblockedinrussia.com
+<br>
+https://downforeveryoneorjustme.com
+<br>
+
+<h2 align="center">👀 Trackers Browser</h2>
+
+https://webkay.robinlinus.com
+<br>
+https://firstpartysimulator.net
+<br>
+https://inteltechniques.com/logger
+<br>
+https://amiunique.org/fp
 
 <h2 align="center">🔓 File Hack</h2>
 
