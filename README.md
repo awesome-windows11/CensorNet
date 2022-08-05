@@ -21,13 +21,15 @@ https://isitblockedinrussia.com
 <br>
 https://downforeveryoneorjustme.com
 <br>
-Проверить что знает о вас ваш браузер: https://webkay.robinlinus.com
-<br>
-https://firstpartysimulator.net
-<br>
 https://inteltechniques.com/logger
 <br>
 https://amiunique.org/fp
+
+<h2 align="center">❓ Trackers Browser</h2>
+
+https://webkay.robinlinus.com
+<br>
+https://firstpartysimulator.net
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
