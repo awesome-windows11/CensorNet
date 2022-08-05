@@ -15,13 +15,13 @@
 
 <h2 align="center">❓ Check for block</h2>
 
-GlobalCheck | https://globalcheck.net/ru/monitoring/ru
+GlobalCheck: https://globalcheck.net/ru/monitoring/ru
 <br>
-Is It Blocked In Russia? | https://isitblockedinrussia.com
+Is It Blocked In Russia: https://isitblockedinrussia.com
 <br>
-Down for Everyone or Just Me | https://downforeveryoneorjustme.com
+Down for Everyone or Just Me: https://downforeveryoneorjustme.com
 <br>
-Проверить что знает о вас ваш браузер | https://webkay.robinlinus.com
+Проверить что знает о вас ваш браузер: https://webkay.robinlinus.com
 <br>
 https://firstpartysimulator.net
 <br>
