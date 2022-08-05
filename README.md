@@ -269,11 +269,11 @@ Twitter | https://nitter.net
 <br>
 🔐 Awesome Privacy | https://github.com/Lissy93/awesome-privacy
 <br>
-Гайд по безопасности и анонимности в сети от ТМ. | https://vk.com/@scamersant-gaid-po-bezopasnosti-i-anonimnosti-v-seti-ot-tm
+https://vk.com/@scamersant-gaid-po-bezopasnosti-i-anonimnosti-v-seti-ot-tm
 <br>
-ufolabs | https://ufolabs.net/categories/informacionnaja-bezopasnost.18
+https://ufolabs.net/categories/informacionnaja-bezopasnost.18
 <br>
-DeGoogle | https://github.com/tycrek/degoogle
+https://github.com/tycrek/degoogle
 <br>
 https://spy-soft.net
 <br>
@@ -286,6 +286,10 @@ https://github.com/aviaryan/awesome-no-login-web-apps
 https://github.com/sbilly/awesome-security
 <br>
 https://ghostbase.net/tag/bezopasnost
+<br>
+https://safe.roskomsvoboda.org
+<br>
+https://passwordbits.com
 
 
 <h2 align="center">📲 Phone Security</h2>
@@ -329,10 +333,7 @@ https://github.com/Divested-Mobile/extirpater
 💣 Strong Pass | https://security.org
 <br>
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
-<br>
-РоскомСвобода | https://safe.roskomsvoboda.org
-<br>
-https://passwordbits.com
+
 
 <h2 align="center">🔇 Stop Fake</h2>
 https://stopfake.kz
