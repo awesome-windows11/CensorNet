@@ -93,6 +93,8 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 🔑 Decrypt HASH | https://crackstation.net
 <br>
+🔑 Decrypt SHA-1 | https://sha1.gromweb.com
+<br>
 🔑 Шифрование Hat.sh | https://github.com/sh-dv/hat.sh
 <br>
 🔑 Шифрование Picocrypt | https://github.com/HACKERALERT/Picocrypt
@@ -202,8 +204,6 @@ Element.io | https://element.io/get-started
 🧹 Очистить метаданные 2 | https://gitlab.com/rmnvgr/metadata-cleaner
 <br>
 💥 Сломать документ | https://corrupt-a-file.net
-<br>
-🔐 Расшифровать хэш SHA-1 | https://sha1.gromweb.com
 <br>
 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc
 <br>
