@@ -97,7 +97,9 @@ VeraCrypt | https://github.com/veracrypt/VeraCrypt
 <br>
 Cryptomator | https://github.com/cryptomator/cryptomator
 <br>
-Steganography Text to Image | https://futureboy.us/stegano
+```
+сopy /b 1.jpg + 1.zip 1.jpg
+```
 <br>
 Steganography Text to Text | https://stegcloak.surge.sh
 <br>
