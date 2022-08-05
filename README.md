@@ -71,7 +71,7 @@ VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secu
 <br>
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 
-<h2 align="center">🔑 Pass</h2>
+<h2 align="center">🛡 Pass</h2>
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
 <br>
@@ -87,7 +87,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
 
-<h2 align="center">🛡 Encryption</h2>
+<h2 align="center">🔑 Encryption</h2>
 
 🔑 https://emn178.github.io/online-tools
 <br>
