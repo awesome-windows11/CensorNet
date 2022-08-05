@@ -81,7 +81,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 
 <h2 align="center">2FA</h2> 
 
-https://github.com/beemdevelopment/Aegis
+<img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
 <br>
