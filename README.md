@@ -37,12 +37,6 @@ CloudFlare | ⛔ https://1.1.1.1
 <br>
 CloudFlare | https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
 <br>
-Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
-<br>
-VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
-<br>
-Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
-<br>
 Заходить без VPN | https://jahproxy.pro
 <br>
 Заходить без VPN 2 | https://www.proxfree.com
@@ -84,6 +78,14 @@ Net Healer | https://net-healer.com
 SkyVPN | https://www.skyvpn.net
 <br>
 CENO browser | https://github.com/censorship-no/ceno-browser
+
+<h3 align="center">🕵️‍♂️ VPN Android</h3>
+
+Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
+<br>
+VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
+<br>
+Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 
 <h2 align="center">🔑 Pass</h2>
 
