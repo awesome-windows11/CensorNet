@@ -4,7 +4,7 @@
 > <br>
 > https://vk.com/zapret_net
 > <br>
-> [📵 Download for offline use](https://github.com/jestxfot/ZapretNet/archive/refs/heads/main.zip) 
+> [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
 ### Tags:
 ⛔ | Site blocked in Russia
