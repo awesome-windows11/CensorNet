@@ -89,6 +89,8 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 
 <h2 align="center">🛡 Encryption</h2>
 
+🔑 https://emn178.github.io/online-tools
+<br>
 🔑 Create HASH | http://www.hashemall.com
 <br>
 🔑 Decrypt HASH | https://crackstation.net
