@@ -109,6 +109,8 @@ copy /b 1.jpg + 1.zip 2.jpg
 <br>
 https://github.com/neatnik/steganographr
 <br>
+https://paranoiaworks.mobi/ptepc
+<br>
 🔑 https://emn178.github.io/online-tools
 <br>
 🔑 Create HASH | http://www.hashemall.com
