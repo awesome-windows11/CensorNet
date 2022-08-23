@@ -190,7 +190,8 @@ ADB Cleaner | https://github.com/0x192/universal-android-debloater
 Havoc-OS | https://havoc-os.com
 
 <h2 align="center">Hide & Privacy Android</h2>
-DualSpace | https://4pda.to/forum/index.php?showtopic=997796
+
+DualSpace: https://4pda.to/forum/index.php?showtopic=997796
 
 <h2 align="center">Sites</h2>
 
