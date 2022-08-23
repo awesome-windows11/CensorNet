@@ -181,8 +181,6 @@ Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 
 Apps List | https://github.com/LinuxCafeFederation/awesome-android
 <br>
-Android в Android | https://www.vmos.com
-<br>
 ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
 <br>
 ADB Cleaner | https://github.com/0x192/universal-android-debloater
@@ -191,6 +189,8 @@ Havoc-OS | https://havoc-os.com
 
 <h2 align="center">Hide & Privacy Android</h2>
 
+Android в Android: https://www.vmos.com 
+<br>
 DualSpace: https://4pda.to/forum/index.php?showtopic=997796
 
 <h2 align="center">Sites</h2>
