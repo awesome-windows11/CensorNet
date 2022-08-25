@@ -185,7 +185,11 @@ ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
 <br>
 ADB Cleaner | https://github.com/0x192/universal-android-debloater
 <br>
-Havoc-OS | https://havoc-os.com
+https://havoc-os.com
+<br>
+https://f-droid.org
+<br>
+https://auroraoss.com
 
 <h2 align="center">Hide & Privacy Android</h2>
 
