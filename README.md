@@ -177,19 +177,19 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 <br>
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 
-<h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android ADB</h2>
+<h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
-Apps List | https://github.com/LinuxCafeFederation/awesome-android
-<br>
-ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
-<br>
-ADB Cleaner | https://github.com/0x192/universal-android-debloater
-<br>
 https://havoc-os.com
 <br>
 https://f-droid.org
 <br>
 https://auroraoss.com
+<br>
+Apps List | https://github.com/LinuxCafeFederation/awesome-android
+<br>
+ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
+<br>
+ADB Cleaner | https://github.com/0x192/universal-android-debloater
 
 <h2 align="center">Hide & Privacy Android</h2>
 
