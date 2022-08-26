@@ -190,7 +190,9 @@ Apps List | https://github.com/LinuxCafeFederation/awesome-android
 ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
 <br>
 ADB Cleaner | https://github.com/0x192/universal-android-debloater
-
+<br>
+https://github.com/SimpleMobileTools
+<br>
 <h2 align="center">Hide & Privacy Android</h2>
 
 Android в Android: https://www.vmos.com 
