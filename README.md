@@ -202,6 +202,8 @@ DualSpace: https://4pda.to/forum/index.php?showtopic=997796
 Calculator Hide: https://4pda.to/forum/index.php?showtopic=986190
 <br>
 https://appcloner.app
+<br>
+https://f-droid.org/ru/packages/be.brunoparmentier.apkshare
 
 <h2 align="center">Sites</h2>
 
