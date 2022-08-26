@@ -185,13 +185,13 @@ https://f-droid.org
 <br>
 https://auroraoss.com
 <br>
+https://github.com/SimpleMobileTools
+<br>
 Apps List | https://github.com/LinuxCafeFederation/awesome-android
 <br>
 ADB List | https://gitlab.com/W1nst0n/universal-android-debloater
 <br>
 ADB Cleaner | https://github.com/0x192/universal-android-debloater
-<br>
-https://github.com/SimpleMobileTools
 <br>
 <h2 align="center">Hide & Privacy Android</h2>
 
