@@ -198,6 +198,8 @@ Android в Android: https://www.vmos.com
 DualSpace: https://4pda.to/forum/index.php?showtopic=997796
 <br>
 Calculator Hide: https://4pda.to/forum/index.php?showtopic=986190
+<br>
+https://appcloner.app
 
 <h2 align="center">Sites</h2>
 
