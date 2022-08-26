@@ -204,6 +204,8 @@ Calculator Hide: https://4pda.to/forum/index.php?showtopic=986190
 https://appcloner.app
 <br>
 https://f-droid.org/ru/packages/be.brunoparmentier.apkshare
+<br>
+https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 
 <h2 align="center">Sites</h2>
 
