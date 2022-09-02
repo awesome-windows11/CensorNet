@@ -322,7 +322,8 @@ https://ghostbase.net/tag/bezopasnost
 https://safe.roskomsvoboda.org
 <br>
 https://passwordbits.com
-
+<br>
+https://fakeinfo.net
 
 <h2 align="center">📲 Phone Security</h2>
 
