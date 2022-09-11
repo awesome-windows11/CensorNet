@@ -54,6 +54,7 @@ www.facebook.com
 yt3.ggpht.com
 play.google.com
 news.google.com
+googleusercontent.com
 ```
 
 ### AntiZapret
