@@ -29,6 +29,8 @@ theins.ru
 rutracker.org
 protonmail.com
 *.protonmail.com
+proton.me
+*.proton.me
 ### Сайты закрывшие доступ РФ пользователям
 *.pixabay.com
 www.voices.com
