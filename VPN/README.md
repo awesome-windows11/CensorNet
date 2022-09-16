@@ -55,6 +55,7 @@ yt3.ggpht.com
 play.google.com
 news.google.com
 googleusercontent.com
+lh3.googleusercontent.com
 ```
 
 ### AntiZapret
