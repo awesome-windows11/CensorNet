@@ -157,7 +157,9 @@ https://upload.disroot.org
 <br>
 https://www.transferfile.io
 <br>
-Text Share | https://tlk.io
+https://send.cm
+<br>
+Text Share: https://tlk.io
 
 <h2 align="center">Apps</h2>
 
