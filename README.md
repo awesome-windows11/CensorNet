@@ -127,6 +127,8 @@ DeepSound | http://jpinsoft.net/deepsound/download.aspx
 
 https://privnote.com
 <br>
+https://paste.ee
+<br>
 https://wipenote.io
 <br>
 https://onetimesecret.com
