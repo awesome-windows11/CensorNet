@@ -145,7 +145,7 @@ https://cryptgeon.nicco.io
 <br>
 https://0bin.net
 
-<h2 align="center">🔗 File Share</h2>
+<h2 align="center">🔗 Files</h2>
 
 <img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
 <br>
@@ -160,6 +160,8 @@ https://www.transferfile.io
 https://send.cm
 <br>
 Text Share: https://tlk.io
+<br>
+https://imagecompressor.com/ru
 
 <h2 align="center">Apps</h2>
 
