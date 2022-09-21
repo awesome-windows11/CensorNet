@@ -248,6 +248,10 @@ Element.io | https://element.io/get-started
 ✍️ Текст в рукопись | https://handwrittner.com
 <br> 
 ✍️ Текст в рукопись | https://hand-text.ru
+<br>
+https://smailpro.com/advanced
+
+
 
 <h2 align="center">❓ Check for block</h2>
 
