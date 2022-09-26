@@ -61,6 +61,8 @@ Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
 <br>
+https://netwind.io
+<br>
 CENO browser | https://github.com/censorship-no/ceno-browser
 
 <h3 align="center">🕵️‍♂️ VPN Android</h3>
