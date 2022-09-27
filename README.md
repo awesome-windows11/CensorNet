@@ -91,7 +91,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
 
-<h2 align="center">🔑 Encryption (Steganography, Hash)</h2>
+<h2 align="center">🔑 Encryption / Steganography</h2>
 
 Hat.sh | https://github.com/sh-dv/hat.sh
 <br>
@@ -109,12 +109,14 @@ copy /b 1.jpg + 1.zip 2.jpg
 
 <img width=20px src="https://raw.githubusercontent.com/KuroLabs/stegcloak/master/assets/stegCloakIcon.svg"></img> https://github.com/KuroLabs/stegcloak
 <br>
-<img width=20px src="https://futureboy.us/images/futureboyicon.png"></img> Image stenography https://futureboy.us/stegano/
-<br>
 https://github.com/neatnik/steganographr
 <br>
-https://paranoiaworks.mobi/ptepc
+<img width=20px src="https://futureboy.us/images/futureboyicon.png"></img> https://futureboy.us/stegano (image)
 <br>
+https://paranoiaworks.mobi/ptepc
+
+<h2 align="center">🔑 Hash</h2>
+
 🔑 https://emn178.github.io/online-tools
 <br>
 🔑 Create HASH | http://www.hashemall.com
