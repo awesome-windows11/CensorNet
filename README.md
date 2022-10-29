@@ -245,6 +245,8 @@ Element.io | https://element.io/get-started
 <br>
 🧹 Очистить метаданные 2 | https://gitlab.com/rmnvgr/metadata-cleaner
 <br>
+https://pdfcandy.com/edit-pdf-meta.html
+<br>
 💥 Сломать документ | https://corrupt-a-file.net
 <br>
 🖥 Мощность ПК | https://technical.city/ru/rate-my-pc
