@@ -281,6 +281,8 @@ https://inteltechniques.com/logger
 https://amiunique.org/fp
 <br>
 https://z0ccc.github.io/extension-fingerprints
+<br>
+https://browserleaks.com/geo
 
 <h2 align="center">🔓 File Hack</h2>
 
