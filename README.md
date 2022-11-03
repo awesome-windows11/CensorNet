@@ -170,6 +170,8 @@ https://send.cm
 Text Share: https://tlk.io
 <br>
 https://imagecompressor.com/ru
+<br>
+https://github.com/tejado/Authorizer
 
 <h2 align="center">Apps</h2>
 
