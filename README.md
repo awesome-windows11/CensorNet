@@ -190,6 +190,8 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 Телеграм с двойным дном | https://postufgram.com
 <br>
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
+<br> https://www.monect.com
+
 
 <h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
