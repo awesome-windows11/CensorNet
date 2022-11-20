@@ -159,6 +159,8 @@ https://0bin.net
 <br>
 <img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
 <br>
+https://toffeeshare.com
+<br>
 https://github.com/timvisee/send-instances
 <br>
 https://upload.disroot.org
