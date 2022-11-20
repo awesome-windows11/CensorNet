@@ -13,6 +13,7 @@
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
+
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
 ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
@@ -65,6 +66,7 @@ https://netwind.io
 <br>
 CENO browser | https://github.com/censorship-no/ceno-browser
 
+
 <h3 align="center">🕵️‍♂️ VPN Android</h3>
 
 Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
@@ -83,6 +85,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://lesspass.com
 
+
 <h2 align="center">2FA</h2> 
 
 <img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
@@ -90,6 +93,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
 <br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
+
 
 <h2 align="center">🔑 Encryption / Steganography</h2>
 
@@ -115,6 +119,7 @@ https://github.com/neatnik/steganographr
 <br>
 https://paranoiaworks.mobi/ptepc
 
+
 <h2 align="center">🔑 Hash</h2>
 
 🔑 https://emn178.github.io/online-tools
@@ -128,6 +133,7 @@ https://paranoiaworks.mobi/ptepc
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 <br>
 DeepSound | http://jpinsoft.net/deepsound/download.aspx
+
 
 <h2 align="center">📝 Notes</h2>
 
@@ -152,6 +158,8 @@ https://snote.io
 https://cryptgeon.nicco.io
 <br>
 https://0bin.net
+<br>
+https://www.mysecurenote.com/cta
 
 <h2 align="center">🔗 Files</h2>
 
@@ -174,6 +182,7 @@ Text Share: https://tlk.io
 https://imagecompressor.com/ru
 <br>
 https://github.com/tejado/Authorizer
+
 
 <h2 align="center">Apps</h2>
 
