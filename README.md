@@ -235,6 +235,8 @@ https://f-droid.org/ru/packages/be.brunoparmentier.apkshare
 <br>
 https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 
+
+
 <h2 align="center">Sites</h2>
 
 Element.io | https://element.io/get-started
@@ -299,6 +301,8 @@ https://amiunique.org/fp
 https://z0ccc.github.io/extension-fingerprints
 <br>
 https://browserleaks.com/geo
+<br>
+https://github.com/chatziko/location-guard
 
 <h2 align="center">🔓 File Hack</h2>
 
