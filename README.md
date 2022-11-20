@@ -75,6 +75,7 @@ VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secu
 <br>
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 
+
 <h2 align="center">🛡 Pass</h2>
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
@@ -276,7 +277,8 @@ https://pdfcandy.com/edit-pdf-meta.html
 ✍️ Текст в рукопись | https://hand-text.ru
 <br>
 https://smailpro.com/advanced
-
+<br>
+https://github.com/AlejandroAkbal/Image-to-Text-OCR
 
 
 <h2 align="center">❓ Check for block</h2>
