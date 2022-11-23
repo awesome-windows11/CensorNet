@@ -168,7 +168,9 @@ https://0bin.net
 https://www.mysecurenote.com/cta
 
 <h2 align="center">🔗 Files</h2>
+https://syncthing.net/downloads/
 
+<h3 align="center">🔗 Share</h3>
 <img width=20px src="https://site-iota-coral.vercel.app/icon/anonymshare.png"></img> https://anonymshare.com
 <br>
 <img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
