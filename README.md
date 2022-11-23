@@ -22,18 +22,6 @@ https://antizapret.prostovpn.org
 <br>
 CloudFlare | https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
 <br>
-Заходить без VPN | https://jahproxy.pro
-<br>
-Заходить без VPN 2 | https://www.proxfree.com
-<br>
-Заходить без VPN 3 | https://proxyium.com
-<br>
-Заходить без VPN 4 | https://www.croxyproxy.rocks
-<br>
-Заходить без VPN 5 | https://hide.me/ru/proxy
-<br>
-StartPage поиск | https://startpage.com 
-<br>
 ЦензорТрекер | https://censortracker.org
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
@@ -66,8 +54,21 @@ https://netwind.io
 <br>
 CENO browser | https://github.com/censorship-no/ceno-browser
 
+<h3 align="center">🕵️‍♂️ Standalone</h3>
 
-<h3 align="center">🕵️‍♂️ VPN Android</h3>
+https://startpage.com
+<br>
+https://jahproxy.pro
+<br>
+https://www.proxfree.com
+<br>
+https://proxyium.com
+<br>
+https://www.croxyproxy.rocks
+<br>
+https://hide.me/ru/proxy
+
+<h3 align="center">🕵️‍♂️ Android</h3>
 
 Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 <br>
