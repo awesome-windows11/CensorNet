@@ -97,7 +97,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 https://github.com/tobysmith568/totp-online
 <br>
-https://totp-online.tobythe.dev
+https://totp.app
 
 <h2 align="center">🔑 Encryption / Steganography</h2>
 
