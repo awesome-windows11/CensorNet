@@ -16,9 +16,9 @@
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
-ПростоVPN.АнтиЗапрет | https://antizapret.prostovpn.org
+https://antizapret.prostovpn.org
 <br>
-CloudFlare | ⛔ https://1.1.1.1
+⛔ https://1.1.1.1
 <br>
 CloudFlare | https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
 <br>
