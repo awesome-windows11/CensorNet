@@ -168,7 +168,8 @@ https://0bin.net
 https://www.mysecurenote.com/cta
 
 <h2 align="center">🔗 Files</h2>
-https://syncthing.net/downloads/
+
+<img width=20px src="https://syncthing.net/img/favicon.png"></img> https://syncthing.net/downloads/
 
 <h3 align="center">🔗 Share</h3>
 
