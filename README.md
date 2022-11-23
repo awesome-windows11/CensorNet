@@ -215,7 +215,6 @@ Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 <br>
 USB Mouse | https://www.monect.com
 
-
 <h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
 https://havoc-os.com
@@ -225,6 +224,8 @@ https://f-droid.org
 https://auroraoss.com
 <br>
 https://github.com/SimpleMobileTools
+<br>
+https://thedise.me/instander
 <br>
 Apps List | https://github.com/LinuxCafeFederation/awesome-android
 <br>
