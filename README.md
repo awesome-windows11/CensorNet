@@ -289,7 +289,7 @@ https://pdfcandy.com/edit-pdf-meta.html
 <br>
 https://smailpro.com/advanced
 <br>
-https://github.com/AlejandroAkbal/Image-to-Text-OCR
+Image To Text | https://github.com/AlejandroAkbal/Image-to-Text-OCR
 <br>
 https://neeva.com
 
