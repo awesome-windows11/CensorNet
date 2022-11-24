@@ -335,6 +335,7 @@ Twitter | https://nitter.net
 📰 TheTinHat | https://thetinhat.com/index.html
 
 <h2 align="center">📚 Guides</h2>
+
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 <br>
 🔐 PrivacyGuides | https://www.privacyguides.org/tools
@@ -418,6 +419,8 @@ https://github.com/Divested-Mobile/extirpater
 🔓 Leak Email & Login | https://leakcheck.appspot.com
 <br>
 💣 Strong Pass | https://security.org
+<br>
+💣 Strong Pass | https://www.passwordmonster.com
 <br>
 🔓 Leak URL | https://www.threatcop.ai/phishing-url-checker.php
 
