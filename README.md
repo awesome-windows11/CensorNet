@@ -197,6 +197,8 @@ https://imagecompressor.com/ru
 https://github.com/tejado/Authorizer
 <br>
 https://webwormhole.io
+<br>
+https://copypaste.me
 
 <h2 align="center">Apps</h2>
 
