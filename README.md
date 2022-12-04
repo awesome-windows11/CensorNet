@@ -309,6 +309,8 @@ https://downforeveryoneorjustme.com
 
 <h2 align="center">👀 Trackers Browser</h2>
 
+https://ipinfo.io
+<br>
 https://webkay.robinlinus.com
 <br>
 https://firstpartysimulator.net
