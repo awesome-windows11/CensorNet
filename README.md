@@ -169,6 +169,8 @@ https://cryptgeon.nicco.io
 https://0bin.net
 <br>
 https://www.mysecurenote.com/cta
+<br>
+https://github.com/pasteburn/pasteburn
 
 <h2 align="center">🔗 Files</h2>
 
