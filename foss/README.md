@@ -8,7 +8,7 @@ https://havoc-os.com
 <br>
 <img width=20px src="https://f-droid.org/assets/apple-touch-icon_ypJwtCrcixeH_qV6LdcMYk1anFIR9o-_ufR__1wNdJY=.png"></img> https://f-droid.org
 <br>
-https://auroraoss.com
+<img width=20px src="https://auroraoss.com/img/auroralogo.webp"></img> https://auroraoss.com
 <br>
 https://github.com/SimpleMobileTools
 <br>
