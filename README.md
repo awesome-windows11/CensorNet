@@ -347,8 +347,6 @@ Twitter | https://nitter.net
 
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
 <br>
-🔐 PrivacyGuides | https://www.privacyguides.org/tools
-<br>
 🔐 PrivacyTools | 🕵️‍ https://www.privacytools.io
 <br>
 🔐 PrivacyToolsList | https://privacytoolslist.com
