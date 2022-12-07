@@ -4,8 +4,6 @@
 
 <h4 align="center"> Android </h4>
 
-https://havoc-os.com
-<br>
 <img width=20px src="https://f-droid.org/assets/apple-touch-icon_ypJwtCrcixeH_qV6LdcMYk1anFIR9o-_ufR__1wNdJY=.png"></img> https://f-droid.org
 <br>
 <img width=20px src="https://auroraoss.com/img/auroralogo.webp"></img> https://auroraoss.com
@@ -13,7 +11,8 @@ https://havoc-os.com
 https://github.com/SimpleMobileTools
 <br>
 https://thedise.me/instander
-
+<br>
+https://havoc-os.com
 
 <h4 align="center"> Windows </h4>
 
