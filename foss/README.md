@@ -6,7 +6,7 @@
 
 https://havoc-os.com
 <br>
-https://f-droid.org
+<img width=20px src="https://f-droid.org/assets/apple-touch-icon_ypJwtCrcixeH_qV6LdcMYk1anFIR9o-_ufR__1wNdJY=.png"></img> https://f-droid.org
 <br>
 https://auroraoss.com
 <br>
