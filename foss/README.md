@@ -2,7 +2,7 @@
 
 <img width=20px src="https://www.privacyguides.org/assets/brand/PNG/Favicon/favicon-32x32.png"></img>  https://www.privacyguides.org/tools
 <br>
-https://www.privacytools.io
+<img width=20px src="https://www.privacytools.io/img/favicons/favicon.ico"></img> https://www.privacytools.io
 <br>
 https://privacytoolslist.com
 <br>
