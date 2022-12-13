@@ -247,7 +247,7 @@ https://f-droid.org/ru/packages/be.brunoparmentier.apkshare
 https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 
 
-<h2 align="center">Sites</h2>
+<h2 align="center">🌐 Sites</h2>
 
 Element.io | https://element.io/get-started
 <br>
@@ -292,6 +292,8 @@ Image To Text | https://github.com/AlejandroAkbal/Image-to-Text-OCR
 https://neeva.com
 <br>
 https://wolicheng.com/womic/
+<br>
+https://fakeinfo.net/
 
 <h2 align="center">❓ Check for block</h2>
 
