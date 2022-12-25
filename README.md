@@ -114,6 +114,8 @@ VeraCrypt | https://github.com/veracrypt/VeraCrypt
 <br>
 Cryptomator | https://github.com/cryptomator/cryptomator
 <br>
+Encryption HTML Site | https://github.com/hscrypt/demos
+<br>
 
 ```
 copy /b 1.jpg + 1.zip 2.jpg
