@@ -119,8 +119,6 @@ Cryptomator | https://github.com/cryptomator/cryptomator
 Encryption HTML Site | https://github.com/hscrypt/demos
 <br>
 Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
-<br>
-Encryption Images https://github.com/kaushalmeena/digi-cloak
 
 ```
 copy /b 1.jpg + 1.zip 2.jpg
@@ -134,7 +132,8 @@ https://github.com/neatnik/steganographr
 <img width=20px src="https://futureboy.us/images/futureboyicon.png"></img> https://futureboy.us/stegano (image)
 <br>
 https://paranoiaworks.mobi/ptepc
-
+<br>
+Encryption Images | https://github.com/kaushalmeena/digi-cloak
 
 
 <h2 align="center">🔑 Hash</h2>
