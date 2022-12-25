@@ -120,6 +120,7 @@ Encryption HTML Site | https://github.com/hscrypt/demos
 <br>
 Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
 <br>
+Encryption Images https://github.com/kaushalmeena/digi-cloak
 
 ```
 copy /b 1.jpg + 1.zip 2.jpg
