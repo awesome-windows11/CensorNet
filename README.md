@@ -104,6 +104,8 @@ https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
 
+
+
 <h2 align="center">🔑 Encryption / Steganography</h2>
 
 Hat.sh | https://github.com/sh-dv/hat.sh
@@ -115,6 +117,8 @@ VeraCrypt | https://github.com/veracrypt/VeraCrypt
 Cryptomator | https://github.com/cryptomator/cryptomator
 <br>
 Encryption HTML Site | https://github.com/hscrypt/demos
+<br>
+Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
 <br>
 
 ```
@@ -129,6 +133,7 @@ https://github.com/neatnik/steganographr
 <img width=20px src="https://futureboy.us/images/futureboyicon.png"></img> https://futureboy.us/stegano (image)
 <br>
 https://paranoiaworks.mobi/ptepc
+
 
 
 <h2 align="center">🔑 Hash</h2>
@@ -176,6 +181,8 @@ https://www.mysecurenote.com/cta
 <br>
 https://github.com/pasteburn/pasteburn
 
+
+
 <h2 align="center">🔗 Files</h2>
 
 <img width=20px src="https://syncthing.net/img/favicon.png"></img> https://syncthing.net/downloads/
@@ -206,6 +213,8 @@ https://webwormhole.io
 <br>
 https://copypaste.me
 
+
+
 <h2 align="center">Apps</h2>
 
 Браузер I2p | https://geti2p.net/ru
@@ -225,6 +234,8 @@ MultiLogin Accounts | https://github.com/getferdi/ferdi
 Antidetect Browsers | https://cpmdealer.com/antidetect-browsers
 <br>
 USB Mouse | https://www.monect.com
+
+
 
 <h2 align="center"><img width=30px src="https://site-iota-coral.vercel.app/icon/android.png"></img> Android</h2>
 
@@ -297,6 +308,7 @@ https://wolicheng.com/womic/
 <br>
 https://fakeinfo.net/
 
+
 <h2 align="center">❓ Check for block</h2>
 
 https://globalcheck.net/ru/monitoring/ru
@@ -305,6 +317,7 @@ https://isitblockedinrussia.com
 <br>
 https://downforeveryoneorjustme.com
 <br>
+
 
 <h2 align="center">👀 Trackers Browser</h2>
 
@@ -324,9 +337,12 @@ https://browserleaks.com/geo
 <br>
 https://github.com/chatziko/location-guard
 
+
 <h2 align="center">🔓 File Hack</h2>
 
 [PassFab](https://github.com/jestxfot/ZapretNet/releases/download/1.0/PassFab.for.RAR.9.5.1.4.zip)
+
+
 
 <h2 align="center">📰 News</h2>
 
@@ -339,6 +355,8 @@ Twitter | https://nitter.net
 📰 Wired Security | https://www.wired.com/category/security
 <br>
 📰 TheTinHat | https://thetinhat.com/index.html
+
+
 
 <h2 align="center">📚 Guides</h2>
 
@@ -380,6 +398,8 @@ https://passwordbits.com
 <br>
 https://fakeinfo.net
 
+
+
 <h2 align="center">📲 Phone Security</h2>
 
 InviZible | https://github.com/Gedsh/InviZible
@@ -397,6 +417,8 @@ https://github.com/Divested-Mobile/extirpater
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 <br>
 🚔 Duress | http://play.google.com/store/apps/details?id=me.lucky.duress
+
+
 
 <h2 align="center">🔐 Leaks</h2>
 
