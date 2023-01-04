@@ -121,6 +121,8 @@ Cryptomator | https://github.com/cryptomator/cryptomator
 Encryption HTML Site | https://github.com/hscrypt/demos
 <br>
 Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
+<br>
+https://github.com/hypervault/hypervault.github.io
 
 ```
 copy /b 1.jpg + 1.zip 2.jpg
