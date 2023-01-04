@@ -53,6 +53,8 @@ SkyVPN | https://www.skyvpn.net
 https://netwind.io
 <br>
 CENO browser | https://github.com/censorship-no/ceno-browser
+<br>
+SOON... | https://tachyon.eco 
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
