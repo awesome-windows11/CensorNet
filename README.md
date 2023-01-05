@@ -325,6 +325,8 @@ https://downforeveryoneorjustme.com
 
 <h2 align="center">👀 Trackers Browser</h2>
 
+https://proxy6.net/privacy
+<br>
 https://ipinfo.io
 <br>
 https://webkay.robinlinus.com
