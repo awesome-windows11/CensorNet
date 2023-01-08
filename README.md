@@ -14,7 +14,7 @@
 
 https://antizapret.prostovpn.org
 <br>
-https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard)) ⛔
+<img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard)) ⛔
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
