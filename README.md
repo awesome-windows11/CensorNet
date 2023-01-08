@@ -6,19 +6,16 @@
 > <br>
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
-### Tags:
-⛔ -> site blocked in Russia
-
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
 https://antizapret.prostovpn.org
 <br>
-<img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard)) ⛔
+<img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
-<img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/ ⛔
+<img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
 <br>
 getlantern | https://getlantern.org/ru_RU/index.html
 <br>
