@@ -7,7 +7,7 @@
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
 ### Tags:
-⛔ | Site blocked in Russia
+⛔ - site blocked in Russia
 
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
