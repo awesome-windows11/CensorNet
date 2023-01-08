@@ -18,6 +18,8 @@ https://antizapret.prostovpn.org
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
+https://www.torproject.org/download/
+<br>
 getlantern | https://getlantern.org/ru_RU/index.html
 <br>
 Windscribe | https://rus.windscribe.com/download
