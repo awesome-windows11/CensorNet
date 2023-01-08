@@ -14,11 +14,11 @@
 
 https://antizapret.prostovpn.org
 <br>
-https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard)) ⛔
+https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard)) | ⛔
 <br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
-<img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://www.torproject.org/download/ ⛔
+<img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://www.torproject.org/download/ | ⛔
 <br>
 getlantern | https://getlantern.org/ru_RU/index.html
 <br>
