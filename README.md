@@ -7,7 +7,7 @@
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
 
-<h2 align="center">🕵️‍♂️ VPN</h2>
+<h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
 <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> https://antizapret.prostovpn.org
 <br>
