@@ -9,10 +9,6 @@
 ### Tags:
 ⛔ | Site blocked in Russia
 
-<h2 align="center">BlackList VPN</h2>
-
-❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
-
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
@@ -76,6 +72,9 @@ VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secu
 <br>
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
 
+<h3 align="center">BlackList VPN</h3>
+
+❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
 <h2 align="center">🛡 Pass</h2>
 
