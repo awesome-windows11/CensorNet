@@ -20,8 +20,6 @@ https://antizapret.prostovpn.org
 <br>
 ⛔ https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
 <br>
-ЦензорТрекер | https://censortracker.org
-<br>
 psiphon3 | https://www.psiphon3.com/ru/download.html
 <br>
 getlantern | https://getlantern.org/ru_RU/index.html
@@ -47,6 +45,8 @@ VPN список | https://vpnlove.me
 Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
+<br>
+https://censortracker.org
 <br>
 https://netwind.io
 <br>
