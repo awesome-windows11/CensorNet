@@ -9,7 +9,7 @@
 
 <h2 align="center">🕵️‍♂️ VPN</h2>
 
-<img width=20px src="https://i.imgur.com/LZCFWf2.png"></img> https://antizapret.prostovpn.org
+<img width=10px src="https://i.imgur.com/LZCFWf2.png"></img> https://antizapret.prostovpn.org
 <br>
 <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
 <br>
