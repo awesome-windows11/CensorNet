@@ -17,7 +17,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
 <br>
-getlantern | https://getlantern.org/ru_RU/index.html
+https://lantern.io/download
 <br>
 Windscribe | https://rus.windscribe.com/download
 <br>
