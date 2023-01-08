@@ -18,9 +18,7 @@
 
 https://antizapret.prostovpn.org
 <br>
-⛔ https://1.1.1.1
-<br>
-CloudFlare | https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
+⛔ https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
 <br>
 ЦензорТрекер | https://censortracker.org
 <br>
