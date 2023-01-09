@@ -21,7 +21,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
 <br>
-Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
+<img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> https://github.com/ValdikSS/GoodbyeDPI
 <br>
 VPN сервис | https://www.nthlink.com
 <br>
