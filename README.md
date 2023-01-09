@@ -25,7 +25,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/ZPk4Rro.png"></img> https://www.nthlink.com
 <br>
-WireGuard | https://www.wireguard.com
+<img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
 <br>
 Amnezia vpn | https://github.com/amnezia-vpn/desktop-client
 <br>
