@@ -19,7 +19,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
-https://windscribe.com/download
+<img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
 <br>
 HighLoad VPN | https://hi-l.eu/start
 <br>
