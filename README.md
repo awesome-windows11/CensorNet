@@ -21,8 +21,6 @@
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
 <br>
-HighLoad VPN | https://hi-l.im
-<br>
 Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
 <br>
 VPN сервис | https://www.nthlink.com
@@ -40,6 +38,8 @@ VPN список | https://vpnlove.me
 Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
+<br>
+HighLoad VPN | https://hi-l.im
 <br>
 https://censortracker.org
 <br>
