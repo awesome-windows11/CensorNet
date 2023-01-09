@@ -23,7 +23,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> https://github.com/ValdikSS/GoodbyeDPI
 <br>
-VPN сервис | https://www.nthlink.com
+<img width=20px src="https://i.imgur.com/ZPk4Rro.png"></img> https://www.nthlink.com
 <br>
 WireGuard | https://www.wireguard.com
 <br>
