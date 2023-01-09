@@ -21,7 +21,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
 <br>
-HighLoad VPN | https://hi-l.eu/start
+HighLoad VPN | https://hi-l.im
 <br>
 Обход DPI | https://github.com/ValdikSS/GoodbyeDPI
 <br>
