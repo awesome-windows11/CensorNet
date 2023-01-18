@@ -48,6 +48,8 @@ https://netwind.io
 CENO browser | https://github.com/censorship-no/ceno-browser
 <br>
 SOON... | https://tachyon.eco 
+<br>
+https://www.top10vpn.com
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
