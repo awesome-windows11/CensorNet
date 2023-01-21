@@ -414,14 +414,15 @@ InviZible | https://github.com/Gedsh/InviZible
 <br>
 🚨 Security Alarm | https://play.google.com/store/apps/details?id=com.ralok.antitheftalarm
 <br>
-💥 Hard Reset | https://github.com/x13a/Wasted
-<br>
 https://github.com/Divested-Mobile/extirpater
 <br>
 🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
 <br>
 🚔 Duress | http://play.google.com/store/apps/details?id=me.lucky.duress
 
+<h3 align="center">💥 Hard Reset!!!</h2>
+
+<img width=20px src="https://i.imgur.com/LI9qxqq.png"></img> https://github.com/x13a/Wasted
 
 
 <h2 align="center">🔐 Leaks</h2>
