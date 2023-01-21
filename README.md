@@ -251,6 +251,10 @@ ADB Cleaner | https://github.com/0x192/universal-android-debloater
 
 Android в Android: https://www.vmos.com 
 <br>
+🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
+<br>
+InviZible | https://github.com/Gedsh/InviZible
+<br>
 DualSpace: https://4pda.to/forum/index.php?showtopic=997796
 <br>
 Calculator Hide: https://4pda.to/forum/index.php?showtopic=986190
@@ -404,10 +408,8 @@ https://fakeinfo.net
 
 
 
-<h2 align="center">📲 Phone Security</h2>
+<h2 align="center">📲 Phone Self-destructor</h2>
 
-InviZible | https://github.com/Gedsh/InviZible
-<br>
 🚔 Anti Theft | https://bloketech.com/lockwatch
 <br>
 🚔 Anti Theft | https://www.crookcatcher.app
@@ -415,15 +417,12 @@ InviZible | https://github.com/Gedsh/InviZible
 🚨 Security Alarm | https://play.google.com/store/apps/details?id=com.ralok.antitheftalarm
 <br>
 https://github.com/Divested-Mobile/extirpater
-<br>
-🚪 Virtual Apps Android | https://play.google.com/store/apps/details?id=net.typeblog.shelter
-<br>
-🚔 Duress | http://play.google.com/store/apps/details?id=me.lucky.duress
 
-<h3 align="center">💥 Hard Reset!!!</h2>
+<details align="center"><summary><h3> 💥 Hard Reset!!!</h3></summary>
 
 <img width=20px src="https://i.imgur.com/LI9qxqq.png"></img> https://github.com/x13a/Wasted
 
+</details>
 
 <h2 align="center">🔐 Leaks</h2>
 
