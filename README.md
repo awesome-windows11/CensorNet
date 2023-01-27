@@ -27,7 +27,7 @@
 <br>
 <img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
 <br>
-Amnezia vpn | https://github.com/amnezia-vpn/desktop-client
+<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org/
 <br>
 Veepn | https://veepn.com/ru/
 <br>
