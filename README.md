@@ -98,6 +98,8 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
 <br>
+<img width=20px src="https://i.imgur.com/z4kcqp9.png"></img> https://totp.danhersam.com/
+<br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
 <br>
 https://github.com/tobysmith568/totp-online
@@ -105,8 +107,6 @@ https://github.com/tobysmith568/totp-online
 https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
-<br>
-https://totp.danhersam.com/
 
 <h2 align="center">🔑 Encryption / Steganography</h2>
 
