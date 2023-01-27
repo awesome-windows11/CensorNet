@@ -163,7 +163,7 @@ https://privnote.com
 <br>
 https://paste.ee
 <br>
-https://wipenote.io
+https://wipenote.io/
 <br>
 https://onetimesecret.com
 <br>
