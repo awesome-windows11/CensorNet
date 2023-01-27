@@ -67,7 +67,7 @@ https://hide.me/ru/proxy
 
 <h3 align="center">🕵️‍♂️ Android</h3>
 
-Браузер | https://play.google.com/store/apps/details?id=net.upx.proxy.browser
+<img width=20px src="https://i.imgur.com/BP4UzNb.png"></img> https://play.google.com/store/apps/details?id=net.upx.proxy.browser
 <br>
 VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
 <br>
