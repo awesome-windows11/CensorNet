@@ -146,6 +146,10 @@ Encryption Images | https://github.com/kaushalmeena/digi-cloak
 
 🔑 https://emn178.github.io/online-tools
 <br>
+https://github.com/antelle/argon2-browser
+<br>
+https://argon2.online/
+<br>
 🔑 Create HASH | http://www.hashemall.com
 <br>
 🔑 Decrypt HASH | https://crackstation.net
