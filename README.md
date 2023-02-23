@@ -17,6 +17,8 @@
 <br>
 <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
 <br>
+https://github.com/abysshint/tor-control-panel
+<br>
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
