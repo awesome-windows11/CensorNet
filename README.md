@@ -52,6 +52,8 @@ CENO browser | https://github.com/censorship-no/ceno-browser
 SOON... | https://tachyon.eco 
 <br>
 https://www.top10vpn.com
+<br>
+https://freevpnplanet.com/
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
