@@ -11,7 +11,7 @@ https://privacytoolslist.com
 
 <img width=20px src="https://f-droid.org/assets/apple-touch-icon_ypJwtCrcixeH_qV6LdcMYk1anFIR9o-_ufR__1wNdJY=.png"></img> https://f-droid.org
 <br>
-<img width=20px src="https://auroraoss.com/img/auroralogo.webp"></img> https://auroraoss.com
+<img width=20px src="https://auroraoss.com/img/auroralogo.webp"></img> https://gitlab.com/AuroraOSS/AuroraStore
 <br>
 https://github.com/SimpleMobileTools
 <br>
