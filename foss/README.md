@@ -1,5 +1,8 @@
 <h4 align="center"> FOSS App: Freedom, Privacy, Democracy... </h4>
 
+### 📧 Mail
+#### ❌ ~<img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> VK Mail, Mail.ru, Яндекс~
+
 <img width=20px src="https://www.privacyguides.org/assets/brand/PNG/Favicon/favicon-32x32.png"></img>  https://www.privacyguides.org/tools
 <br>
 <img width=20px src="https://www.privacytools.io/img/favicons/favicon.ico"></img> https://www.privacytools.io
