@@ -4,6 +4,9 @@
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me), <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 
+#### ~<img width=20px src="https://i.ibb.co/jgv4K78/Chrome.png"></img> Chrome~
+
+
 <img width=20px src="https://www.privacyguides.org/assets/brand/PNG/Favicon/favicon-32x32.png"></img>  https://www.privacyguides.org/tools
 <br>
 <img width=20px src="https://www.privacytools.io/img/favicons/favicon.ico"></img> https://www.privacytools.io
