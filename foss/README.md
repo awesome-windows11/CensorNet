@@ -6,7 +6,7 @@
 
 #### ~<img width=20px src="https://i.ibb.co/jgv4K78/Chrome.png"></img> Chrome~
 
-### <img width=20px src="https://i.ibb.co/YL12YbV/Chromium.png"></img> [Chromium](https://chromium.woolyss.com/), <img width=20px src="https://i.ibb.co/RHhWpkc/librewolf.png"></img> [Librewolf](https://librewolf.net/)
+### <img width=20px src="https://i.ibb.co/YL12YbV/Chromium.png"></img> [Chromium](https://chromium.woolyss.com/), <img width=20px src="https://i.ibb.co/RHhWpkc/librewolf.png"></img> [Librewolf](https://librewolf.net/), <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/)
 
 
 <img width=20px src="https://www.privacyguides.org/assets/brand/PNG/Favicon/favicon-32x32.png"></img>  https://www.privacyguides.org/tools
