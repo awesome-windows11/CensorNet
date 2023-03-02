@@ -220,6 +220,8 @@ https://www.transferfile.io
 <br>
 https://send.cm
 <br>
+https://file.io
+<br>
 Text Share: https://tlk.io
 <br>
 https://imagecompressor.com/ru
