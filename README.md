@@ -57,6 +57,8 @@ https://freevpnplanet.com/
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
+https://www.croxyproxy.net
+<br>
 <img width=20px src="https://i.imgur.com/qL762qt.png"></img> https://startpage.com
 <br>
 https://jahproxy.pro
