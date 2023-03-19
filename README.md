@@ -333,7 +333,7 @@ https://wolicheng.com/womic/
 <br>
 https://fakeinfo.net/
 
-<h2 align="center">Temp Mail</h2>
+<h2 align="center">📧 Temp Mail</h2>
 
 https://internxt.com/temporary-email
 
