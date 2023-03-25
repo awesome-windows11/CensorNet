@@ -18,7 +18,7 @@
 <br>
 https://privacytoolslist.com
 <br>
-
+https://github.com/pluja/awesome-privacy
 
 https://github.com/SimpleMobileTools
 <br>
