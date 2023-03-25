@@ -17,8 +17,6 @@
 <img width=20px src="https://www.privacytools.io/img/favicons/favicon.ico"></img> https://www.privacytools.io
 <br>
 https://privacytoolslist.com
-<br>
-https://github.com/pluja/awesome-privacy
 
 https://github.com/SimpleMobileTools
 <br>
