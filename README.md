@@ -404,6 +404,8 @@ Twitter | https://nitter.net
 <br>
 🔐 Awesome Privacy | https://github.com/Lissy93/awesome-privacy
 <br>
+https://github.com/pluja/awesome-privacy
+<br>
 https://vk.com/@scamersant-gaid-po-bezopasnosti-i-anonimnosti-v-seti-ot-tm
 <br>
 https://ufolabs.net/categories/informacionnaja-bezopasnost.18
