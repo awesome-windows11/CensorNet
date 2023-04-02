@@ -169,8 +169,8 @@ DeepSound | http://jpinsoft.net/deepsound/download.aspx
 
 <h2 align="center">📝 Notes</h2>
 
-<br>
 https://www.protectedtext.com
+<br>
 https://privnote.com
 <br>
 https://paste.ee
