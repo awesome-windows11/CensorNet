@@ -171,6 +171,8 @@ DeepSound | http://jpinsoft.net/deepsound/download.aspx
 
 https://www.protectedtext.com
 <br>
+https://www.codedpad.com/
+<br>
 https://privnote.com
 <br>
 https://paste.ee
