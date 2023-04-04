@@ -226,7 +226,7 @@
 0.0.0.0 www.txrevive.ml
 ```
 
-```python
+```html
 https://vk.com/*henta*
 https://vk.com/*hent*
 https://vk.com/*notsafe*
