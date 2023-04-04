@@ -1,7 +1,11 @@
 # WinTools.Info | Url Blocker | 2.0.0.7
 # 3/30/2023 7:17:41 PM
 # Profile: -
-# 
+#
+0.0.0.0 www.new.porno365.expert
+0.0.0.0 new.porno365.expert
+0.0.0.0 www.porno365.expert
+0.0.0.0 porno365.expert
 0.0.0.0 xvideos.com
 0.0.0.0 www.xvideos.com
 0.0.0.0 pornhub.com
