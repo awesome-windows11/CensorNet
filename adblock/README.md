@@ -1,5 +1,5 @@
 # Porn
-```
+```python
 0.0.0.0 xvideos.com
 0.0.0.0 www.xvideos.com
 0.0.0.0 pornhub.com
@@ -226,7 +226,7 @@
 0.0.0.0 www.txrevive.ml
 ```
 
-```
+```python
 https://vk.com/*henta*
 https://vk.com/*hent*
 https://vk.com/*notsafe*
@@ -240,7 +240,7 @@ https://yandex.*/search/*hent*
 ```
 
 # News
-```
+```python
 0.0.0.0 www.1tv.ru
 0.0.0.0 1tv.ru
 0.0.0.0 www.ria.ru
