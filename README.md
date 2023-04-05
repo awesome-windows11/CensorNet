@@ -291,6 +291,8 @@ https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 
 <h2 align="center">🌐 Sites</h2>
 
+https://spyware.neocities.org/articles/
+<br>
 Element.io | https://element.io/get-started
 <br>
 Мессенджер | https://github.com/orbitdb/orbit
