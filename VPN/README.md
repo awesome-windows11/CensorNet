@@ -48,10 +48,18 @@ instagram.com
 *.instagram.com
 *.cdninstagram.com
 scontent-ams4-1.cdninstagram.com
+fbcdn.net
 *.fbcdn.net
 facebook.com
 *.facebook.com
 www.facebook.com
+facebook.net
+*.facebook.net
+www.facebook.net
+facebookmail.com
+*.facebookmail.com
+www.facebookmail.com
+
 ### YouTube (Google)
 yt3.ggpht.com
 play.google.com
