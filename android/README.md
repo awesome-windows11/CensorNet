@@ -2,6 +2,8 @@
 
 <h3 align="center">com.huawei.powergenie</h3>
 
+https://dontkillmyapp.com/huawei
+
 <h3 align="center"> com.android.keyguard </h3>
 Разблокировка журнала HUAWEI (Название пакета действительно запутанное)
 
