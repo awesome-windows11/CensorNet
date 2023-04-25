@@ -232,6 +232,8 @@ https://imagecompressor.com/ru
 <br>
 https://github.com/tejado/Authorizer
 <br>
+https://snapdrop.net
+<br>
 https://webwormhole.io
 <br>
 https://wormhole.app
