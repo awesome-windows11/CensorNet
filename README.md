@@ -340,6 +340,8 @@ https://neeva.com
 https://wolicheng.com/womic/
 <br>
 https://fakeinfo.net/
+<br>
+OCR | https://image-to-text-ocr.netlify.app/
 
 <h2 align="center">📧 Temp Mail</h2>
 
