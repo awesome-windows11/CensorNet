@@ -335,13 +335,13 @@ https://smailpro.com/advanced
 <br>
 Image To Text | https://github.com/AlejandroAkbal/Image-to-Text-OCR
 <br>
+OCR | https://image-to-text-ocr.netlify.app/
+<br>
 https://neeva.com
 <br>
 https://wolicheng.com/womic/
 <br>
 https://fakeinfo.net/
-<br>
-OCR | https://image-to-text-ocr.netlify.app/
 
 <h2 align="center">📧 Temp Mail</h2>
 
