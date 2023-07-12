@@ -4,4 +4,4 @@ A constantly updated guide to the best private browser (not to be confused with 
 
 As a reminder, anonymity is more affected by other factors than your browser. Tor or VPN will be much more effective than even the most properly configured browser without cookies 
 
-## <img src="https://i.ibb.co/jgv4K78/Chrome.png" width=25px> ~Google Chrome~
+## <img src="https://i.ibb.co/jgv4K78/Chrome.png" width=25px> Google Chrome
