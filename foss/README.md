@@ -4,8 +4,6 @@
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me), <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 
-#### ~<img width=20px src="https://i.ibb.co/jgv4K78/Chrome.png"></img> Chrome~
-
 ### <img width=20px src="https://i.ibb.co/YL12YbV/Chromium.png"></img> [Chromium](https://chromium.woolyss.com/), <img width=20px src="https://i.ibb.co/RHhWpkc/librewolf.png"></img> [Librewolf](https://librewolf.net/), <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://i.ibb.co/nBtMNt0/KiwiBrowser.png"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
 
 #### ~<img width=20px src="https://i.ibb.co/LnpQFQy/PlayStore.png"></img> Google PlayStore~
