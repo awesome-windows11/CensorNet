@@ -6,6 +6,6 @@ As a reminder, anonymity is more affected by other factors than your browser. To
 
 ## <img src="https://i.ibb.co/jgv4K78/Chrome.png" width="25px"> Google Chrome
 
-### $\color{red}{\textsf{EXTREMELY HIGH}}$
+### $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 https://spyware.neocities.org/articles/chrome
