@@ -9,6 +9,8 @@ The concept of browser fingerprinting, which is often used as an excuse to use a
 <h2> <img src="https://i.ibb.co/jgv4K78/Chrome.png" width="25px"></img> Google Chrome</h2>
 
 https://web.archive.org/web/20220511020224/https://tilde.club/~acz/shadow_wiki/browsers.xhtml
+<br>
+https://digdeeper.neocities.org/articles/browsers
 
 ### $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
