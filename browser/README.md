@@ -40,3 +40,8 @@ Google Chrome is confirmed to be constantly listening to any open microphones on
 Microsoft’s Edge browser appears to be sending URLs you visit to its Bing API website. Reddit users first spotted the privacy issues with Edge last week, noticing that the latest version of Microsoft Edge sends a request to bingapis.com with the full URL of nearly every page you navigate to. Microsoft
 
 https://gist.github.com/niutech/1f1c1518ce0eba7e8d429c812d39493d
+
+### The Edge scans your clipboard[^1]
+[^1]: https://www.reddit.com/r/browsers/comments/12o6dje/so_ms_edge_mind_explaining_this_to_me_why_are_you/
+
+I always open msedge (Microsoft Edge) in background to play youtube music videos, or SNS.yet, it monitor/accessing my clipboard. 
