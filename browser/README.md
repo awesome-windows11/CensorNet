@@ -14,7 +14,7 @@ https://gs.statcounter.com/
 
 <h2> <img src="https://i.ibb.co/jgv4K78/Chrome.png" width="25px"></img> Google Chrome</h2>
 
-### $\color{red}{\textsf{EXTREMELY HIGH!}}$
+### ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 https://spyware.neocities.org/articles/chrome
 
@@ -33,7 +33,7 @@ Google Chrome is confirmed to be constantly listening to any open microphones on
 
 <h2> <img src="https://i.ibb.co/BNtzHDM/Edge.png" width="25px"></img> Microsoft Edge</h2>
 
-### $\color{red}{\textsf{EXTREMELY HIGH!}}$
+### ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 
 ### Microsoft Edge scans the pages you visit
