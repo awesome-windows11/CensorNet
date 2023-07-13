@@ -15,3 +15,8 @@ https://digdeeper.neocities.org/articles/browsers
 ### $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 https://spyware.neocities.org/articles/chrome
+
+Google details the extreme spyware feature it labels "Usage Statistics and Crash Reports". What it does, is it sends very detailed information about your hardware and computer usage, which confirms that it definitely contains the following spyware features:
+
+- A tracker that records mouse input over time
+- A tracker that profiles memory usage
