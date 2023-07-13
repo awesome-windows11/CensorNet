@@ -58,3 +58,7 @@ Microsoft Edge is probably used as the default browser in many companies and ins
 And last but not least: Even in "private mode", Microsoft Edge sends EVERY domain or complete URL (incl. parameters) to the cloud - for security reasons. WTF Microsoft!
 
 Let's briefly recall the marketing slogan Microsoft uses to promote the Edge browser:
+
+<h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
+
+### ❌ $\color{red}{\textsf{HIGH}}$
