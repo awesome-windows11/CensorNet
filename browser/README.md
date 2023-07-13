@@ -65,3 +65,6 @@ Let's briefly recall the marketing slogan Microsoft uses to promote the Edge bro
 Vivaldi makes about 119 requests on startup, and continues to make unsolicited connections after. Anti-privacy Bing is the default search engine.
 
 **EVEN IF** you disable everything under "Google Services" and "Google Extensions" under "Privacy" in settings, it will still make automatic connections to Google. Also makes connections after first start up to `mirmir.vivaldi.com` and `downloads.vivaldi.com`.
+
+### Vivaldi Assigns you a unique ID
+From the Privacy Policy: "When you install Vivaldi browser (“Vivaldi”), each installation profile is assigned a unique user ID that is stored on your computer. Vivaldi will send a message using HTTPS directly to our servers located in Iceland every 24 hours containing this ID, version, cpu architecture, screen resolution and time since last message. We anonymize the IP address of Vivaldi users by removing the last octet of the IP address from your Vivaldi client then we store the resolved approximate location after using a local geoip lookup. The purpose of this collection is to determine the total number of active users and their geographical distribution".
