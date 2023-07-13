@@ -34,3 +34,8 @@ Google Chrome is confirmed to be constantly listening to any open microphones on
 <h2> <img src="https://i.ibb.co/BNtzHDM/Edge.png" width="25px"></img> Microsoft Edge</h2>
 
 ### $\color{red}{\textsf{EXTREMELY HIGH!}}$
+
+
+### Microsoft Edge scans the pages you visit
+Microsoft’s Edge browser appears to be sending URLs you visit to its Bing API website. Reddit users first spotted the privacy issues with Edge last week, noticing that the latest version of Microsoft Edge sends a request to bingapis.com with the full URL of nearly every page you navigate to. Microsoft
+
