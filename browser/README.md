@@ -75,3 +75,9 @@ The above cannot be disabled even if you're a programming ninja - because Vivald
 Convenient and functional browser. But spyshelter periodically showed me messages that Vivaldi was trying to register keystrokes (in essence, this is keylogging), and I created a rule forbidding the browser to do this. Once a day he makes an attempt, but spyshelter blocks this action. It is worth saying that periodically Firefox also registers keystrokes, while spyshelter automatically resolves this action. But it's about Vivaldi. Today, after updating the browser to the latest version, spyshelter displayed a message to me that it had not previously displayed. It concerned Vivaldi, who was trying to access BITS interprocess communication, if I write correctly. I didn’t particularly read and allowed this action, because when I blocked the browser began to crash. However, I’m interested in WHAT the browser did, because judging by the spyshelter log, the browser used some kind of utility to copy files from the hard disk or something like that. Recently I found a video where it was said that Vivaldi spies and once a day sends somewhere all the information about user sessions per day, using a unique identifier that is assigned to each user. I don’t know how true this is, and if it’s true, how much detailed information he sends, and whether other browsers do it. Now I’m wondering WHAT is the spyshelter logged for the browser action?[^3]
 
 [^3]: https://malwaretips.com/threads/vivaldi-browser-is-a-spy.98431/
+
+<h2> <img src="https://i.ibb.co/1qCFxLh/brave.png" width="25px"></img> Brave</h2>
+
+### ❌ $\color{red}{\textsf{HIGH}}$
+
+Another rather controversial browser.
