@@ -30,3 +30,5 @@ This was confirmed in multiple places. Basically, whenever you type into the sea
 Google Chrome is confirmed to be constantly listening to any open microphones on your computer. This can be found in this statement in a privacy publication. "Voice & audio information may be collected. For example, if your child uses audio activation commands (e.g., "OK, Google" or touching the microphone icon), a recording of the following speech/audio, plus a few seconds before, will be stored to their account…" This feature is opt-in if you are using the "Google Accounts" spyware platform and specifically tell Google to build a profile of your child. It's unverified whether or not Google uploads information it listens too to its servers outside of this feature.
 
 <h2> <img src="https://i.ibb.co/BNtzHDM/Edge.png" width="25px"></img> Microsoft Edge</h2>
+
+### $\color{red}{\textsf{EXTREMELY HIGH!}}$
