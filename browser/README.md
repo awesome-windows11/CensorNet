@@ -81,3 +81,28 @@ Convenient and functional browser. But spyshelter periodically showed me message
 ### ❌ $\color{red}{\textsf{HIGH}}$
 
 Another rather controversial browser.
+
+Brave is self updating software, uses Google as the default search engine, has built-in telemetry, and even has an opt-out rss-like news feed similar to Firefox Pocket. These shouldn't be the things that come to mind if someone were to imagine a privacy oriented browser.
+
+### Brave has built-in telemetry
+While running, Brave will make lots of requests to the domain `p3a.brave.com` as telemetry. They claim they store the collected data for several days. This feature is an opt-out that can be disabled.
+
+### Brave Today
+Brave now has new feature similar to Firefox Pocket called Brave Today. If you don't know what Firefox Pocket is, it's basically an rss-like news feed that's shown in every blank tab. This feature Brave has is sadly an opt-out rather than an opt-in and sends lots of requests to Brave's servers. It can't seem to be disabled it in and of itself, but setting the tabs to blank seems to stop the requests.
+
+### SafeBrowsing
+Brave uses SafeBrowsing. It's a feature that tries to "protect" the user from potentially unsafe websites and extensions. However, it sends requests to fetch the information required. Brave's SafeBrowsing is powered by google.
+
+### Brave Rewards
+Brave has a rewards program. At first glance it looks like the rewards program is an opt-in, but the browser makes requests to these domains regardless if you sign up or not:
+- rewards.brave.com
+- api.rewards.brave.com
+- grant.rewards.brave.com
+
+### The Brave web browser is hijacking links, and inserting affiliate codes[^4]
+
+[^4]: https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/
+
+Brave has been caught in various schemes such as where when you type a URL to a cryptocurrency link, the browser at one point would redirect you to a different URL that generates them money. Every time they are caught doing something like that and it becomes publicized, they say it was unintentional, and change it. Whether you believe it is unintentional or not is, again, up to you as a user, but the sheer number of times this stuff has happen lead me to believe they are constantly testing to see what users will notice or let them get away with, and pulling back only if it is noticed and there is a backlash. That means, I think, logically, that there is a reasonable possibility that they are testing new schemes today and that people just haven't discovered them yet, and that if they are discovered and disliked by the users, they may be stopped and new ones will be attempted. Actually, that users are potentially being exposed to things that they don't know about, to me is worse than if they upfront said "Here's what we're doing", because the latter would let the user make an informed choice, whereas the former does not.
+
+
