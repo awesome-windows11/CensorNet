@@ -22,3 +22,6 @@ Google details the extreme spyware feature it labels "Usage Statistics and Crash
 - A tracker that profiles memory usage
 
 But, it can also be extrapolated from the vague language that Chrome could and probably does monitor what other programs you have open. Either way, it is an extreme amount of information being collected, since it can be used to recreate what the user is doing on their desktop at all times. Chrome clarifies that this information is being sent **WHENEVER** a website is being "slow" or whenever Google Chrome crashes.
+
+### Google Chrome contains a keylogger
+This was confirmed in multiple places. Basically, whenever you type into the search bar, that information is sent to Google. You can apparently turn it off by opting out of the "suggestion service".
