@@ -50,3 +50,11 @@ I always open msedge (Microsoft Edge) in background to play youtube music videos
 The first connection is established to the address "ntp.msn.com", where the currently set search engine (Bing) is transmitted to Microsoft as a parameter. Linked to this call is the opening of the website "www.msn.com", where various resources (JavaScript, stylesheet, images, etc.) are reloaded from sources in order to display the website in the browser[^2]
 
 [^2]: https://www.kuketz-blog.de/microsoft-edge-datensendeverhalten-desktop-version-browser-check-teil4/
+
+In the default configuration, the browser is a serious privacy disaster. Only after adjusting various settings, such as deactivating Defender SmartScreen, changing the search engine and the setting for "new tabs" does it become a bit more privacy-friendly. However, we are far from privacy-friendly, since the transmission of telemetry data can only be reduced during use, but not deactivated.
+
+Microsoft Edge is probably used as the default browser in many companies and institutions. Administrators should take a close look and check the settings and group policies. In my opinion, the browser cannot be used in the default configuration.
+
+And last but not least: Even in "private mode", Microsoft Edge sends EVERY domain or complete URL (incl. parameters) to the cloud - for security reasons. WTF Microsoft!
+
+Let's briefly recall the marketing slogan Microsoft uses to promote the Edge browser:
