@@ -19,6 +19,9 @@ https://web.telegram.org/k/#@black_triangle_tg
 <br>
 
 <h3 align="center"> Privacy</h3>
+
+https://web.telegram.org/k/#teplitsa
+<br>
 https://web.telegram.org/k/#lipovyyrunet
 <br>
 https://web.telegram.org/k/#@zatelecom
