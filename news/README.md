@@ -9,3 +9,7 @@ Twitter | https://nitter.net
 📰 Wired Security | https://www.wired.com/category/security
 <br>
 📰 TheTinHat | https://thetinhat.com/index.html
+
+<h2 align="center"> Telegram</h2>
+https://t.me/s/black_triangle_tg
+<br>
