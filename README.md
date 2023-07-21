@@ -384,21 +384,6 @@ https://github.com/chatziko/location-guard
 [PassFab](https://github.com/jestxfot/ZapretNet/releases/download/1.0/PassFab.for.RAR.9.5.1.4.zip)
 
 
-
-<h2 align="center">📰 News</h2>
-
-Rutracker.org | ⛔‍ https://rutracker-org.appspot.com/forum/index.php
-<br>
-Twitter | https://nitter.net
-<br>
-🗂 NTC Party | https://ntc.party/c/internet-censorship-all-around-the-world/russia/12
-<br>
-📰 Wired Security | https://www.wired.com/category/security
-<br>
-📰 TheTinHat | https://thetinhat.com/index.html
-
-
-
 <h2 align="center">📚 Guides</h2>
 
 🔐 Tor | https://forum.torproject.net/t/tor-blocked-in-russia-how-to-circumvent-censorship/982
