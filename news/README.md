@@ -11,6 +11,8 @@ Twitter | https://nitter.net
 📰 TheTinHat | https://thetinhat.com/index.html
 <br>
 Безопасность Telegram: https://theins.ru/obshestvo/261314
+<br>
+Шатдаун интернета, методичка на случай тотального отключения: https://telegra.ph/Partizanskij-internet-Kakie-prilozheniya-sleduet-ustanovit-dlya-obhoda-blokirovok-i-na-sluchaj-internet-shatdauna-04-06
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
