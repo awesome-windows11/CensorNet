@@ -29,5 +29,7 @@ https://web.telegram.org/k/#@lipovyyrunet
 https://web.telegram.org/k/#@zatelecom
 <br>
 https://web.telegram.org/k/#@na_svyazi_helpdesk
+<br>
+https://web.telegram.org/k/#@ifreedomlab
 
 https://web.telegram.org/k/#@cyberyozhtalks
