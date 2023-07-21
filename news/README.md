@@ -15,6 +15,8 @@ https://web.telegram.org/k/#@black_triangle_tg
 <br>
 
 <h3 align="center"> Privacy</h3>
-https://web.telegram.org/k/#@cyberyozhtalks
+https://web.telegram.org/k/#lipovyyrunet
 <br>
 https://web.telegram.org/k/#@zatelecom
+
+https://web.telegram.org/k/#@cyberyozhtalks
