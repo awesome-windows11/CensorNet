@@ -20,11 +20,11 @@ https://web.telegram.org/k/#@black_triangle_tg
 
 <h3 align="center"> Privacy</h3>
 
-https://web.telegram.org/k/#roskomsvoboda
+https://web.telegram.org/k/#@roskomsvoboda
 <br>
-https://web.telegram.org/k/#teplitsa
+https://web.telegram.org/k/#@teplitsa
 <br>
-https://web.telegram.org/k/#lipovyyrunet
+https://web.telegram.org/k/#@lipovyyrunet
 <br>
 https://web.telegram.org/k/#@zatelecom
 
