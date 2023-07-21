@@ -18,7 +18,7 @@ Twitter | https://nitter.net
 https://web.telegram.org/k/#@black_triangle_tg
 <br>
 
-<h3 align="center"> Privacy</h3>
+<h3 align="center"> Privacy, Censorship</h3>
 
 https://web.telegram.org/k/#@roskomsvoboda
 <br>
