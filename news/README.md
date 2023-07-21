@@ -27,5 +27,7 @@ https://web.telegram.org/k/#@teplitsa
 https://web.telegram.org/k/#@lipovyyrunet
 <br>
 https://web.telegram.org/k/#@zatelecom
+<br>
+https://web.telegram.org/k/#@na_svyazi_helpdesk
 
 https://web.telegram.org/k/#@cyberyozhtalks
