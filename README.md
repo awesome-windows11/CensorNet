@@ -27,7 +27,7 @@ https://github.com/abysshint/tor-control-panel
 <br>
 <img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
 <br>
-<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/free_vpn_amnezia_bot)
+<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
 <br>
 Veepn | https://veepn.com/ru/
 <br>
