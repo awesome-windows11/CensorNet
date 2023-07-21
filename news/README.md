@@ -11,5 +11,5 @@ Twitter | https://nitter.net
 📰 TheTinHat | https://thetinhat.com/index.html
 
 <h2 align="center"> Telegram</h2>
-https://t.me/s/black_triangle_tg
+https://web.telegram.org/k/#@black_triangle_tg
 <br>
