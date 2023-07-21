@@ -2,8 +2,6 @@
 
 > https://censor.now.sh
 > <br>
-> https://vk.com/zapret_net
-> <br>
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
 
