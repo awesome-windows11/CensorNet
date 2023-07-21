@@ -9,6 +9,8 @@ Twitter | https://nitter.net
 📰 Wired Security | https://www.wired.com/category/security
 <br>
 📰 TheTinHat | https://thetinhat.com/index.html
+<br>
+Безопасность Telegram: https://theins.ru/obshestvo/261314
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
