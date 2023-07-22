@@ -24,6 +24,8 @@ https://web.telegram.org/k/#@roskomsvoboda [[A]](https://web.telegram.org/a/#-10
 <br>
 https://web.telegram.org/k/#@teplitsa
 <br>
+https://web.telegram.org/k/#@cyberyozh_official
+<br>
 https://web.telegram.org/k/#@lipovyyrunet
 <br>
 https://web.telegram.org/k/#@zatelecom
