@@ -20,7 +20,7 @@ https://web.telegram.org/k/#@black_triangle_tg
 
 <h3 align="center"> Privacy, Censorship</h3>
 
-https://web.telegram.org/k/#@roskomsvoboda [A](https://web.telegram.org/a/#-1020195196)
+https://web.telegram.org/k/#@roskomsvoboda [[A]](https://web.telegram.org/a/#-1020195196)
 <br>
 https://web.telegram.org/k/#@teplitsa
 <br>
