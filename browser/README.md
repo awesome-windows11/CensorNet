@@ -2,7 +2,7 @@
 
 A constantly updated guide to the best private browser (not to be confused with anonymous as well as secure, this repository has other goals)
 
-⚠ $\color{orange}{\textsf{Warning!}}$
+### ⚠ $\color{orange}{\textsf{Warning!}}$
 
 > As a reminder, anonymity is more affected by other factors than your browser. Tor or VPN will be much more effective than even the most properly configured browser without cookies
 
