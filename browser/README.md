@@ -112,3 +112,5 @@ This browser has made waves thanks to its built-in privacy protections - such as
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/ec08b9bf-d18d-4e15-965b-5bf873e173df" width="25px"></img> Waterfox</h2>
 
 ### $\color{orange}{\textsf{Medium}}$
+
+Waterfox is a fork of Firefox that claims to be more private and secure than Firefox. However, Waterfox contains telemetry and shares information about you with Mozilla, and has other spyware features.
