@@ -14,6 +14,46 @@ https://digdeeper.neocities.org/articles/browsers
 <br>
 https://gs.statcounter.com
 
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> <a href="https://librewolf.net/">Librewolf</a></h2>
+
+### ✔ $\color{green}{\textsf{Low}}$
+
+### It's open source software!
+
+### Does not have automatic updates (or they can be turned off)
+
+Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
+
+Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
+
+[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
+
+There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
+
+The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
+
+While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
+
+[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
+
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a></h2>
+
+### ✔ $\color{green}{\textsf{Nothing (?)}}$
+Other builds: https://chromium.woolyss.com
+
+### It's open source software!
+
+### Does not have automatic updates
+
+Ungoogled-chromium is Google Chromium, sans integration with Google.
+
+Ungoogled-chromium is a fork of Chrome that has all of Google's spyware removed. It was tested with **MITMproxy and makes no unsolicited requests, and is therefore not spyware**. Ungoogled-chromium is the highest-rated browser based on Google Chrome, and is probably one of the best choices if you can compile it.
+
+Unlike Iridium, Ungoogled-Chromium actually disables all automatic connections and other Google integration. The dev is also a really nice and skilled guy (at least he doesn't have a problem with people reporting stuff - unlike Pale Moon, or worse - Mozilla). However, keep in mind the Chromium codebase is massive, and it's doubtful this single guy can keep up for long (then again, he does lift patches from other similar projects such as Bromite, and has a helpful userbase). He's doing better than the Iridium team, though - with his browser being much more up to date. In the end, Ungoogled-Chromium is still just a bunch of bandages applied to Chromium, and keeps Uncle G in control of the Web. 
+
+<h1 align="center"> 🕵️‍♂️ Tracking / spyware browsers </h1>
+
+
 <h2> <img src="https://i.ibb.co/jgv4K78/Chrome.png" width="25px"></img> Google Chrome</h2>
 
 ### ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
@@ -156,40 +196,3 @@ Self updates are a spyware feature since they are usually ways for the developer
 Other known spywares, like Chromium, make use of this method
 
 [^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
-
-<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> <a href="https://librewolf.net/">Librewolf</a></h2>
-
-### ✔ $\color{green}{\textsf{Low}}$
-
-### It's open source software!
-
-### Does not have automatic updates (or they can be turned off)
-
-Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
-
-Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
-
-[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
-
-There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
-
-The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
-
-While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
-
-[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
-
-<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a></h2>
-
-### ✔ $\color{green}{\textsf{Nothing (?)}}$
-Other builds: https://chromium.woolyss.com
-
-### It's open source software!
-
-### Does not have automatic updates
-
-Ungoogled-chromium is Google Chromium, sans integration with Google.
-
-Ungoogled-chromium is a fork of Chrome that has all of Google's spyware removed. It was tested with **MITMproxy and makes no unsolicited requests, and is therefore not spyware**. Ungoogled-chromium is the highest-rated browser based on Google Chrome, and is probably one of the best choices if you can compile it.
-
-Unlike Iridium, Ungoogled-Chromium actually disables all automatic connections and other Google integration. The dev is also a really nice and skilled guy (at least he doesn't have a problem with people reporting stuff - unlike Pale Moon, or worse - Mozilla). However, keep in mind the Chromium codebase is massive, and it's doubtful this single guy can keep up for long (then again, he does lift patches from other similar projects such as Bromite, and has a helpful userbase). He's doing better than the Iridium team, though - with his browser being much more up to date. In the end, Ungoogled-Chromium is still just a bunch of bandages applied to Chromium, and keeps Uncle G in control of the Web. 
