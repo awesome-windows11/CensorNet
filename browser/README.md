@@ -161,6 +161,10 @@ Other known spywares, like Chromium, make use of this method
 
 ### ✔ $\color{green}{\textsf{Low}}$
 
+### It's open source software!
+
+### Does not have automatic updates (or they can be turned off)
+
 Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
 
 Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
@@ -178,6 +182,10 @@ While it is true that the project themselves do not collect any telemetry, the d
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> Ungoogled Chromium</h2>
 
 ### ✔ $\color{green}{\textsf{Nothing (?)}}$
+
+### It's open source software!
+
+### Does not have automatic updates
 
 Ungoogled-chromium is Google Chromium, sans integration with Google.
 
