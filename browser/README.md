@@ -182,3 +182,5 @@ While it is true that the project themselves do not collect any telemetry, the d
 Ungoogled-chromium is Google Chromium, sans integration with Google.
 
 Ungoogled-chromium is a fork of Chrome that has all of Google's spyware removed. It was tested with **MITMproxy and makes no unsolicited requests, and is therefore not spyware**. Ungoogled-chromium is the highest-rated browser based on Google Chrome, and is probably one of the best choices if you can compile it.
+
+Unlike Iridium, Ungoogled-Chromium actually disables all automatic connections and other Google integration. The dev is also a really nice and skilled guy (at least he doesn't have a problem with people reporting stuff - unlike Pale Moon, or worse - Mozilla). However, keep in mind the Chromium codebase is massive, and it's doubtful this single guy can keep up for long (then again, he does lift patches from other similar projects such as Bromite, and has a helpful userbase). He's doing better than the Iridium team, though - with his browser being much more up to date. In the end, Ungoogled-Chromium is still just a bunch of bandages applied to Chromium, and keeps Uncle G in control of the Web. 
