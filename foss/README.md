@@ -14,6 +14,8 @@
 <br>
 <img width=20px src="https://www.privacytools.io/img/favicons/favicon.ico"></img> https://www.privacytools.io
 <br>
+https://reddit.com/r/privacy
+<br>
 https://privacytoolslist.com
 
 https://github.com/SimpleMobileTools
