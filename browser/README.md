@@ -59,6 +59,15 @@ And last but not least: Even in "private mode", Microsoft Edge sends EVERY domai
 
 Let's briefly recall the marketing slogan Microsoft uses to promote the Edge browser:
 
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8a9b964c-f244-4bb2-9a0d-14b8d8505923" width="25px"></img> Opera</h2>
+
+### ❌ $\color{red}{\textsf{HIGH}}$
+Opera makes about 83 unsolicited requests on its first run:
+
+![image](https://github.com/awesome-windows11/CensorNet/assets/87380272/0816aea8-741d-48f4-9be3-95e5fc7c764f)
+
+By default, it spies on all your browsing. Works closely with advertisers and trackers. It is integrated with Facebook/Meta, one of the biggest privacy violators in the world. Has Google as the default search engine. Closed source.
+
 <h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
 
 ### ❌ $\color{red}{\textsf{HIGH}}$
