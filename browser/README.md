@@ -167,5 +167,6 @@ Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an 
 
 There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
 
+The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
 
 ### ✔ $\color{green}{\textsf{Low}}$
