@@ -157,7 +157,7 @@ Other known spywares, like Chromium, make use of this method
 
 [^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
 
-<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> Librewolf</h2>
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> [Librewolf](https://librewolf.net)</h2>
 
 ### ✔ $\color{green}{\textsf{Low}}$
 
