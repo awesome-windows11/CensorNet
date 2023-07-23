@@ -178,3 +178,7 @@ While it is true that the project themselves do not collect any telemetry, the d
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> Ungoogled Chromium</h2>
 
 ### ✔ $\color{green}{\textsf{Nothing (?)}}$
+
+Ungoogled-chromium is Google Chromium, sans integration with Google.
+
+Ungoogled-chromium is a fork of Chrome that has all of Google's spyware removed. It was tested with **MITMproxy and makes no unsolicited requests, and is therefore not spyware**. Ungoogled-chromium is the highest-rated browser based on Google Chrome, and is probably one of the best choices if you can compile it.
