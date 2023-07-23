@@ -108,3 +108,7 @@ Brave has been caught in various schemes such as where when you type a URL to a 
 This browser has made waves thanks to its built-in privacy protections - such as AdBlock, HTTPS everywhere and script blocking - but in the end, they are outclassed by uMatrix. More than that - after checking them out, I can confidently say the Shields are pretty useless - the vast majority of trackers are left alone; in fact, sometimes it seems that a site can have hundreds of them, and yet none of them will be blocked by the Shields. Script blocking option simply blocks JavaScript fully - it's just NoScript revisited. Brave used to be able to install Chrome extensions only from source, but now does it the same as the other Chrome based browsers. Despite those, it not only spies on you (archive) (MozArchive) but is actively working against your privacy by whitelisting Facebook and Twitter trackers. Brave has also been soliciting donations in the name of other people without their consent!
 
 **BROWSER CREATORS WERE CONSTANTLY INVOLVED IN CRYPTO SCANDALS - DON'T USE BRAVE!**
+
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/ec08b9bf-d18d-4e15-965b-5bf873e173df" width="25px"></img> Waterfox</h2>
+
+### ❌ $\color{orange}{\textsf{Medium}}$
