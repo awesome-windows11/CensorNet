@@ -10,6 +10,8 @@ Twitter | https://nitter.net
 <br>
 📰 TheTinHat | https://thetinhat.com/index.html
 <br>
+https://news.ycombinator.com
+<br>
 Безопасность Telegram: https://theins.ru/obshestvo/261314
 <br>
 [Шатдаун интернета, методичка на случай тотального отключения](https://telegra.ph/Partizanskij-internet-Kakie-prilozheniya-sleduet-ustanovit-dlya-obhoda-blokirovok-i-na-sluchaj-internet-shatdauna-04-06), [или](https://nasvyazi.org/10-glavnyh-pravil-na-sluchaj-shatdauna/)
