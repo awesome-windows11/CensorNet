@@ -4,7 +4,7 @@
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me), <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 
-### <img width=20px src="https://i.ibb.co/YL12YbV/Chromium.png"></img> [Chromium](https://chromium.woolyss.com/), <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
+### <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
 
 #### ~<img width=20px src="https://i.ibb.co/LnpQFQy/PlayStore.png"></img> Google PlayStore~
 
