@@ -77,11 +77,13 @@ Opera has a list of "partners" — those are the websites that are in the Speed 
 https://en.wikipedia.org/wiki/Zhou_Yahui
 
 ### Opera scans all the sites you visit
-Additionally every time you visit a website, when it is finished loading, Opera will make a call to its own servers to an API containing the domain name. Let's say I visit privacyguides.org in Opera, when it is finished loading Opera will make a call to: speeddials.opera.com/api/v1/thumbnails/www.privacyguides.org
+Additionally every time you visit a website, when it is finished loading, Opera will make a call to its own servers to an API containing the domain name. Let's say I visit `privacyguides.org` in Opera, when it is finished loading Opera will make a call to: `speeddials.opera.com/api/v1/thumbnails/www.privacyguides.org`
 
 This allows for a complete profiling by Opera of every site you visit with their browser. There is no way to disable this, even through flags.
 
 There aren't many browsers brazen enough to outright collect data directly on every single domain you visit and every keystroke you enter into its address bar. Opera is one of the ones that does. These are the real, tangible issues with this software. People talk a lot about their connections to China, point out their shady dealings in other areas etc. but most people will just brush those off. People need to know, in no uncertain terms, that this browser is sending your entire browsing history to their servers. I'd like to say these issues are just bad design under the hood and not intentionally malicious, but that would be giving them the benefit of the doubt which they've really not earned as a company. Through cynical eyes, it seems they've tried to implement hardcore tracking of what their users type and visit and attempted to hide it behind "innocent" services that they can potentially excuse away as trivial functions if it were brought up.[^7]
+
+https://www.youtube.com/watch?v=NV8akIgfDqQ
 
 [^7]: https://www.reddit.com/r/browsers/comments/14bisgq/opera_gx_video_on_their_shady_practices_cool_and/
 
