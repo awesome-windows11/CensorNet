@@ -114,3 +114,7 @@ This browser has made waves thanks to its built-in privacy protections - such as
 ### $\color{orange}{\textsf{Medium}}$
 
 Waterfox is a fork of Firefox that claims to be more private and secure than Firefox. However, Waterfox contains telemetry and shares information about you with Mozilla, and has other spyware features.
+
+I never wanted Waterfox to be a part of the hyper-privacy community. It would just feel like standards that would be impossible to uphold, especially for something such as a web browser on the internet. Throughout the years people have always asked about Waterfox and privacy, and if they’ve ever wanted more than it can afford, I’ve always pushed them to use Tor. Waterfox was here for customisations and speed, with a good level of privacy.[^5]
+
+[^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
