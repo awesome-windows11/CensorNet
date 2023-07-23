@@ -159,6 +159,8 @@ Other known spywares, like Chromium, make use of this method
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> Librewolf</h2>
 
+### ✔ $\color{green}{\textsf{Low}}$
+
 Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
 
 Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
@@ -169,4 +171,6 @@ There is also an attempt to check for updates regarding the pre-installed uBlock
 
 The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
 
-### ✔ $\color{green}{\textsf{Low}}$
+While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
+
+[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
