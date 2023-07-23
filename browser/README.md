@@ -117,4 +117,14 @@ Waterfox is a fork of Firefox that claims to be more private and secure than Fir
 
 I never wanted Waterfox to be a part of the hyper-privacy community. It would just feel like standards that would be impossible to uphold, especially for something such as a web browser on the internet. Throughout the years people have always asked about Waterfox and privacy, and if they’ve ever wanted more than it can afford, I’ve always pushed them to use Tor. Waterfox was here for customisations and speed, with a good level of privacy.[^5]
 
+### Waterfox connects to spyware services when it is first run
+If you start up Waterfox for the first time, it will make between 31 to 130 requests (most of them being version checks) to several spyware platforms, notably Matomo, and Mozilla online services like its Geolocation service, and several other Mozilla services, as well as Waterfox's own update service. You can look at a list of these requests here:
+
+![image](https://github.com/awesome-windows11/CensorNet/assets/87380272/1ee4e616-391a-46d1-8dc9-4119fbec83ec)
+
+### Waterfox is self updating software
+Self updates are a spyware feature since they are usually ways for the developer of a program to put spyware into their software without presenting it in a prominent way where the user can understand what they are giving up when they download the update.
+
+Other known spywares, like Chromium, make use of this method
+
 [^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
