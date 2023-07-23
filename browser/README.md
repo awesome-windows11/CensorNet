@@ -174,3 +174,7 @@ The browser disables accurate geolocation, runs 11 content filters to block trac
 While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
 
 [^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
+
+<h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> Ungoogled Chromium</h2>
+
+### ✔ $\color{green}{\textsf{Nothing (?)}}$
