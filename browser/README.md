@@ -159,4 +159,13 @@ Other known spywares, like Chromium, make use of this method
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> Librewolf</h2>
 
+Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
+
+Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
+
+[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
+
+There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
+
+
 ### ✔ $\color{green}{\textsf{Low}}$
