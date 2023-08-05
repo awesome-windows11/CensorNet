@@ -85,7 +85,7 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
 <br>
-https://proton.me/pass/download (*In Russia, it does not work without VPN! Synchronization breaks!*) 
+<img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img> I https://proton.me/pass/download (*In Russia, it does not work without VPN! Synchronization breaks!*) 
 <br> 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://github.com/keepassxreboot/keepassxc
 <br>
