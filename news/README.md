@@ -24,6 +24,8 @@ https://web.telegram.org/k/#@black_triangle_tg
 
 https://web.telegram.org/k/#@roskomsvoboda [[A]](https://web.telegram.org/a/#-1020195196)
 <br>
+https://web.telegram.org/k/#@rks_tech_talk
+<br>
 https://web.telegram.org/k/#@teplitsa
 <br>
 https://web.telegram.org/k/#@cyberyozh_official
