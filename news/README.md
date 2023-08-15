@@ -15,6 +15,8 @@ https://news.ycombinator.com
 Безопасность Telegram: https://theins.ru/obshestvo/261314
 <br>
 [Шатдаун интернета, методичка на случай тотального отключения](https://telegra.ph/Partizanskij-internet-Kakie-prilozheniya-sleduet-ustanovit-dlya-obhoda-blokirovok-i-na-sluchaj-internet-shatdauna-04-06), [или](https://nasvyazi.org/10-glavnyh-pravil-na-sluchaj-shatdauna/)
+<br>
+https://restoreprivacy.com
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
