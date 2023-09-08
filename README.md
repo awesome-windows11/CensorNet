@@ -39,6 +39,8 @@ Net Healer | https://net-healer.com
 <br>
 SkyVPN | https://www.skyvpn.net
 <br>
+https://vpn-free.pro/
+<br>
 HighLoad VPN | https://hi-l.im
 <br>
 https://censortracker.org
