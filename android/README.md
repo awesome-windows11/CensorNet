@@ -72,69 +72,33 @@
 
 https://developers.google.com/identity/fido/android/native-apps Безопасно для удаления, если вы не используете беспарольную аутентификацию для доступа к онлайн-сервисам.
 
-**com.huawei.game.kitserver**
+**com.huawei.game.kitserver** Вероятно, можно удалить, если вы не играете в игры
 
-Вероятно, можно удалить, если вы не играете в игры
+**com.huawei.gameassistant** Huawei Game Suite (HiGame). Mobile game app store.
 
-<h3 align="center">com.huawei.gameassistant</h3>
+**com.huawei.geofence** GeofenceService. Позволяет вам делать что-то, когда пользователь входит в область, которая была определена как триггер. Геозона - это виртуальный периметр, установленный на реальной географической области. Комбинируя позицию пользователя с периметром геозоны, можно узнать, находится ли пользователь внутри или за пределами геозоны, или даже если он выходит или входит в зону.
 
-Huawei Game Suite (HiGame).
+**com.huawei.hwsearch** Виджет Petal Search. Используется для поиска приложений/апк на серверных онлайн-источниках (появился после запрета Google Mobile Services).
 
-Mobile game app store.
+**com.huawei.hwid** Необходим для доступа к расширенным функциям Huawei. Идентификатор Huawei ID необходим для доступа к таким службам, как Themes, Mobile Cloud, HiCare, Huawei Wear, Huawei Health.  
 
-<h3 align="center">com.huawei.geofence</h3>
+**com.huawei.hiaction** никаких заметных последствий
 
-GeofenceService.
+**com.huawei.hiai** никаких заметных последствий
 
-Позволяет вам делать что-то, когда пользователь входит в область, которая была определена как триггер.
+**com.huawei.hiassistantoversea** HiVoice. Голосовой помощник Huawei заменит "Hey Google"
 
-Геозона - это виртуальный периметр, установленный на реальной географической области. Комбинируя позицию пользователя с периметром геозоны, 
+**com.huawei.hicard** никаких заметных последствий
 
-можно узнать, находится ли пользователь внутри или за пределами геозоны, или даже если он выходит или входит в зону.
+**com.huawei.hicloud** Huawei cloud features
 
-<h3 align="center">com.huawei.hwsearch</h3>
+<img width=25px src="https://i.imgur.com/SyudK20.png"> **Push Service (com.huawei.android.pushagent)** ✔
 
-Виджет Petal Search. Используется для поиска приложений/апк на серверных онлайн-источниках (появился после запрета Google Mobile Services).
+Агент push-уведомлений. Похоже, что используется только для приложений Huawei. Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
 
-<h3 align="center">com.huawei.hwid</h3>
+<img width=25px src="https://i.imgur.com/MkSZNfa.png"> **Import via Bluetooth (com.huawei.bluetooth)** ✔
 
-Необходим для доступа к расширенным функциям Huawei.
-
-Идентификатор Huawei ID необходим для доступа к таким службам, как Themes, Mobile Cloud, HiCare, Huawei Wear, Huawei Health.  
-
-<h3 align="center">com.huawei.hiaction</h3>
-
-никаких заметных последствий
-
-<h3 align="center">com.huawei.hiai</h3>
-
-никаких заметных последствий
-
-<h3 align="center">com.huawei.hiassistantoversea</h3>
-
-HiVoice. Голосовой помощник Huawei заменит "Hey Google"
-
-<h3 align="center">com.huawei.hicard</h3>
-
-никаких заметных последствий
-
-<h3 align="center">com.huawei.hicloud</h3>
-
-Huawei cloud features
-
-<h3 align="center"><img width=30px src="https://www.apkmirror.com/wp-content/uploads/2018/12/5c1add343efc6.png"> Push Service (com.huawei.android.pushagent) ✔</h3>
-
-Агент push-уведомлений
-<br>
-Похоже, что используется только для приложений Huawei.
-<br>
-Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
-
-<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/a91/03a/a9103a7e7d861033cf30ea9c73b0be86184ecbb077d1fcbaeefb7f17165bdaf9:200"> Import via Bluetooth (com.huawei.bluetooth) ✔</h3>
-
-Позволяет импортировать контакты через Bluetooth
-<br>
-Bluetooth будет работать, если вы удалите этот пакет.
+Позволяет импортировать контакты через Bluetooth. Bluetooth будет работать, если вы удалите этот пакет.
 
 <h3 align="center"><img width=30px src="https://img.utdstc.com/icon/330/5ef/3305ef3468438429dd78e582df3b1e2ad6ec027caa7143faf84e5c358152103d:200"> Smart diagnosis (com.huawei.hwdetectrepair) ✔</h3>
 
