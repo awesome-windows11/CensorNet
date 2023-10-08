@@ -1,6 +1,6 @@
 ### ADB Android Huawei Spyware
 
-**com.huawei.powergenie** https://dontkillmyapp.com/huawei
+**com.huawei.powergenie**[^1]
 
 **com.huawei.android.hwaps**
 
@@ -182,6 +182,7 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 
 **com.huawei.systemmanager ❌** Управляет поведением приложений и разрешает им работать (или не работать) в фоновом режиме. **УДАЛЕНИЕ МОЖЕТ СЛОМАТЬ ТЕЛЕФОН И ОТПРАВИТЬ ЕГО В BOOTLOOP!**
 
+[^1]: https://dontkillmyapp.com/huawei
 [^2]: https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
 
 
