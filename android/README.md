@@ -1,174 +1,78 @@
-# ADB Android Spyware
+### ADB Android Huawei Spyware
 
-<h3 align="center">com.huawei.powergenie</h3>
+**com.huawei.powergenie** https://dontkillmyapp.com/huawei
 
-https://dontkillmyapp.com/huawei
+**com.huawei.android.hwaps**
 
-<h3 align="center">com.huawei.android.hwaps?</h3>
+**com.android.keyguard** Разблокировка журнала HUAWEI (Название пакета действительно запутанное) Это проприетарное приложение, основанное на пакете AOSP под названием `com.android.keyguard`. Это совсем не умно. Позволяет настраивать обои для экрана блокировки.
 
-<h3 align="center"> com.android.keyguard </h3>
-Разблокировка журнала HUAWEI (Название пакета действительно запутанное)
+**com.android.hwmirror** Позволяет использовать телефон в качестве зеркала...
 
-Это проприетарное приложение, основанное на пакете AOSP под названием `com.android.keyguard`. Это совсем не умно.
+**com.baidu.input_huawei** Woh! 51 разрешение!  Huawei китайская стоковая клавиатура ввода.
 
-Позволяет настраивать обои для экрана блокировки.
-
-<h3 align="center"> com.android.hwmirror </h3>
-Позволяет использовать телефон в качестве зеркала...
-
-<h3 align="center"> com.baidu.input_huawei </h3>
-Woh! 51 разрешение! 
-
-Huawei китайская стоковая клавиатура ввода.
-
-<h3 align="center"> com.hicloud.android.clone </h3>
-Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)
-
+**com.hicloud.android.clone** Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)
+<br>
 171 Permissions (https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest)
 
-Приложение для миграции данных между телефонами Huawei.
+Приложение для миграции данных между телефонами Huawei. Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
 
-Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
+**com.huawei.android.chr** HwChrService Huawei Запись истории вызовов. 
 
-<h3 align="center"> com.huawei.android.chr </h3>
-HwChrService
+**com.huawei.android.FloatTasks** Функция плавучего дока
 
-Huawei Запись истории вызовов. 
+**com.huawei.android.hsf** Huawei Services Framework 3 разрешения : DELETE_PACKAGES, INSTALL_PACKAGES, PACKAGE_USAGE_STATS Безопасное удаление по мнению пользователей huawei
 
-<h3 align="center"> com.huawei.android.FloatTasks </h3>
+**com.huawei.android.hwpay** Huawei Pay Сервис мобильных платежей и электронных кошельков для устройств Huawei, который предлагает те же услуги, что и Apple Pay, Samsung Pay и т.д....
 
-Функция плавучего дока
+**com.huawei.android.instantonline** Никаких заметных последствий
 
-<h3 align="center"> com.huawei.android.hsf </h3>
+**com.huawei.android.instantshare** Возможности Huawei Share. Инструмент передачи файлов между мобильными телефонами Huawei с использованием соединения Bluetooth и технологии WiFi Direct.
 
-Huawei Services Framework
+**com.huawei.android.karaoke** Караоке мод
 
-3 разрешения : DELETE_PACKAGES, INSTALL_PACKAGES, PACKAGE_USAGE_STATS
+**com.huawei.android.mirrorshare** Функция MirrorShare (Miracast, ребрендинг Huawei) Используется для зеркального отображения экрана смартфона на телевизоре.
 
-Безопасное удаление по мнению пользователей huawei
+**com.huawei.android.remotecontroller** Приложение uawei Smart Controller. Позволяет добавлять, настраивать и конфигурировать пульты дистанционного управления, обеспечивая управление электронными приборами через телефон. 
 
-<h3 align="center">com.huawei.android.hwpay</h3>
+**com.huawei.android.tips** HUAWEI Feature Advisor Периодически выдает уведомления о том, как использовать определенные функции на телефоне.
 
-Huawei Pay
+**com.huawei.android.totemweather**
 
-Сервис мобильных платежей и электронных кошельков для устройств Huawei, который предлагает те же услуги, что и Apple Pay, Samsung Pay и т.д....
+**com.huawei.android.totemweatherapp** Huawei Weather app (and its widget)
 
-<h3 align="center">com.huawei.android.instantonline</h3>
-никаких заметных последствий
+**com.huawei.android.totemweatherwidget**
 
-<h3 align="center">com.huawei.android.instantshare</h3>
+**com.huawei.android.wfdft**
 
-Возможности Huawei Share.
+**com.huawei.android.wfdirect** Wifi direct feature позволяет устройствам устанавливать прямое Wi-Fi соединение (без маршрутизатора), через которое они могут отправлять и получать файлы. 
 
-Инструмент передачи файлов между мобильными телефонами Huawei с использованием соединения Bluetooth и технологии WiFi Direct.
+**com.huawei.appmarket** Магазин приложений Huawei (AppGallery)
 
-<h3 align="center">com.huawei.android.karaoke</h3>
+**com.huawei.arengine.service** Сервис дополненной реальности.
 
-Караоке мод
+**com.huawei.bd** HwUE (Huawei UserExperience) Когда компания называет что-то "UserExperience", вы знаете, что вам это не нужно. Служба аналитики, запускается при загрузке. Собирает информацию об использовании пакетов/приложений. Имеет красивое пользовательское разрешение com.huawei.permission.BIG_DATA
 
-<h3 align="center">com.huawei.android.mirrorshare</h3>
+**com.huawei.browser** Huawei Browser app
 
-Функция MirrorShare (Miracast, ребрендинг Huawei)
+**com.huawei.browserhomepage** Huawei Browser component
 
-Используется для зеркального отображения экрана смартфона на телевизоре.
+**com.huawei.compass** Huawei Compass app
 
-<h3 align="center">com.huawei.android.remotecontroller</h3>
+**com.huawei.contactscamcard** CamCard - это приложение для чтения визитных карточек.
 
-Приложение uawei Smart Controller.
+**com.huawei.contacts.sync** Синхронизация контактов Huawei, по моим предположениям (apk под рукой нет), это позволяет синхронизировать контакты с учетной записью Huawei.
 
-Позволяет добавлять, настраивать и конфигурировать пульты дистанционного управления, обеспечивая управление электронными приборами через телефон. 
+**com.huawei.desktop.explorer** Из темы XDA: "Сервис, который используется, когда вы хотите использовать свой телефон в качестве операционной системы на ПК."
 
-<h3 align="center">com.huawei.android.tips</h3>
+**com.huawei.email** Huawei Email app.
 
-HUAWEI Feature Advisor
+**com.huawei.fido.uafclient** UAF клиент для FIDO. Fido - это набор открытых технических спецификаций для механизмов аутентификации пользователей в онлайн-сервисах, которые не зависят от паролей. https://fidoalliance.org/specs/u2f-specs-1.0-bt-nfc-id-amendment/fido-glossary.html https://fidoalliance.org/specs/fido-v2.0-rd-20170927/fido-overview-v2.0-rd-20170927.html
 
-Периодически выдает уведомления о том, как использовать определенные функции на телефоне.
+Протокол UAF разработан для того, чтобы онлайн-сервисы могли предложить беспарольную и многофакторную безопасность, позволяя пользователям регистрировать свои устройства. В онлайн-сервисе и использовать локальный механизм аутентификации, такой как распознавание радужной оболочки глаза или отпечатков пальцев.
 
-<h3 align="center">com.huawei.android.totemweather</h3>
+https://developers.google.com/identity/fido/android/native-apps Безопасно для удаления, если вы не используете беспарольную аутентификацию для доступа к онлайн-сервисам.
 
-<h3 align="center">com.huawei.android.totemweatherapp</h3>
-
-<h3 align="center">com.huawei.android.totemweatherwidget</h3>
-
-Huawei Weather app (and its widget)
-
-<h3 align="center">com.huawei.android.wfdft</h3>
-
-<h3 align="center">com.huawei.android.wfdirect</h3>
-
-Wi-Fi Direct feature.
-
-Примечание: Wifi direct позволяет устройствам устанавливать прямое Wi-Fi соединение (без маршрутизатора), через которое они могут отправлять и получать файлы. 
-
-<h3 align="center">com.huawei.appmarket</h3>
-
-Магазин приложений Huawei (AppGallery)
-
-<h3 align="center">com.huawei.arengine.service</h3>
-
-Сервис дополненной реальности.
-
-<h3 align="center">com.huawei.bd</h3>
-
-HwUE (Huawei UserExperience)
-
-Когда компания называет что-то "UserExperience", вы знаете, что вам это не нужно.
-
-Служба аналитики, запускается при загрузке. Собирает информацию об использовании пакетов/приложений.
-
-Имеет красивое пользовательское разрешение com.huawei.permission.BIG_DATA
-
-<h3 align="center">com.huawei.browser</h3>
-
-Huawei Browser app
-
-<h3 align="center">com.huawei.browserhomepage</h3>
-
-Huawei Browser component
-
-<h3 align="center">com.huawei.compass</h3>
-
-Huawei Compass app
-
-<h3 align="center">com.huawei.contactscamcard</h3>
-
-CamCard - это приложение для чтения визитных карточек.
-
-<h3 align="center">com.huawei.contacts.sync</h3>
-
-Синхронизация контактов Huawei
-
-По моим предположениям (apk под рукой нет), это позволяет синхронизировать контакты с учетной записью Huawei.
-
-<h3 align="center">com.huawei.desktop.explorer</h3>
-
-Из темы XDA: "Сервис, который используется, когда вы хотите использовать свой телефон в качестве операционной системы на ПК."
-
-Я не понимаю, что это значит.
-
-<h3 align="center">com.huawei.email</h3>
-
-Huawei Email app.
-
-<h3 align="center">com.huawei.fido.uafclient</h3>
-
-UAF клиент для FIDO.
-
-Fido - это набор открытых технических спецификаций для механизмов аутентификации пользователей в онлайн-сервисах, которые не зависят от паролей.
-
-https://fidoalliance.org/specs/u2f-specs-1.0-bt-nfc-id-amendment/fido-glossary.html
-
-https://fidoalliance.org/specs/fido-v2.0-rd-20170927/fido-overview-v2.0-rd-20170927.html
-
-Протокол UAF разработан для того, чтобы онлайн-сервисы могли предложить беспарольную и многофакторную безопасность, позволяя пользователям регистрировать свои устройства. 
-
-в онлайн-сервисе и использовать локальный механизм аутентификации, такой как распознавание радужной оболочки глаза или отпечатков пальцев.
-
-https://developers.google.com/identity/fido/android/native-apps
-
-Безопасно для удаления, если вы не используете беспарольную аутентификацию для доступа к онлайн-сервисам.
-
-<h3 align="center">com.huawei.game.kitserver</h3>
+**com.huawei.game.kitserver**
 
 Вероятно, можно удалить, если вы не играете в игры
 
