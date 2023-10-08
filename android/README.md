@@ -92,13 +92,9 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 
 **com.huawei.hicloud** Huawei cloud features
 
-<img width=25px src="https://i.imgur.com/SyudK20.png"> **Push Service (com.huawei.android.pushagent)** ✔
+<img width=25px src="https://i.imgur.com/SyudK20.png"> **Push Service (com.huawei.android.pushagent)** ✔ Агент push-уведомлений. Похоже, что используется только для приложений Huawei. Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
 
-Агент push-уведомлений. Похоже, что используется только для приложений Huawei. Перекомпилированный java-код создает впечатление, что он снова используется в основном для аналитики.
-
-<img width=25px src="https://i.imgur.com/MkSZNfa.png"> **Import via Bluetooth (com.huawei.bluetooth)** ✔
-
-Позволяет импортировать контакты через Bluetooth. Bluetooth будет работать, если вы удалите этот пакет.
+<img width=25px src="https://i.imgur.com/MkSZNfa.png"> **Import via Bluetooth (com.huawei.bluetooth)** ✔ Позволяет импортировать контакты через Bluetooth. Bluetooth будет работать, если вы удалите этот пакет.
 
 <h3 align="center"><img width=30px src="https://img.utdstc.com/icon/330/5ef/3305ef3468438429dd78e582df3b1e2ad6ec027caa7143faf84e5c358152103d:200"> Smart diagnosis (com.huawei.hwdetectrepair) ✔</h3>
 
