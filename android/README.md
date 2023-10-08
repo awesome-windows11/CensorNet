@@ -96,241 +96,91 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 
 <img width=25px src="https://i.imgur.com/MkSZNfa.png"> **Import via Bluetooth (com.huawei.bluetooth)** ✔ Позволяет импортировать контакты через Bluetooth. Bluetooth будет работать, если вы удалите этот пакет.
 
-<h3 align="center"><img width=30px src="https://img.utdstc.com/icon/330/5ef/3305ef3468438429dd78e582df3b1e2ad6ec027caa7143faf84e5c358152103d:200"> Smart diagnosis (com.huawei.hwdetectrepair) ✔</h3>
+<img width=25px src="https://i.imgur.com/BO3BS45.png"> **Smart diagnosis (com.huawei.hwdetectrepair)** ✔ Диагностика Huawei Smart (https://play.google.com/store/apps/details?id=com.huawei.hwdetectrepair) Бесполезные функции и работа в фоновом режиме.
 
-Диагностика Huawei Smart (https://play.google.com/store/apps/details?id=com.huawei.hwdetectrepair)
-<br>
-Бесполезные функции и работа в фоновом режиме.
+<img width=25px src="https://i.imgur.com/VFU4W9T.png"> **AppAdvisor (com.huawei.hifolder)** ✔ Huawei Online Cloud folder service Простыми словами — данная программ просто предложит вам загрузить приложения, которые вероятно вам могут быть интересны. Нет необходимости их искать вручную. То есть программа сама порекомендует вам приложения, которые считает что будут вам интересны.
 
+**Smart unlock (com.huawei.trustagent) ✔** Функция интеллектуальной разблокировки. Позволяет разблокировать телефон с помощью устройства Bluetooth, например смарт-браслета.  При обнаружении совместимого устройства Bluetooth можно разблокировать телефон простым движением пальца (без пароля).
 
-<h3 align="center"><img width=30px src="https://imgrs.apkcombo.com/eDep25wd0Fnjo5CUQ9aeJGWFO6KHwRG3y315fYlDcak/fit/150/0/sm/0/Y29tLmh1YXdlaS5oaWZvbGRlci9pY29uLnBuZw.png"> AppAdvisor (com.huawei.hifolder) ✔</h3>
+**com.huawei.himovie.overseas** Замените на VLC, который хорошо интегрируется со стоковой галереей
 
-Huawei Online Cloud folder service
-<br>
-Простыми словами — данная программ просто предложит вам загрузить приложения, которые вероятно вам могут быть интересны. Нет необходимости их искать вручную. То есть программа сама порекомендует вам приложения, которые считает что будут вам интересны.
+**com.huawei.hitouch** Помощник, способный распознавать объекты на фотографии и искать их на различных торговых сайтах.
 
-<h3 align="center">Smart unlock (com.huawei.trustagent) ✔</h3>
+**com.huawei.hwasm** FIDO UAF Autenthicator-Specific Module. См. раздел 'com.huawei.fido.uafclient' для объяснения FIDO. Модуль UAF Authenticator-Specific Module (ASM) - это программный интерфейс поверх аутентификаторов UAF, который предоставляет стандартизированный способ для клиентов FIDO UAF. Для обнаружения и доступа к функциональности аутентификаторов UAF и скрывает сложность внутренней коммуникации от клиента FIDO UAF.
 
-Функция интеллектуальной разблокировки.
+**com.huawei.hwblockchain** Возможно, связанные с блокчейном, без заметных последствий
 
-Позволяет разблокировать телефон с помощью устройства Bluetooth, например смарт-браслета. 
+**com.huawei.HwMultiScreenShot** Scrolling screenshot feature
 
-При обнаружении совместимого устройства Bluetooth можно разблокировать телефон простым движением пальца (без пароля).
+**com.huawei.hwstartupguide** Приложение для одноразовой установки, которое больше не нужно
 
-<h3 align="center">com.huawei.himovie.overseas</h3>
+**com.huawei.hwvoipservice** MeeTime 
 
-Замените на VLC, который хорошо интегрируется со стоковой галереей
+**com.huawei.iaware** App Prioritizer. Устанавливает приоритеты приложений, чтобы избежать замедления работы. Решать вам, но, судя по всему, заметной разницы при удалении нет.
 
-<h3 align="center">com.huawei.hitouch</h3>
+**com.huawei.ihealth** Пакет MotionService, он необходим для таких действий, как встряхивание телефона для отключения будильника, ecc.
 
-Помощник, способный распознавать объекты на фотографии и искать их на различных торговых сайтах.
+**com.huawei.intelligent** Huawei Assistant. Рекомендации по покупкам
 
-<h3 align="center">com.huawei.hwasm</h3>
+**com.huawei.health** подключать носимые устройства Huawei к телефону и получать всевозможные статистические данные, как это делают все приложения для отслеживания фитнеса.
 
-FIDO UAF Autenthicator-Specific Module.
+**com.huawei.livewallpaper.paradise**
 
-См. раздел 'com.huawei.fido.uafclient' для объяснения FIDO.
+**com.huawei.livewallpaper.artflower**
 
-Модуль UAF Authenticator-Specific Module (ASM) - это программный интерфейс поверх аутентификаторов UAF, который предоставляет стандартизированный способ для клиентов FIDO UAF. 
+**com.huawei.livewallpaper.flowersbloom** Live wallpapers
 
-для обнаружения и доступа к функциональности аутентификаторов UAF и скрывает сложность внутренней коммуникации от клиента FIDO UAF.
+**com.huawei.magazine** Журнал разблокировки. Загрузка обоев для экрана блокировки.
 
-<h3 align="center">com.huawei.hwblockchain</h3>
+**com.huawei.mirror** Приложение Huawei Mirror. Mirror как "Glass"
 
-возможно, связанные с блокчейном, без заметных последствий
+**com.huawei.mirrorlink** Используется для подключения телефона к автомобилю (с поддержкой https://mirrorlink.com/) с целью обеспечения потокового аудио, GPS-навигации...
 
-<h3 align="center">com.huawei.HwMultiScreenShot</h3>
+**com.huawei.music** Huawei Music app.
 
-Scrolling screenshot feature
+**com.huawei.parentcontrol** Parental controls functions.
 
-<h3 align="center">com.huawei.hwstartupguide</h3>
+**com.huawei.pcassistant** Служба HiSuite. Используется программным обеспечением HiSuite для ПК. HiSuite позволяет создавать резервные копии данных и восстанавливать их с/на телефон.
 
-Приложение для одноразовой установки, которое больше не нужно
+**com.huawei.phoneservice** Предоставляет вам общие онлайн-услуги, включая обслуживание клиентов, обратную связь по вопросам, руководства пользователя, центры обслуживания и самообслуживание. 
 
-<h3 align="center">com.huawei.hwvoipservice</h3>
+**com.huawei.scanner** Объектив с искусственным интеллектом. Покупайте объекты, которые вы сфотографировали. Это упрощает интерфейс камеры, убирая кнопку AI Lens в левом верхнем углу, и не нарушает работу приложения AR Measure.
 
-MeeTime 
+**com.huawei.stylus.floatmenu** Плавающее меню с функцией M-Pen.
 
-<h3 align="center">com.huawei.iaware</h3>
+**com.huawei.synergy** Huawei Cloud & Network Synergy
 
-App Prioritizer. Устанавливает приоритеты приложений, чтобы избежать замедления работы.
+**com.huawei.tips** HUAWEI Feature Advisor Периодически выдает уведомления о том, как использовать определенные функции на телефоне.
 
-Решать вам, но, судя по всему, заметной разницы при удалении нет.
+**com.huawei.vassistant** HiVoice app. Vocal assistant like Siri or Alexa
 
-<h3 align="center">com.huawei.ihealth</h3>
+**com.huawei.videoeditor** Huawei Video editor
 
-Пакет MotionService, он необходим для таких действий, как встряхивание телефона для отключения будильника, ecc.
+**com.huawei.vassistant** Приложение HiVoice голосовой помощник Huawei (как Siri или Google Assistant) Огромный риск конфиденциальности. Имейте в виду, что приложение держит микрофон *включенным* постоянно. Теперь это Селия (https://consumer.huawei.com/en/emui/celia/)
 
-<h3 align="center">com.huawei.intelligent</h3>
+**com.huawei.wallet** Huawei Wallet (renammed Huawei Pay)
 
-Huawei Assistant. Рекомендации по покупкам
+**com.huawei.watch.sync** Функция синхронизации Huawei Watch Используется ли он только для синхронизации часов Huawei? Безопасное удаление по мнению нескольких пользователей
 
-<h3 align="center">com.huawei.health</h3>
+**com.iflytek.speechsuite** Метод голосового ввода по умолчанию от iflytek, крупной китайской компании (https://en.wikipedia.org/wiki/IFlytek) IFLytek была замешана в нарушениях прав человека: 
 
-подключать носимые устройства Huawei к телефону и получать всевозможные статистические данные, как это делают все приложения для отслеживания фитнеса.
+**com.nuance.swype.emui** Функции Swype на Huawei. Это полная клавиатура Swype или только функция Swype на клавиатуре Huawei? ПРИМЕЧАНИЕ: Компания Nuance заявила, что прекращает поддержку приложения клавиатуры Swype.
 
-<h3 align="center">com.huawei.livewallpaper.paradise</h3>
+**com.hisi.mapcon** Предоставляет функцию wifi call (звоните или отправляйте текстовые сообщения в сетях Wi-Fi с помощью SIM-карты). Мгновенный обмен видео/голосовыми сообщениями не использует эту функцию "wifi звонка".  Кроме того, вам следует использовать приложение для обмена сообщениями E2EE, например Signal/Session/Element(https://element.io/), вместо незащищенной функции wifi-звонков.
 
-<h3 align="center">com.huawei.livewallpaper.artflower</h3>
+**com.huawei.android.thememanager** Позволяет использовать темы Huawei. Вы должны иметь возможность устанавливать обои без него. Кто-нибудь может проверить?
 
-<h3 align="center">com.huawei.livewallpaper.flowersbloom</h3>
+**Huawei Share (com.huawei.android.internal.app) ❌** Компонент совместного использования Huawei. Я прочитал, что кто-то сказал: "Не удаляйте, иначе вы не сможете отправлять файлы в приложения". Кто-нибудь может это проверить? 
 
-Live wallpapers
-
-<h3 align="center">com.huawei.magazine</h3>
-
-Журнал разблокировки. Загрузка обоев для экрана блокировки.
-
-<h3 align="center">com.huawei.mirror</h3>
-
-Приложение Huawei Mirror. 
-
-Mirror как "Glass"
-
-<h3 align="center">com.huawei.mirrorlink</h3>
-
-Используется для подключения телефона к автомобилю (с поддержкой https://mirrorlink.com/) с целью обеспечения потокового аудио, GPS-навигации...
-
-<h3 align="center">com.huawei.music</h3>
-
-Huawei Music app.
-
-<h3 align="center">com.huawei.parentcontrol</h3>
-
-Parental controls functions.
-
-<h3 align="center">com.huawei.pcassistant</h3>
-
-Служба HiSuite. Используется программным обеспечением HiSuite для ПК.
-
-HiSuite позволяет создавать резервные копии данных и восстанавливать их с/на телефон.
-
-<h3 align="center">com.huawei.phoneservice</h3>
-
-Предоставляет вам общие онлайн-услуги, включая обслуживание клиентов, обратную связь по вопросам, руководства пользователя, центры обслуживания и самообслуживание. 
-
-<h3 align="center">com.huawei.scanner</h3>
-
-Объектив с искусственным интеллектом. Покупайте объекты, которые вы сфотографировали. Это упрощает интерфейс камеры, убирая кнопку AI Lens в левом верхнем углу, и не нарушает работу приложения AR Measure.
-
-<h3 align="center">com.huawei.stylus.floatmenu</h3>
-
-Плавающее меню с функцией M-Pen.
-
-<h3 align="center">com.huawei.synergy</h3>
-
-Huawei Cloud & Network Synergy
-
-<h3 align="center">com.huawei.tips</h3>
-
-HUAWEI Feature Advisor
-
-Периодически выдает уведомления о том, как использовать определенные функции на телефоне.
-
-<h3 align="center">com.huawei.vassistant</h3>
-
-HiVoice app.
-
-Vocal assistant like Siri or Alexa
-
-<h3 align="center">com.huawei.videoeditor</h3>
-
-Huawei Video editor
-
-<h3 align="center">com.huawei.vassistant</h3>
-
-приложение HiVoice
-
-Голосовой помощник Huawei (как Siri или Google Assistant)
-
-Огромный риск конфиденциальности. Имейте в виду, что приложение держит микрофон *включенным* постоянно.
-
-Теперь это Селия (https://consumer.huawei.com/en/emui/celia/)
-
-<h3 align="center">com.huawei.wallet</h3>
-
-Huawei Wallet (renammed Huawei Pay)
-
-<h3 align="center">com.huawei.watch.sync</h3>
-
-Функция синхронизации Huawei Watch
-
-Используется ли он только для синхронизации часов Huawei?
-
-Безопасное удаление по мнению нескольких пользователей
-
-<h3 align="center">com.iflytek.speechsuite</h3>
-
-Метод голосового ввода по умолчанию от iflytek, крупной китайской компании (https://en.wikipedia.org/wiki/IFlytek)
-
-IFLytek была замешана в нарушениях прав человека: 
-
-<h3 align="center">com.nuance.swype.emui</h3>
-
-Функции Swype на Huawei.
-
-Это полная клавиатура Swype или только функция Swype на клавиатуре Huawei? 
-
-ПРИМЕЧАНИЕ : Компания Nuance заявила, что прекращает поддержку приложения клавиатуры Swype.
-
-<h3 align="center">com.hisi.mapcon</h3>
-
-Предоставляет функцию wifi call (звоните или отправляйте текстовые сообщения в сетях Wi-Fi с помощью SIM-карты).
-
-Мгновенный обмен видео/голосовыми сообщениями не использует эту функцию "wifi звонка". 
-
-Кроме того, вам следует использовать приложение для обмена сообщениями E2EE, например Signal/Session/Element(https://element.io/), вместо незащищенной функции wifi-звонков.
-
-
-<h3 align="center">com.huawei.android.thememanager</h3>
-
-Позволяет использовать темы Huawei.
-
-Вы должны иметь возможность устанавливать обои без него. Кто-нибудь может проверить?
-
-<h3 align="center">Huawei Share (com.huawei.android.internal.app) ❌</h3>
-
-Компонент совместного использования Huawei. Я прочитал, что кто-то сказал: "Не удаляйте, иначе вы не сможете отправлять файлы в приложения".
-
-Кто-нибудь может это проверить? 
-
-<h3 align="center">com.huawei.android.launcher</h3>
-
-Приложение Huawei launcher.
-
-Это, по сути, домашний экран, способ организации и отображения значков приложений.
-
-**НЕ УДАЛЯЙТЕ ЕГО, ЕСЛИ ВЫ НЕ УСТАНОВИЛИ ДРУГУЮ ПРОГРАММУ ЗАПУСКА!**
+**com.huawei.android.launcher ❌** Приложение Huawei launcher. Это, по сути, домашний экран, способ организации и отображения значков приложений. **НЕ УДАЛЯЙТЕ ЕГО, ЕСЛИ ВЫ НЕ УСТАНОВИЛИ ДРУГУЮ ПРОГРАММУ ЗАПУСКА!**
 
 Этот пакет может понадобиться для работы функции недавних приложений (даже если у вас установлена другая программа запуска).
 
-<h3 align="center">com.huawei.search</h3>
+**com.huawei.search** Позволяет выполнять поиск в настройках, файлах, контактах и заметках, сохраняя историю поиска. Hi Search действительно раздражает, потому что он запускается, как только вы стираете со средней части дома.
 
-Позволяет выполнять поиск в настройках, файлах, контактах и заметках, сохраняя историю поиска.
+**com.huawei.securitymgr** Позволяет хранить конфиденциальную информацию в скрытом пространстве внутри устройства, доступ к которому можно получить только с помощью отпечатка пальца или пароля. Шифрование данных в состоянии покоя? Если нет, то это бесполезно
 
-Hi Search действительно раздражает, потому что он запускается, как только вы стираете со средней части дома.
-
-<h3 align="center">com.huawei.securitymgr</h3>
-
-Позволяет хранить конфиденциальную информацию в скрытом пространстве внутри устройства, доступ к которому можно получить только с помощью отпечатка пальца или пароля.
-
-Шифрование данных в состоянии покоя? Если нет, то это бесполезно
-
-<h3 align="center">com.huawei.systemmanager</h3>
-
-Управляет поведением приложений и разрешает им работать (или не работать) в фоновом режиме.
-
-УДАЛЕНИЕ МОЖЕТ СЛОМАТЬ ТЕЛЕФОН И ОТПРАВИТЬ ЕГО В BOOTLOOP!
-
-
-
-
-
-
-
-
-
-
+**com.huawei.systemmanager ❌** Управляет поведением приложений и разрешает им работать (или не работать) в фоновом режиме. **УДАЛЕНИЕ МОЖЕТ СЛОМАТЬ ТЕЛЕФОН И ОТПРАВИТЬ ЕГО В BOOTLOOP!**
 
 --------------------
 
