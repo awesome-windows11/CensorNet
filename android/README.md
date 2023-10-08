@@ -10,9 +10,7 @@
 
 **com.baidu.input_huawei** Woh! 51 разрешение!  Huawei китайская стоковая клавиатура ввода.
 
-**com.hicloud.android.clone** Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)
-<br>
-171 Permissions (https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest)
+**com.hicloud.android.clone** Huawei Phone Clone[^3] 171 Permissions[^4]
 
 Приложение для миграции данных между телефонами Huawei. Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
 
@@ -184,7 +182,8 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 
 [^1]: https://dontkillmyapp.com/huawei
 [^2]: https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
-
+[^3]: https://play.google.com/store/apps/details?id=com.hicloud.android.clone
+[^4]: https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest
 
 https://forum.xda-developers.com/honor-6x/how-to/guide-list-bloat-software-emui-safe-to-t3700814
 <br>
