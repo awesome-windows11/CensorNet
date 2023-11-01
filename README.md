@@ -9,6 +9,8 @@
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/pass">🛡 Pass</a></h3>
 
+<h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/encryption">🔑 Encryption</a></h3>
+
 <h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
 <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> https://antizapret.prostovpn.org
