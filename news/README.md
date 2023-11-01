@@ -29,7 +29,7 @@ https://web.telegram.org/k/#@roskomsvoboda [[A]](https://web.telegram.org/a/#-10
 <br>
 https://t.me/rks_tech_talk
 <br>
-https://web.telegram.org/k/#@teplitsa
+https://t.me/teplitsa
 <br>
 https://web.telegram.org/k/#@cyberyozh_official
 <br>
