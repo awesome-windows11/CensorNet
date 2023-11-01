@@ -21,7 +21,7 @@ https://restoreprivacy.com
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
 <br>
-https://t.me/open_source_friend
+tg:resolve?domain=open_source_friend 
 
 <h3 align="center"> Privacy, Censorship</h3>
 
