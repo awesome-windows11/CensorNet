@@ -9,12 +9,16 @@ https://github.com/HACKERALERT/Picocrypt
 https://github.com/veracrypt/VeraCrypt
 <br>
 https://github.com/cryptomator/cryptomator
+
+Стенография внутри изображений
+
+https://github.com/DJayalath/ImSter
+
+Зашифрованные сайты, файлы и ссылки
+
+https://github.com/hscrypt/demos
 <br>
-Steg Image | https://github.com/DJayalath/ImSter
-<br>
-Encryption HTML Site | https://github.com/hscrypt/demos
-<br>
-Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
+https://github.com/mprimi/portable-secret
 <br>
 https://github.com/hypervault/hypervault.github.io
 
