@@ -4,6 +4,7 @@
 > <br>
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
+<h2 align="center"><a src="https://github.com/awesome-windows11/CensorNet/tree/main/pass">123</a></h2>
 
 <h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
