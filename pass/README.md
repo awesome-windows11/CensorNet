@@ -17,6 +17,9 @@
 
 [^1]: https://xakep.ru/2017/01/17/two-factor-authentication-hacking/
 
+### ❌ Недостатки TOTP по SMS
+- СМС могут быть перехвачены как на уровне провайдера, так и заменой или клонированием SIM-карты
+- Физический доступ к SIM-карте никак не обезопасит от данного рода защиты (единственное решение - установка PIN, который не очень безопасен)
 
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
