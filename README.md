@@ -228,6 +228,8 @@ https://spyware.neocities.org/articles/
 <br>
 Element.io | https://element.io/get-started
 <br>
+https://simplex.chat/
+<br>
 Мессенджер | https://github.com/orbitdb/orbit
 <br>
 Мессенджер | https://github.com/berty/berty
