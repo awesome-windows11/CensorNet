@@ -1,3 +1,5 @@
+Всё что нужно знать о паролях и защиты личных аккаунтов
+
 <h2 align="center">🛡 Pass</h2>
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> https://bitwarden.com
