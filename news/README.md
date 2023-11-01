@@ -41,3 +41,7 @@ https://web.telegram.org/k/#@na_svyazi_helpdesk
 https://web.telegram.org/k/#@ifreedomlab
 
 https://web.telegram.org/k/#@cyberyozhtalks
+
+<h2 align="center"> YouTube</h2>
+
+https://www.youtube.com/@DeptOne
