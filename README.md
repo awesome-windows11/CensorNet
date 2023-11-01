@@ -1,6 +1,6 @@
 <h1 align="center">🕵️‍ CensorNet</h1>
 
-> https://censor.now.sh
+> https://censorship.vercel.app
 > <br>
 > [📵 Download for offline use](https://github.com/awesome-windows11/CensorNet/archive/refs/heads/main.zip) 
 
