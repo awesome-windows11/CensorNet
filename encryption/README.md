@@ -2,13 +2,13 @@
 
 <h2 align="center">🔑 Encryption</h2>
 
-Hat.sh | https://github.com/sh-dv/hat.sh
+https://github.com/sh-dv/hat.sh
 <br>
-Picocrypt | https://github.com/HACKERALERT/Picocrypt
+https://github.com/HACKERALERT/Picocrypt
 <br>
-VeraCrypt | https://github.com/veracrypt/VeraCrypt
+https://github.com/veracrypt/VeraCrypt
 <br>
-Cryptomator | https://github.com/cryptomator/cryptomator
+https://github.com/cryptomator/cryptomator
 <br>
 Steg Image | https://github.com/DJayalath/ImSter
 <br>
