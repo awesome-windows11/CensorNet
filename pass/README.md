@@ -29,11 +29,11 @@
 - Разблокирование загрузчика также позволяет получить данные любых приложений (единственное решение - активировать шифрование в настройках приложения, все представленные ниже приложения позволяют это сделать)
 - Разблокировка по местоположению, по фотографии лица и подобные также позволяет получить данные
 
+<img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
+<br>
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
 <img width=20px src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/logo.png"></img> https://github.com/andOTP/andOTP
-<br>
-<img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
 <br>
