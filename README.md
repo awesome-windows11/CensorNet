@@ -91,59 +91,6 @@ Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ul
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
 
-<h2 align="center">🔑 Encryption / Steganography</h2>
-
-Hat.sh | https://github.com/sh-dv/hat.sh
-<br>
-Picocrypt | https://github.com/HACKERALERT/Picocrypt
-<br>
-VeraCrypt | https://github.com/veracrypt/VeraCrypt
-<br>
-Cryptomator | https://github.com/cryptomator/cryptomator
-<br>
-Steg Image | https://github.com/DJayalath/ImSter
-<br>
-Encryption HTML Site | https://github.com/hscrypt/demos
-<br>
-Encryption HTML Links, Files | https://github.com/mprimi/portable-secret
-<br>
-https://github.com/hypervault/hypervault.github.io
-
-```
-copy /b 1.jpg + 1.zip 2.jpg
-```
-<br>
-
-<img width=20px src="https://raw.githubusercontent.com/KuroLabs/stegcloak/master/assets/stegCloakIcon.svg"></img> https://github.com/KuroLabs/stegcloak
-<br>
-https://github.com/neatnik/steganographr
-<br>
-<img width=20px src="https://futureboy.us/images/futureboyicon.png"></img> https://futureboy.us/stegano (image)
-<br>
-https://paranoiaworks.mobi/ptepc
-<br>
-Encryption Images | https://github.com/kaushalmeena/digi-cloak
-
-
-<h2 align="center">🔑 Hash</h2>
-
-🔑 https://emn178.github.io/online-tools
-<br>
-https://github.com/antelle/argon2-browser
-<br>
-https://argon2.online/
-<br>
-🔑 Create HASH | http://www.hashemall.com
-<br>
-🔑 Decrypt HASH | https://crackstation.net
-<br>
-🔑 Decrypt SHA-1 | https://sha1.gromweb.com
-<br>
-USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
-<br>
-DeepSound | http://jpinsoft.net/deepsound/download.aspx
-
-
 <h2 align="center">📝 Notes</h2>
 
 https://www.protectedtext.com
