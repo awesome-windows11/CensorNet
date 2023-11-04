@@ -8,7 +8,7 @@
 <br>
 ✔ Поддерживает OpenVPN
 
-<h3> <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
+<h3> <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
 
 Не совсем ВПН, а скорее DNS шифратор. 
 
