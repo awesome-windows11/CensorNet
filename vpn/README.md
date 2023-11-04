@@ -24,8 +24,14 @@
 <br>
 ✔ Имеет Android версию
 
-<img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
+<h3> <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> <a href="https://torproject.org/download/">Tor Browser</a></h3>
+
+✔ Полная анонимность
 <br>
+❌ Медленная скорость подключения
+<br>
+❌ Android версия использует только режим инкогнито
+
 https://github.com/abysshint/tor-control-panel
 <br>
 <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
