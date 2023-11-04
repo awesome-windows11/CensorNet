@@ -88,6 +88,8 @@ https://hide.me/ru/proxy
 VPNify | https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify
 <br>
 Ultrasurf | https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf
+<br>
+https://f-droid.org/ru/packages/org.calyxinstitute.vpn/
 
 <h3 align="center">BlackList VPN</h3>
 
