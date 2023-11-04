@@ -8,8 +8,16 @@
 <br>
 ✔ Поддерживает OpenVPN
 
-<img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
+<h3> <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
+
+Не совсем ВПН, а скорее DNS шифратор. 
+
+❌ Не работает в России[^1]
 <br>
+✔ Поддерживает Wireguard
+
+[^1]: https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
+
 <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> https://psiphon3.com/download.html
 <br>
 <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
