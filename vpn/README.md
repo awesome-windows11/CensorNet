@@ -1,7 +1,13 @@
 <h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
-<img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> https://antizapret.prostovpn.org
+<h3> <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://antizapret.prostovpn.org">Антизапрет</a></h3>
+
+Добровольческое бесплатное ВПН. Обладает достаточно быстрой скоростью.
+
+✔ Проксирует только заблокированные сайты
 <br>
+✔ Поддерживает OpenVPN
+
 <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> https://1.1.1.1 ([It doesn't work?](https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard))
 <br>
 <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> https://psiphon3.com/download.html
