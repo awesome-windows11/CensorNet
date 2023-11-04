@@ -18,8 +18,6 @@ https://github.com/abysshint/tor-control-panel
 <br>
 <img width=20px src="https://i.imgur.com/ZPk4Rro.png"></img> https://www.nthlink.com
 <br>
-<img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
-<br>
 <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
 <br>
 Veepn | https://veepn.com/ru/
@@ -51,6 +49,10 @@ https://freevpnplanet.com/
 https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncfpfggjefnekilbkcpjdgp
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
+
+<h3 align="center">🕵️‍♂️ Client</h3>
+
+<img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
