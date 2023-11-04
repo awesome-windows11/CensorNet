@@ -10,6 +10,8 @@
 <br>
 https://github.com/abysshint/tor-control-panel
 <br>
+<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
+<br>
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
@@ -17,8 +19,6 @@ https://github.com/abysshint/tor-control-panel
 <img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> https://github.com/ValdikSS/GoodbyeDPI
 <br>
 <img width=20px src="https://i.imgur.com/ZPk4Rro.png"></img> https://www.nthlink.com
-<br>
-<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
 <br>
 Veepn | https://veepn.com/ru/
 <br>
