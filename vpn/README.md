@@ -67,6 +67,8 @@ https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplplocca
 <h3 align="center">🕵️‍♂️ Client</h3>
 
 <img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
+<br>
+https://github.com/OpenVPN/openvpn
 
 <h3 align="center">🕵️‍♂️ Standalone</h3>
 
