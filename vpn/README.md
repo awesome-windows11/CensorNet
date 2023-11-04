@@ -18,8 +18,10 @@
 
 [^1]: https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
 
-<img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> https://psiphon3.com/download.html
-<br>
+<h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
+
+✔ Имеет Android версию
+
 <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
 <br>
 https://github.com/abysshint/tor-control-panel
