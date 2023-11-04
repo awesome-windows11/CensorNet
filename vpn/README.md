@@ -20,6 +20,8 @@
 
 <h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
 
+✔ Проксирует только US/EN сайты
+<br>
 ✔ Имеет Android версию
 
 <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> https://torproject.org/download/
