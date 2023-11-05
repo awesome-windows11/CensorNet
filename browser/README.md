@@ -132,6 +132,7 @@ https://www.youtube.com/watch?v=NV8akIgfDqQ
 <h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
 
 ❌ $\color{red}{\textsf{HIGH}}$
+
 Vivaldi makes about 119 requests on startup, and continues to make unsolicited connections after. Anti-privacy Bing is the default search engine.
 
 **EVEN IF** you disable everything under "Google Services" and "Google Extensions" under "Privacy" in settings, it will still make automatic connections to Google. Also makes connections after first start up to `mirmir.vivaldi.com` and `downloads.vivaldi.com`.
