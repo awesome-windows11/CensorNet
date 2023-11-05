@@ -1,8 +1,13 @@
-<h4 align="center"> FOSS App: Freedom, Privacy, Democracy... </h4>
+<h2 align="center"> FOSS App: Freedom, Privacy, Democracy... </h4>
 
 #### ~<img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> VK Mail, <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> Mail.ru, <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
 
-### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me), <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
+### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
+- Сквозное шифрование и шифрование с нулевым доступом означают, что никто (даже Proton) не сможет получить доступ к вашим данным с помощью технических средств без вашего разрешения
+- Proton базируется в Швейцарии. Это означает, что все пользовательские данные защищены строгими законами о конфиденциальности этой страны
+- Все приложения имеют открытый исходный код и проверяются независимыми специалистами в области безопасности. Поэтому кто угодно может изучать их
+
+### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 
 ### <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
 
