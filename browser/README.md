@@ -2,7 +2,7 @@
 
 A constantly updated guide to the best private browser (not to be confused with anonymous as well as secure, this repository has other goals)
 
-### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
+⚠ $\color{YellowOrange}{\textsf{Warning!}}$
 
 > As a reminder, anonymity is more affected by other factors than your browser. Tor or VPN will be much more effective than even the most properly configured browser without cookies
 
@@ -18,7 +18,7 @@ https://gs.statcounter.com
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8d4f510d-fe61-40bb-b955-e2fbd645318e" width="25px"></img> <a href="https://librewolf.net/">Librewolf</a></h2>
 
-### ✔ $\color{green}{\textsf{Low}}$
+✔ $\color{green}{\textsf{Low}}$
 
 ### It's open source software!
 
@@ -40,7 +40,7 @@ While it is true that the project themselves do not collect any telemetry, the d
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a></h2>
 
-### ✔ $\color{green}{\textsf{Nothing (?)}}$
+✔ $\color{green}{\textsf{Nothing (?)}}$
 Other builds: https://chromium.woolyss.com
 
 ### It's open source software!
@@ -58,7 +58,7 @@ Unlike Iridium, Ungoogled-Chromium actually disables all automatic connections a
 
 <h2> <img src="https://i.ibb.co/jgv4K78/Chrome.png" width="25px"></img> Google Chrome</h2>
 
-### ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
+❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 Google details the extreme spyware feature it labels "Usage Statistics and Crash Reports". What it does, is it sends very detailed information about your hardware and computer usage, which confirms that it definitely contains the following spyware features:
 
@@ -75,7 +75,7 @@ Google Chrome is confirmed to be constantly listening to any open microphones on
 
 <h2> <img src="https://i.ibb.co/BNtzHDM/Edge.png" width="25px"></img> Microsoft Edge</h2>
 
-### ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
+❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
 
 ### Microsoft Edge scans the pages you visit
@@ -103,7 +103,7 @@ Let's briefly recall the marketing slogan Microsoft uses to promote the Edge bro
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8a9b964c-f244-4bb2-9a0d-14b8d8505923" width="25px"></img> Opera</h2>
 
-### ❌ $\color{red}{\textsf{HIGH}}$
+❌ $\color{red}{\textsf{HIGH}}$
 Opera makes about 83 unsolicited requests on its first run:
 
 ![image](https://github.com/awesome-windows11/CensorNet/assets/87380272/0816aea8-741d-48f4-9be3-95e5fc7c764f)
@@ -131,7 +131,7 @@ https://www.youtube.com/watch?v=NV8akIgfDqQ
 
 <h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
 
-### ❌ $\color{red}{\textsf{HIGH}}$
+❌ $\color{red}{\textsf{HIGH}}$
 Vivaldi makes about 119 requests on startup, and continues to make unsolicited connections after. Anti-privacy Bing is the default search engine.
 
 **EVEN IF** you disable everything under "Google Services" and "Google Extensions" under "Privacy" in settings, it will still make automatic connections to Google. Also makes connections after first start up to `mirmir.vivaldi.com` and `downloads.vivaldi.com`.
@@ -148,7 +148,7 @@ Convenient and functional browser. But spyshelter periodically showed me message
 
 <h2> <img src="https://i.ibb.co/1qCFxLh/brave.png" width="25px"></img> Brave</h2>
 
-### ❌ $\color{red}{\textsf{HIGH}}$
+❌ $\color{red}{\textsf{HIGH}}$
 
 Another rather controversial browser.
 
@@ -181,7 +181,7 @@ This browser has made waves thanks to its built-in privacy protections - such as
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/ec08b9bf-d18d-4e15-965b-5bf873e173df" width="25px"></img> Waterfox</h2>
 
-### $\color{orange}{\textsf{Medium}}$
+$\color{orange}{\textsf{Medium}}$
 
 Waterfox is a fork of Firefox that claims to be more private and secure than Firefox. However, Waterfox contains telemetry and shares information about you with Mozilla, and has other spyware features.
 
