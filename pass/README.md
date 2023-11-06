@@ -48,7 +48,7 @@ https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
 
-<h3> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> <a href="https://authy.com">Authy</a> </h3>
+<h3> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> <a href="https://authy.com">Authy - отстой!</a> </h3>
 
 ❌ Зависимая эко-система
 <br>
