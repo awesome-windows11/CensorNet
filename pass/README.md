@@ -39,8 +39,6 @@
 <br>
 <img width=20px src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/logo.png"></img> https://github.com/andOTP/andOTP
 <br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> https://authy.com
-<br>
 <img width=20px src="https://i.imgur.com/z4kcqp9.png"></img> https://totp.danhersam.com/
 <br>
 <img width=20px src="https://github.com/winauth/winauth/blob/master/WinAuth/Resources/WinAuthIcon.png"></img> https://github.com/winauth/winauth
@@ -50,3 +48,15 @@ https://github.com/tobysmith568/totp-online
 https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
+
+<h3> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> <a href="https://authy.com">Authy</a> </h3>
+
+❌ Зависимая эко-система
+<br>
+❌ Синхронизация и хранение на их серверах не является безопасным
+<br>
+❌ Регистрация по номеру телефона
+<br>
+❌ Некоторые сервисы навязывают использовать Authy, вместо других TOTP приложений[^1]
+
+[^1]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
