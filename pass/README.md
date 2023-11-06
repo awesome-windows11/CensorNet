@@ -12,7 +12,6 @@
 <br>
 <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://lesspass.com
 
-
 <h2 align="center">2FA (TOTP / HOTP) </h2> 
 
 Пароли не взламывает только ленивый. Недавняя массовая утечка учетных записей из Yahoo только подтверждает тот факт, что одного лишь пароля — и совершенно неважно, какой он будет длины и сложности, — уже недостаточно для надежной защиты. Двухфакторная аутентификация — это то, что обещает дать такую защиту, добавляя дополнительный уровень безопасности.[^1]
@@ -57,6 +56,6 @@ https://github.com/anrcry/totp-generator
 <br>
 ❌ Регистрация по номеру телефона
 <br>
-❌ Некоторые сервисы навязывают использовать Authy, вместо других TOTP приложений[^1]
+❌ Некоторые сервисы навязывают использовать Authy, вместо других TOTP приложений[^3]
 
-[^1]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
+[^3]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
