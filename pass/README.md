@@ -57,5 +57,9 @@ https://github.com/anrcry/totp-generator
 ❌ Регистрация по номеру телефона
 <br>
 ❌ Некоторые сервисы навязывают использовать Authy, вместо других TOTP приложений[^3]
+<br>
+❌ Настольные приложения для TOTP кодов не являются безопасными, и рушат весь принцип двухфакторной аутентификации[^4]
 
 [^3]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
+
+[^4]: https://securelist.com/how-to-steal-a-million-of-your-data/91855/
