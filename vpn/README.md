@@ -73,6 +73,8 @@ https://freevpnplanet.com/
 https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncfpfggjefnekilbkcpjdgp
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
+<br>
+https://riseup.net/
 
 <h3 align="center">🕵️‍♂️ Client</h3>
 
