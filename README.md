@@ -343,3 +343,7 @@ https://factcheck.kg
 youtube.com/watch?v=Ds2qR2nlvOI
 
 Фильтр конфиденциальности
+
+<h2 align="center">Stats</h2>
+
+[![Stargazers over time](https://starchart.cc/awesome-windows11/CensorNet.svg)](https://starchart.cc/awesome-windows11/CensorNet)
