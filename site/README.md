@@ -51,3 +51,7 @@ https://neeva.com
 https://wolicheng.com/womic/
 <br>
 https://fakeinfo.net/
+
+<h3 align="center">🤖 AI chatbots</h3>
+
+https://www.aichatting.net/ai-character/
