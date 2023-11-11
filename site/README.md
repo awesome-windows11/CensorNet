@@ -57,3 +57,5 @@ https://fakeinfo.net/
 https://www.aichatting.net/ai-character/
 <br>
 https://deepai.org/chat
+<br>
+Милый медвежёнок https://brokenbear.com/
