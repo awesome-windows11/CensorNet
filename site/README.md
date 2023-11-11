@@ -55,3 +55,5 @@ https://fakeinfo.net/
 <h3 align="center">🤖 AI chatbots</h3>
 
 https://www.aichatting.net/ai-character/
+<br>
+https://deepai.org/chat
