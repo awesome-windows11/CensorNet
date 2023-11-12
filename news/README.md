@@ -30,6 +30,8 @@ https://www.zdnet.com/topic/vpn/
 <br>
 https://www.thesslstore.com/blog/
 <br>
+https://thehackernews.com/
+<br>
 https://www.theverge.com/cyber-security
 
 <h2 align="center"> Telegram</h2>
