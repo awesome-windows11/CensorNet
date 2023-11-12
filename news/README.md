@@ -33,6 +33,14 @@ https://www.thesslstore.com/blog/
 https://thehackernews.com/
 <br>
 https://www.theverge.com/cyber-security
+<br>
+https://xakep.ru/tag/windows/
+<br>
+https://xakep.ru/tag/privacy/
+<br>
+https://xakep.ru/tag/informatsionnaya-bezopasnost/
+<br>
+https://xakep.ru/tag/paroli-hack/
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
