@@ -18,6 +18,16 @@ https://news.ycombinator.com
 <br>
 https://restoreprivacy.com
 
+https://www.zdnet.com/topic/security/
+<br>
+https://www.zdnet.com/topic/cyber-threats/
+<br>
+https://www.zdnet.com/topic/password-manager/
+<br>
+https://www.zdnet.com/topic/ransomware/
+<br>
+https://www.zdnet.com/topic/vpn/
+
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
 <br>
