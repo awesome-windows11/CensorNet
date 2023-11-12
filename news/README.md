@@ -27,6 +27,8 @@ https://www.zdnet.com/topic/password-manager/
 https://www.zdnet.com/topic/ransomware/
 <br>
 https://www.zdnet.com/topic/vpn/
+<br>
+https://www.thesslstore.com/blog/
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
