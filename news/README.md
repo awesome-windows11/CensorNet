@@ -29,6 +29,8 @@ https://www.zdnet.com/topic/ransomware/
 https://www.zdnet.com/topic/vpn/
 <br>
 https://www.thesslstore.com/blog/
+<br>
+https://www.theverge.com/cyber-security
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
