@@ -7,9 +7,10 @@
 <br>
 ❌ Обязательная регистрация по номеру телефона
 <br>
-❌ При входе VK ID принудительно регистрирует 10 почт на номер телефона, без возможности выбора
+❌ При входе VK ID принудительно регистрирует 10 почт на номер телефона, без возможности выбора[^2]
 
 [^1]: https://roskomsvoboda.org/post/roskomnadzor-vnes-vkontakte-v-reestr/
+[^2]: https://help.mail.ru/mail/account/signup/trouble/vkconnect/max
 
 #### <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> Mail.ru, <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
 
