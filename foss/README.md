@@ -15,7 +15,12 @@
 [^2]: https://help.mail.ru/mail/account/signup/trouble/vkconnect/max
 [^3]: https://help.mail.ru/mail/account/signup/trouble/gos/other
 
-#### <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> Mail.ru, <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
+#### <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> ~Mail.ru~
+❌ Владелец ВКонтакте
+<br>
+❌ Находится в реестре ОРИ (попали первыми)[^1]
+
+#### <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
 ✔ Сквозное шифрование и шифрование с нулевым доступом означают, что никто (даже Proton) не сможет получить доступ к вашим данным с помощью технических средств без вашего разрешения
