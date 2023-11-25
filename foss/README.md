@@ -1,6 +1,13 @@
 <h2 align="center"> FOSS App: Freedom, Privacy, Democracy... </h4>
 
-#### ~<img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> VK Mail, <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> Mail.ru, <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
+#### <img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> ~VK Mail~
+❌ Владелец ВКонтакте
+<br>
+❌ Находится в ОРИ (попали первыми)[^1]
+
+[^1]: https://roskomsvoboda.org/post/roskomnadzor-vnes-vkontakte-v-reestr/
+
+#### <img width=20px src="https://i.ibb.co/wwR2FqW/mailru.png"></img> Mail.ru, <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
 ✔ Сквозное шифрование и шифрование с нулевым доступом означают, что никто (даже Proton) не сможет получить доступ к вашим данным с помощью технических средств без вашего разрешения
