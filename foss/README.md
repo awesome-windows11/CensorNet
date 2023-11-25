@@ -26,7 +26,12 @@
 
 [^4]: http://lib.itsec.ru/forum.php?sub=5646&from=0&format=printer-friendly
 
-#### <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> Яндекс~
+#### <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> ~Яндекс~
+❌ Официально раскрыли случай утечки получения доступа к аккаунта[^5]
+<br>
+❌ Как следствие: отсутствие должного шифрование и возможность читать содержимое почтового ящика
+
+[^5]: https://yandex.ru/company/news/2021-02-12
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
 ✔ Сквозное шифрование и шифрование с нулевым доступом означают, что никто (даже Proton) не сможет получить доступ к вашим данным с помощью технических средств без вашего разрешения
