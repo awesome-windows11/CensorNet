@@ -6,9 +6,10 @@
 
 ❌ $\color{red}{\textsf{BAD!}}$
 
-Многочисленные случаи взлома телефонов, на которых установлен WhatsApp[^1]
+Многочисленные случаи взлома телефонов, на которых установлен WhatsApp[^1], и здесь[^2]
 
 [^1]: https://www.whatsapp.com/security/advisories/2022
+[^2]: https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince
 
 ----
 
