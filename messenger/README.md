@@ -6,6 +6,9 @@
 
 ❌ $\color{red}{\textsf{BAD!}}$
 
+Многочисленные случаи взлома телефонов, на которых установлен WhatsApp[^1]
+
+[^1]: https://www.whatsapp.com/security/advisories/2022
 
 ----
 
