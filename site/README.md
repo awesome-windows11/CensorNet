@@ -1,7 +1,5 @@
 <h2 align="center">🌐 Sites</h2>
 
-https://spyware.neocities.org/articles/
-<br>
 Element.io | https://element.io/get-started
 <br>
 https://simplex.chat/
