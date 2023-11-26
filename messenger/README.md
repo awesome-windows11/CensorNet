@@ -2,7 +2,7 @@
 
 <h2 align="center">🔗 Messengers</h2>
 
-#### <img width=20px src="https://i.imgur.com/8nGxHVr.png"></img> ~WhatsApp~ 
+#### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
 ❌ $\color{red}{\textsf{BAD!}}$
 
