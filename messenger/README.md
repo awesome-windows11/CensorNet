@@ -2,6 +2,13 @@
 
 <h2 align="center">🔗 Messengers</h2>
 
+#### <img width=20px src=""></img> ~WhatsApp~ 
+
+❌ $\color{red}{\textsf{BAD!}}$
+
+
+----
+
 Element.io | https://element.io/get-started
 <br>
 https://simplex.chat/
