@@ -20,12 +20,15 @@
 <br>
 ✔ Шифрование было подтверждено независимым аудитом[^5]
 <br>
+✔ Сквозное шифрование включено по умолчанию[^7]
+<br>
 ✔ Открытый исходный код (также и сервера), однако многие считают что Signal нужнается в децентрализации по типу Matrix[^6]
 
 [^3]: https://support.signal.org/hc/ru/articles/360007061452-Отправляет-ли-Signal-мой-номер-моим-контактам-
 [^4]: https://habr.com/ru/companies/globalsign/articles/536986/
 [^5]: https://www.pindrop.com/blog/audit-of-signal-protocol-finds-it-secure-and-trustworthy
 [^6]: https://habr.com/ru/companies/vdsina/articles/539330/
+[^7]: https://support.signal.org/hc/ru/articles/360007318911
 
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
