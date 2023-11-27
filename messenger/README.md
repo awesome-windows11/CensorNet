@@ -15,8 +15,11 @@
 ❌ Номер телефона виден всем участникам чата (скрыть это нельзя)[^3]
 <br>
 ❌ Signal пытается автоматически просканировать телефнную книгу контактов (вот почему контакты нужно хранить в отдельном скрытом разделе)
+<br>
+✔ Шифрование Signal лучше Telegram[^4]
 
 [^3]: https://support.signal.org/hc/ru/articles/360007061452-Отправляет-ли-Signal-мой-номер-моим-контактам-
+[^4]: https://habr.com/ru/companies/globalsign/articles/536986/
 
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
