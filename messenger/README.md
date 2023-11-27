@@ -7,8 +7,11 @@
 ✔ $\color{green}{\textsf{Good}}$
 
 ✔ Использует передовое сквозное шифрование[^8]
+<br>
+Аудит шифрования был успешно пройден[^9]
 
 [^8]: https://habr.com/ru/companies/ruvds/articles/702494/
+[^9]: https://pentestreports.com/reports/iSEC/NCC_Group_Olm_Cryptogrpahic_Review_2016_11_01.pdf
 
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/)
 
