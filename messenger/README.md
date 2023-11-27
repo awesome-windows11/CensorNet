@@ -2,6 +2,10 @@
 
 <h2 align="center">🔗 Messengers</h2>
 
+### <img width=20px src="https://i.imgur.com/8tayY2n.png"></img> [Element](https://element.io/)
+
+✔ $\color{green}{\textsf{Good}}$
+
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/)
 
 ✔ $\color{green}{\textsf{Good}}$
