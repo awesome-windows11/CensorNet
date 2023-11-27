@@ -6,6 +6,10 @@
 
 ✔ $\color{green}{\textsf{Good}}$
 
+✔ Использует передовое сквозное шифрование[^8]
+
+[^8]: https://habr.com/ru/companies/ruvds/articles/702494/
+
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/)
 
 ✔ $\color{green}{\textsf{Good}}$
