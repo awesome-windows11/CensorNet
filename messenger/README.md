@@ -14,7 +14,7 @@
 <br>
 ❌ Номер телефона виден всем участникам чата (скрыть это нельзя)[^3]
 
-[^3]: https://support.signal.org/hc/ru/articles/Отправляет-ли-Signal-мой-номер-моим-контактам-
+[^3]: https://support.signal.org/hc/ru/articles/360007061452-Отправляет-ли-Signal-мой-номер-моим-контактам-
 
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
