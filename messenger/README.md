@@ -4,7 +4,7 @@
 
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> Signal
 
-✔ $\color{good}{\textsf{Good}}$
+✔ $\color{green}{\textsf{Good}}$
 
 ❌ Регистрация по номеру телефону
 <br>
