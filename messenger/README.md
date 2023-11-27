@@ -9,9 +9,12 @@
 ✔ Использует передовое сквозное шифрование[^8]
 <br>
 ✔ Аудит шифрования был успешно пройден[^9]
+<br>
+❌ Незашифрованные сообщения видны любому владельцу сервера[^10]
 
 [^8]: https://habr.com/ru/companies/ruvds/articles/702494/
 [^9]: https://pentestreports.com/reports/iSEC/NCC_Group_Olm_Cryptogrpahic_Review_2016_11_01.pdf
+[^10]: https://www.linux.org.ru/forum/admin/16973733
 
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/)
 
