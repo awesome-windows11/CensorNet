@@ -17,9 +17,12 @@
 ❌ Signal пытается автоматически просканировать телефнную книгу контактов (вот почему контакты нужно хранить в отдельном скрытом разделе)
 <br>
 ✔ Шифрование Signal лучше Telegram[^4]
+<br>
+✔ Шифрование было подтверждено независимым аудитом[^5]
 
 [^3]: https://support.signal.org/hc/ru/articles/360007061452-Отправляет-ли-Signal-мой-номер-моим-контактам-
 [^4]: https://habr.com/ru/companies/globalsign/articles/536986/
+[^5]: https://www.pindrop.com/blog/audit-of-signal-protocol-finds-it-secure-and-trustworthy
 
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
