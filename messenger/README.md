@@ -4,6 +4,8 @@
 
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> Signal
 
+✔ $\color{good}{\textsf{Good}}$
+
 ❌ Регистрация по номеру телефону
 <br>
 ✔ Есть 2FA в форме пин-кода (однако сообщения это не переносит!)
