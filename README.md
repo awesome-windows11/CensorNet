@@ -15,6 +15,8 @@
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/encryption">🔑 Encryption</a></h3>
 
+<h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/messenger">🔗 Messengers</a></h3>
+
 <h2 align="center">📝 Notes</h2>
 
 https://www.protectedtext.com
