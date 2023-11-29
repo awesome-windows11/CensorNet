@@ -1,4 +1,4 @@
-<h2 align="center"> FOSS App: Freedom, Privacy, Democracy... </h4>
+<h2 align="center"> 🤝 FOSS App: Freedom, Privacy, Democracy... </h4>
 
 #### <img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> ~VK Mail~
 ❌ Владелец ВКонтакте
