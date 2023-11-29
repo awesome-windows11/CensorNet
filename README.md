@@ -11,6 +11,8 @@
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/pass">🛡 Pass</a></h3>
 
+<h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/foss">🤝 FOSS</a></h3>
+
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/browser">🌐 Browser</a></h3>
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/encryption">🔑 Encryption</a></h3>
