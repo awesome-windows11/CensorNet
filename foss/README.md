@@ -41,9 +41,12 @@
 
 ### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 ❌ Кажется почтовый сервис может читать тексты сообщений[^8][^9]
+<br>
+❌ Компания принадлежит рекламному агенству (и кажется передаёт данные третьим лицам)[^10]
 
 [^8]: https://www.reddit.com/r/Onmail/comments/qwzzs4/on_onmail_privacysecurity_tldr_its_a_bummer/
 [^9]: https://www.reddit.com/r/apple/comments/8vm4u7/psa_edison_email_app_has_the_ability_to_read_user/
+[^10]: https://www.pcmag.com/reviews/onmail
 
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
 ✔ Сквозное шифрование PGP и шифрование с нулевым доступом (однако стоит заметить что метаданные и тема передаются в незашифрованном виде)[^9]
