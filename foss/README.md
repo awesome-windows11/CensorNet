@@ -39,6 +39,12 @@
 [^6]: https://novayagazeta.ru/articles/2020/01/31/83709-eto-skrytyy-trolling-spetssluzhb
 [^7]: https://roskomsvoboda.org/post/yandeks-vnesen-v-reestr-organizatorov/
 
+### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
+❌ Кажется почтовый сервис может читать тексты сообщений[^8][^9]
+
+[^8]: https://www.reddit.com/r/Onmail/comments/qwzzs4/on_onmail_privacysecurity_tldr_its_a_bummer/
+[^9]: https://www.reddit.com/r/apple/comments/8vm4u7/psa_edison_email_app_has_the_ability_to_read_user/
+
 ### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
 ✔ Сквозное шифрование PGP и шифрование с нулевым доступом (однако стоит заметить что метаданные и тема передаются в незашифрованном виде)[^9]
 <br>
@@ -47,8 +53,6 @@
 ✔ Все приложения имеют открытый исходный код и проверяются независимыми специалистами в области безопасности. Поэтому кто угодно может изучать их
 
 [^9]: https://habr.com/ru/companies/first/articles/674864/
-
-### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
 
 ### <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
 
