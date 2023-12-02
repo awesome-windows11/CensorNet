@@ -5,6 +5,7 @@
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com)
 
 ✔ По состоянию на май 2023 года Bitwarden были пройдены требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53[^7]
+<br>
 ❌ Имеет некоторые проблемы, которые позже исправили[^5]
 <br>
 ❌ Bitwarden использует сторонние уязвимые сервера Microsoft Azure[^6]
