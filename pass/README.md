@@ -4,6 +4,8 @@
 
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com)
 
+✔ В отличии от LastPass Bitwarden не хранит адреса в открытом формате, и не следит за пользователем[^8]
+<br>
 ✔ По состоянию на май 2023 года Bitwarden были пройдены требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53[^7]
 <br>
 ❌ Имеет некоторые проблемы, которые позже исправили[^5]
@@ -13,6 +15,7 @@
 [^5]: https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/
 [^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
 [^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
+[^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
