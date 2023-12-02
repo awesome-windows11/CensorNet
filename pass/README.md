@@ -12,7 +12,7 @@
 [^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
 [^13]: https://habr.com/ru/articles/534494/
 
-### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com)
+### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
 ✔ В отличии от LastPass Bitwarden не хранит адреса в открытом формате, и не следит за пользователем[^8]
 <br>
