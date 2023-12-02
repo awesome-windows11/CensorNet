@@ -15,11 +15,14 @@
 ❌ Имеет некоторые проблемы, которые позже исправили[^5]
 <br>
 ❌ Bitwarden использует сторонние уязвимые сервера Microsoft Azure[^6]
+<br>
+❌ Автозаполнение лучше выключить[^10]
 
 [^5]: https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/
 [^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
 [^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
 [^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
+[^10]: https://startpack.ru/articles/20230310-bitwarden
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
