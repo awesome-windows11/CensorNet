@@ -4,9 +4,11 @@
 
 - Используйте мнемонику или строчки песен для создания паролей (безопасность данного метода под вопросом)[^9]
 - Важные пароли всё же лучше хранить исключительно в голове, чтобы они НИГДЕ не была записаны (пароли высокой степени важности)[^11]
+- Использовать знак [нулевой ширины](https://symbl.cc/ru/200B/)
 
 [^9]: https://safe.roskomsvoboda.org/passwords/
 [^11]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
+[^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
 
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com)
 
