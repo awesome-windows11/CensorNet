@@ -4,7 +4,7 @@
 
 ### <img width=20px src="https://i.imgur.com/8tayY2n.png"></img> [Element](https://element.io/) ([servers](https://servers.joinmatrix.org/))
 
-✔ $\color{green}{\textsf{Good}}$
+✔ $\color{green}{\textsf{Very Good}}$
 
 ✔ Использует передовое сквозное шифрование[^8]
 <br>
