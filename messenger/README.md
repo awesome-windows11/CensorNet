@@ -53,6 +53,11 @@
 [^1]: https://www.whatsapp.com/security/advisories/2022
 [^2]: https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince
 
+#### <img width=20px src="https://i.imgur.com/EbwECG4.png"></img> ~VK~ 
+❌ Позволяет пробивать номера телефонов и смотреть аватарку не имея доступа к номеру телефона
+<br>
+✔ Не позволяет восстановить страницу исключительно по номеру телефона
+
 ----
 
 Element.io | https://element.io/get-started
