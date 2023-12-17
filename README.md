@@ -153,6 +153,8 @@ https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 
 <h2 align="center">📧 Temp Mail</h2>
 
+https://tmail.io/temporary-disposable-gmail
+<br>
 https://internxt.com/temporary-email
 <br>
 https://tempmail.dev/en/Gmail
