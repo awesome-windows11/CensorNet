@@ -9,6 +9,8 @@
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/vpn">🕵️ VPN</a></h3>
 
+<h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/site">🌐 Site</a></h3>
+
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/pass">🛡 Pass</a></h3>
 
 <h3 align="center"><a href="https://github.com/awesome-windows11/CensorNet/tree/main/foss">🤝 FOSS</a></h3>
@@ -152,6 +154,8 @@ https://f-droid.org/ru/packages/io.github.muntashirakon.AppManager
 <h2 align="center">📧 Temp Mail</h2>
 
 https://internxt.com/temporary-email
+<br>
+https://tempmail.dev/en/Gmail
 
 <h2 align="center">❓ Check for block</h2>
 
