@@ -5,3 +5,6 @@
 [Шифропанки](https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%BF%D0%B0%D0%BD%D0%BA) (англ. cypherpunk) — неформальная группа людей, заинтересованных в сохранении анонимности и интересующихся криптографией.
 
 [Манифест хакера](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B8%D1%84%D0%B5%D1%81%D1%82_%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D0%B0) (англ. Hacker Manifesto, The Conscience of a Hacker) — текст, написанный 8 января 1986 года хакером Лойдом Блэнкеншипом (Loyd Blankenship), более известным как Наставник (англ. The Mentor)
+
+
+https://hackernoon.com/beyond-technology-blockchain-as-the-philosophy
