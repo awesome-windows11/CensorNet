@@ -74,7 +74,7 @@ https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncf
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
 <br>
-https://riseup.net (*⛔ Не работает в России!*)
+https://riseup.net (⛔ *Не работает в России!*)
 
 <h3 align="center">🕵️‍♂️ Client</h3>
 
