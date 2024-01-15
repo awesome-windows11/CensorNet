@@ -115,7 +115,7 @@ https://copypaste.me
 <br>
 ExtPassword | https://www.nirsoft.net/utils/external_drive_password_recovery.html
 <br>
-MultiLogin Accounts | https://github.com/getferdi/ferdi
+MultiLogin Accounts | https://github.com/ferdium/ferdium-app [Ferdi orig](https://github.com/getferdi/ferdi)
 <br>
 Телеграм с двойным дном | https://postufgram.com
 <br>
