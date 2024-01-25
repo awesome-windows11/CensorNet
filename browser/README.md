@@ -28,15 +28,11 @@ Librewolf is a Firefox fork with the primary goals of privacy, security and user
 
 Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
 
-[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
-
 There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
 
 The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
 
 While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
-
-[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a></h2>
 
@@ -127,7 +123,7 @@ There aren't many browsers brazen enough to outright collect data directly on ev
 
 https://www.youtube.com/watch?v=NV8akIgfDqQ
 
-[^7]: https://www.reddit.com/r/browsers/comments/14bisgq/opera_gx_video_on_their_shady_practices_cool_and/
+You should not use anything from Opera. The company is chasing trends and extracting the most money possible from its declining users. Its most successful ventures in recent history have been ripping off poor people in developing countries and marketing to gamers with a meme social media account. The company's failed experiments have been abandoned without directly informing users, leaving them at increased risk of security problems.[^10]
 
 <h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
 
@@ -144,8 +140,6 @@ The above cannot be disabled even if you're a programming ninja - because Vivald
 
 ### Some users claim that Vivaldi is a keylogger
 Convenient and functional browser. But spyshelter periodically showed me messages that Vivaldi was trying to register keystrokes (in essence, this is keylogging), and I created a rule forbidding the browser to do this. Once a day he makes an attempt, but spyshelter blocks this action. It is worth saying that periodically Firefox also registers keystrokes, while spyshelter automatically resolves this action. But it's about Vivaldi. Today, after updating the browser to the latest version, spyshelter displayed a message to me that it had not previously displayed. It concerned Vivaldi, who was trying to access BITS interprocess communication, if I write correctly. I didn’t particularly read and allowed this action, because when I blocked the browser began to crash. However, I’m interested in WHAT the browser did, because judging by the spyshelter log, the browser used some kind of utility to copy files from the hard disk or something like that. Recently I found a video where it was said that Vivaldi spies and once a day sends somewhere all the information about user sessions per day, using a unique identifier that is assigned to each user. I don’t know how true this is, and if it’s true, how much detailed information he sends, and whether other browsers do it. Now I’m wondering WHAT is the spyshelter logged for the browser action?[^3]
-
-[^3]: https://malwaretips.com/threads/vivaldi-browser-is-a-spy.98431/
 
 <h2> <img src="https://i.ibb.co/1qCFxLh/brave.png" width="25px"></img> Brave</h2>
 
@@ -172,8 +166,6 @@ Brave has a rewards program. At first glance it looks like the rewards program i
 
 ### The Brave web browser is hijacking links, and inserting affiliate codes[^4]
 
-[^4]: https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/
-
 Brave has been caught in various schemes such as where when you type a URL to a cryptocurrency link, the browser at one point would redirect you to a different URL that generates them money. Every time they are caught doing something like that and it becomes publicized, they say it was unintentional, and change it. Whether you believe it is unintentional or not is, again, up to you as a user, but the sheer number of times this stuff has happen lead me to believe they are constantly testing to see what users will notice or let them get away with, and pulling back only if it is noticed and there is a backlash. That means, I think, logically, that there is a reasonable possibility that they are testing new schemes today and that people just haven't discovered them yet, and that if they are discovered and disliked by the users, they may be stopped and new ones will be attempted. Actually, that users are potentially being exposed to things that they don't know about, to me is worse than if they upfront said "Here's what we're doing", because the latter would let the user make an informed choice, whereas the former does not.
 
 This browser has made waves thanks to its built-in privacy protections - such as AdBlock, HTTPS everywhere and script blocking - but in the end, they are outclassed by uMatrix. More than that - after checking them out, I can confidently say the Shields are pretty useless - the vast majority of trackers are left alone; in fact, sometimes it seems that a site can have hundreds of them, and yet none of them will be blocked by the Shields. Script blocking option simply blocks JavaScript fully - it's just NoScript revisited. Brave used to be able to install Chrome extensions only from source, but now does it the same as the other Chrome based browsers. Despite those, it not only spies on you (archive) (MozArchive) but is actively working against your privacy by whitelisting Facebook and Twitter trackers. Brave has also been soliciting donations in the name of other people without their consent!
@@ -198,4 +190,10 @@ Self updates are a spyware feature since they are usually ways for the developer
 
 Other known spywares, like Chromium, make use of this method
 
+[^3]: https://malwaretips.com/threads/vivaldi-browser-is-a-spy.98431/
+[^4]: https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/
 [^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
+[^7]: https://www.reddit.com/r/browsers/comments/14bisgq/opera_gx_video_on_their_shady_practices_cool_and/
+[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
+[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
+[^10]: https://www.spacebar.news/stop-using-opera-browser/
