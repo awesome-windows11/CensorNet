@@ -26,13 +26,13 @@ https://gs.statcounter.com
 
 Librewolf is a Firefox fork with the primary goals of privacy, security and user freedom.
 
-Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^8]
+Librewolf makes some calls on startup to `f.s.s.m.c.qjz9zk` which looks like an obliterated address, and `shavar.services.mozilla.com which is intended` (however it can be disabled by clearing the URL in browser.safebrowsing.provider.mozilla.updateURL)[^7]
 
 There is also an attempt to check for updates regarding the pre-installed uBlock Origin extension.
 
 The browser disables accurate geolocation, runs 11 content filters to block trackers and ads, and includes Canvas Protection, which protects against fingerprinting by analyzing how graphics are displayed in the browser.
 
-While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^9]
+While it is true that the project themselves do not collect any telemetry, the domains that the browser visits the very first time you open up the browser do log these requests, which - besides from timely updates - is the only problem I have with Librewolf.[^8]
 
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/640c38d4-c2ec-49af-9801-88d8b0c5a2f6" width="25px"></img> <a href="https://github.com/ungoogled-software/ungoogled-chromium">Ungoogled Chromium</a></h2>
 
@@ -73,21 +73,16 @@ Google Chrome is confirmed to be constantly listening to any open microphones on
 
 ❌ $\color{red}{\textsf{EXTREMELY HIGH!}}$
 
-
 ### Microsoft Edge scans the pages you visit
 Microsoft’s Edge browser appears to be sending URLs you visit to its Bing API website. Reddit users first spotted the privacy issues with Edge last week, noticing that the latest version of Microsoft Edge sends a request to bingapis.com with the full URL of nearly every page you navigate to. Microsoft
 
 https://gist.github.com/niutech/1f1c1518ce0eba7e8d429c812d39493d
 
 ### The Edge scans your clipboard[^1]
-[^1]: https://www.reddit.com/r/browsers/comments/12o6dje/so_ms_edge_mind_explaining_this_to_me_why_are_you/
-
 I always open msedge (Microsoft Edge) in background to play youtube music videos, or SNS.yet, it monitor/accessing my clipboard. 
 
 ### New tab - automatic address connection
 The first connection is established to the address "ntp.msn.com", where the currently set search engine (Bing) is transmitted to Microsoft as a parameter. Linked to this call is the opening of the website "www.msn.com", where various resources (JavaScript, stylesheet, images, etc.) are reloaded from sources in order to display the website in the browser[^2]
-
-[^2]: https://www.kuketz-blog.de/microsoft-edge-datensendeverhalten-desktop-version-browser-check-teil4/
 
 In the default configuration, the browser is a serious privacy disaster. Only after adjusting various settings, such as deactivating Defender SmartScreen, changing the search engine and the setting for "new tabs" does it become a bit more privacy-friendly. However, we are far from privacy-friendly, since the transmission of telemetry data can only be reduced during use, but not deactivated.
 
@@ -119,11 +114,11 @@ Additionally every time you visit a website, when it is finished loading, Opera 
 
 This allows for a complete profiling by Opera of every site you visit with their browser. There is no way to disable this, even through flags.
 
-There aren't many browsers brazen enough to outright collect data directly on every single domain you visit and every keystroke you enter into its address bar. Opera is one of the ones that does. These are the real, tangible issues with this software. People talk a lot about their connections to China, point out their shady dealings in other areas etc. but most people will just brush those off. People need to know, in no uncertain terms, that this browser is sending your entire browsing history to their servers. I'd like to say these issues are just bad design under the hood and not intentionally malicious, but that would be giving them the benefit of the doubt which they've really not earned as a company. Through cynical eyes, it seems they've tried to implement hardcore tracking of what their users type and visit and attempted to hide it behind "innocent" services that they can potentially excuse away as trivial functions if it were brought up.[^7]
+There aren't many browsers brazen enough to outright collect data directly on every single domain you visit and every keystroke you enter into its address bar. Opera is one of the ones that does. These are the real, tangible issues with this software. People talk a lot about their connections to China, point out their shady dealings in other areas etc. but most people will just brush those off. People need to know, in no uncertain terms, that this browser is sending your entire browsing history to their servers. I'd like to say these issues are just bad design under the hood and not intentionally malicious, but that would be giving them the benefit of the doubt which they've really not earned as a company. Through cynical eyes, it seems they've tried to implement hardcore tracking of what their users type and visit and attempted to hide it behind "innocent" services that they can potentially excuse away as trivial functions if it were brought up.[^6]
 
 https://www.youtube.com/watch?v=NV8akIgfDqQ
 
-You should not use anything from Opera. The company is chasing trends and extracting the most money possible from its declining users. Its most successful ventures in recent history have been ripping off poor people in developing countries and marketing to gamers with a meme social media account. The company's failed experiments have been abandoned without directly informing users, leaving them at increased risk of security problems.[^10]
+You should not use anything from Opera. The company is chasing trends and extracting the most money possible from its declining users. Its most successful ventures in recent history have been ripping off poor people in developing countries and marketing to gamers with a meme social media account. The company's failed experiments have been abandoned without directly informing users, leaving them at increased risk of security problems.[^9]
 
 <h2> <img src="https://i.ibb.co/0M4JSxx/Vivaldi.png" width="25px"></img> Vivaldi</h2>
 
@@ -190,10 +185,12 @@ Self updates are a spyware feature since they are usually ways for the developer
 
 Other known spywares, like Chromium, make use of this method
 
+[^1]: https://www.reddit.com/r/browsers/comments/12o6dje/so_ms_edge_mind_explaining_this_to_me_why_are_you/
+[^2]: https://www.kuketz-blog.de/microsoft-edge-datensendeverhalten-desktop-version-browser-check-teil4/
 [^3]: https://malwaretips.com/threads/vivaldi-browser-is-a-spy.98431/
 [^4]: https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/
 [^5]: https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/
-[^7]: https://www.reddit.com/r/browsers/comments/14bisgq/opera_gx_video_on_their_shady_practices_cool_and/
-[^8]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
-[^9]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
-[^10]: https://www.spacebar.news/stop-using-opera-browser/
+[^6]: https://www.reddit.com/r/browsers/comments/14bisgq/opera_gx_video_on_their_shady_practices_cool_and/
+[^7]: https://gitlab.com/librewolf-community/browser/linux/-/issues/271
+[^8]: https://www.unixsheikh.com/articles/choose-your-browser-carefully.html#librewolf
+[^9]: https://www.spacebar.news/stop-using-opera-browser/
