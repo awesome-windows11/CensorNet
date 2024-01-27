@@ -34,6 +34,8 @@
 
 https://github.com/abysshint/tor-control-panel
 <br>
+https://github.com/Snawoot/opera-proxy (https://habr.com/ru/articles/555368/)
+<br>
 <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
 <br>
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
