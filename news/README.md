@@ -43,6 +43,8 @@ https://xakep.ru/tag/informatsionnaya-bezopasnost/
 https://xakep.ru/tag/paroli-hack/
 <br>
 https://www.eff.org/
+<br>
+https://stackdiary.com/category/security/
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
