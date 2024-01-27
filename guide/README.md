@@ -39,3 +39,5 @@ https://safe.roskomsvoboda.org
 https://passwordbits.com
 <br>
 https://fakeinfo.net
+<br>
+https://anonymousplanet.org/guide.html
