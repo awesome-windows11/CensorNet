@@ -5,13 +5,10 @@
 - Используйте мнемонику или строчки песен для создания паролей (безопасность данного метода под вопросом)[^9]
 - Используйте парольные карточки/[матрицы](https://rjfelix.github.io/password-matrix/) или хэш файлов (безопасность под вопросом)[^13]
 - Используйте числа константы или HEX для создания PIN кодов (чтобы нигде не хранить их)
+- Испоьзуйте математические выражения с константами
+- Используйте шифр виженера[^14]
 - Важные пароли всё же лучше хранить исключительно в голове, чтобы они НИГДЕ не была записаны (пароли высокой степени важности)[^11]
 - Использовать знак [нулевой ширины](https://symbl.cc/ru/200B/)[^12]
-
-[^9]: https://safe.roskomsvoboda.org/passwords/
-[^11]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
-[^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
-[^13]: https://habr.com/ru/articles/534494/
 
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
@@ -25,12 +22,6 @@
 <br>
 ❌ Автозаполнение лучше выключить[^10]
 
-[^5]: https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/
-[^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
-[^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
-[^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
-[^10]: https://startpack.ru/articles/20230310-bitwarden
-
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://github.com/keepassxreboot/keepassxc
@@ -43,12 +34,8 @@
 
 Пароли не взламывает только ленивый. Недавняя массовая утечка учетных записей из Yahoo только подтверждает тот факт, что одного лишь пароля — и совершенно неважно, какой он будет длины и сложности, — уже недостаточно для надежной защиты. Двухфакторная аутентификация — это то, что обещает дать такую защиту, добавляя дополнительный уровень безопасности.[^1]
 
-[^1]: https://xakep.ru/2017/01/17/two-factor-authentication-hacking/
-
 ### ❌ Недостатки 2FA SMS
 Получение OTP-кодов по СМС или электронной почте - один из самых слабых способов защиты учетных записей с помощью MFA. Получение кода по электронной почте или СМС невилирует принцип "что-то, что у вас есть", поскольку существует множество способов, которыми хакер может завладеть вашим телефонным номером или получить доступ к вашей электронной почте, не имея физического доступа ни к одному из ваших устройств. Если злоумышленник получит доступ к вашей электронной почте, то он сможет использовать этот доступ как для сброса пароля, так и для получения кода аутентификации, что даст ему полный доступ к вашей учетной записи.[^2]
-
-[^2]: https://www.privacyguides.org/ru/basics/multi-factor-authentication/
 
 - СМС могут быть перехвачены как на уровне провайдера, так и заменой или клонированием SIM-карты
 - Физический доступ к SIM-карте никак не обезопасит от данного рода защиты (единственное решение - установка PIN, который не очень безопасен)
@@ -88,6 +75,17 @@ https://github.com/anrcry/totp-generator
 <br>
 ❌ Настольные приложения для TOTP кодов не являются безопасными, и рушат весь принцип двухфакторной аутентификации[^4]
 
+[^1]: https://xakep.ru/2017/01/17/two-factor-authentication-hacking/
+[^2]: https://www.privacyguides.org/ru/basics/multi-factor-authentication/
 [^3]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
-
 [^4]: https://securelist.com/how-to-steal-a-million-of-your-data/91855/
+[^5]: https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/
+[^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
+[^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
+[^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
+[^9]: https://safe.roskomsvoboda.org/passwords/
+[^10]: https://startpack.ru/articles/20230310-bitwarden
+[^11]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
+[^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
+[^13]: https://habr.com/ru/articles/534494/
+[^14]: https://findhow.org/5076-shifr-vizhenera-onlajn.html
