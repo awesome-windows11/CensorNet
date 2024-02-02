@@ -41,10 +41,12 @@ www.1tv.ru
 https://*/*porn*
 
 ! Mail.Ru
-mail.ru##.koklina__bgx88k.tabs-content ! News
+! News
+mail.ru##.koklina__bgx88k.tabs-content
 rs.mail.ru
 trk.mail.ru
-cloud.mail.ru##.UploadProvocation__wrapper--3PVrS ! Upload File
+! Upload File
+cloud.mail.ru##.UploadProvocation__wrapper--3PVrS
 
 ! Other Cloud Storage
 sberdisk.ru
