@@ -1,0 +1,3 @@
+## Browser/TorBrowser/Data/Tor
+## Tor will look for this file in various places based on your platform:
+## https://support.torproject.org/tbb/tbb-editing-torrc/
