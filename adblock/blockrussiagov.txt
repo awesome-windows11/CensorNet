@@ -49,7 +49,7 @@ trk.mail.ru
 cloud.mail.ru##.UploadProvocation__wrapper--3PVrS
 
 ! Other Cloud Storage
-sberdisk.ru
-«МТС. Вторая память»,
-«Облако Билайн»,
-«Tele2 Диск».
+!sberdisk.ru
+!memory.mts.ru
+!cloudbeeline.ru
+!disk.tele2.ru
