@@ -40,18 +40,18 @@ vedomosti.ru##body
 static.1tv.ru
 www.1tv.ru
 https://*/*porn*
+
+! Mail.Ru News
+mail.ru##.koklina__bgx88k.tabs-content
 rs.mail.ru
 trk.mail.ru
-! cloud storage
-disk.yandex.ru
-mail.ru
-cloud.mail.ru
+
 sberdisk.ru
 «МТС. Вторая память»,
 «Облако Билайн»,
 «Tele2 Диск».
+
 www.youtube.com##.vidiq-video-page-menu
 mail.proton.me##.flex-align-items-center.flex-nowrap.inline-flex.topnav-link.text-center.inline-block.button-outline-norm.button
-tv.yandex.ru##.recommended-ott
 ! 2022-06-08 https://cloud.mail.ru
 cloud.mail.ru##.UploadProvocation__root--14SQV
