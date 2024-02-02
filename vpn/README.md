@@ -8,16 +8,6 @@
 <br>
 ✔ Поддерживает OpenVPN
 
-<h3> <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
-
-Не совсем ВПН, а скорее DNS шифратор. 
-
-⛔ Не работает в России[^1]
-<br>
-✔ Поддерживает Wireguard
-
-[^1]: https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
-
 <h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
 
 ✔ Проксирует только US/EN сайты
@@ -78,6 +68,14 @@ https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplplocca
 <br>
 https://riseup.net (⛔ *Не работает в России!*)
 
+<h3> <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
+
+Не совсем ВПН, а скорее DNS шифратор. 
+
+⛔ Не работает в России[^1]
+<br>
+✔ Поддерживает Wireguard
+
 <h3 align="center">🕵️‍♂️ Client</h3>
 
 <img width=20px src="https://i.imgur.com/ufoZxTs.png"></img> https://www.wireguard.com
@@ -113,3 +111,5 @@ https://f-droid.org/ru/packages/org.calyxinstitute.vpn/
 <h3 align="center">BlackList VPN</h3>
 
 ❌ Hola Browser | [Miner!](https://www.virustotal.com/gui/file/58357489ac2cee4e5cc93d5f5011c9af5a20f1ddbf2021070fb9859a18e4bf03/detection)
+
+[^1]: https://dtf.ru/ask/1287439-warp-ne-rabotaet-dazhe-cherez-wireguard
