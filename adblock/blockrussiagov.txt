@@ -17,6 +17,7 @@ iz.ru##.active.inside_page.page-content
 iz.ru##.page-content
 iz.ru##.footer
 
+! Gazeta.ru
 www.gazeta.ru###_id_main_article
 gazeta.ru###_id_main_article
 www.gazeta.ru##._s_added_article.jbcncr
@@ -29,16 +30,19 @@ gazeta.ru##body
 www.gazeta.ru##body
 img.gazeta.ru
 www.img.gazeta.ru
+
+! Rambler.ru
 kraken.rambler.ru
 www.kraken.rambler.ru
 zoomdecorate.rambler.ru
 www.zoomdecorate.rambler.ru
 vedomosti.ru##body
+
+! 1tv.ru
 1tv.ru
 *.1tv.ru
 static.1tv.ru
 www.1tv.ru
-https://*/*porn*
 
 ! Mail.Ru
 ! News
