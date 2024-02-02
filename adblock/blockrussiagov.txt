@@ -1,3 +1,8 @@
+! Рекомендации tv.yandex.ru
+tv.yandex.ru##.recommended-ott
+tv.yandex.ru##.bCFI73l4
+tv.yandex.ru##.content__sG0PRzgFeo9uX
+
 ria.ru##.page
 ria.ru##.js__toggle-lenta.widgets__b-cover
 ria.ru##.widgets__b-slide
