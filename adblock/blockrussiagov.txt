@@ -54,4 +54,4 @@ sberdisk.ru
 www.youtube.com##.vidiq-video-page-menu
 mail.proton.me##.flex-align-items-center.flex-nowrap.inline-flex.topnav-link.text-center.inline-block.button-outline-norm.button
 ! 2022-06-08 https://cloud.mail.ru
-cloud.mail.ru##.UploadProvocation__wrapper
+cloud.mail.ru##.UploadProvocation__wrapper--3PVrS
