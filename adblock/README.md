@@ -8,6 +8,7 @@ https://yandex.*/search/*porn*
 https://yandex.*/search/*hent*
 *://*henta*/*
 *://*porn*/*
+*://*/*porn*
 *://*sex*/*
 ```
 
