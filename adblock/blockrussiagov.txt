@@ -17,7 +17,6 @@ iz.ru##.active.inside_page.page-content
 iz.ru##.page-content
 iz.ru##.footer
 
-! Yandex
 www.gazeta.ru###_id_main_article
 gazeta.ru###_id_main_article
 www.gazeta.ru##._s_added_article.jbcncr
@@ -41,17 +40,14 @@ static.1tv.ru
 www.1tv.ru
 https://*/*porn*
 
-! Mail.Ru News
-mail.ru##.koklina__bgx88k.tabs-content
+! Mail.Ru
+mail.ru##.koklina__bgx88k.tabs-content ! News
 rs.mail.ru
 trk.mail.ru
+cloud.mail.ru##.UploadProvocation__wrapper--3PVrS ! Upload File
 
+! Other Cloud Storage
 sberdisk.ru
 «МТС. Вторая память»,
 «Облако Билайн»,
 «Tele2 Диск».
-
-www.youtube.com##.vidiq-video-page-menu
-mail.proton.me##.flex-align-items-center.flex-nowrap.inline-flex.topnav-link.text-center.inline-block.button-outline-norm.button
-! 2022-06-08 https://cloud.mail.ru
-cloud.mail.ru##.UploadProvocation__wrapper--3PVrS
