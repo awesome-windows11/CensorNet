@@ -25,29 +25,38 @@ www.unn.com.ua
 news.obozrevatel.com
 obozrevatel.com
 theins.ru
+
 ### Other
 rutracker.org
 protonmail.com
 *.protonmail.com
 proton.me
 *.proton.me
+
 ### Сайты закрывшие доступ РФ пользователям
 *.pixabay.com
 www.voices.com
 *.voices.com
 remove.bg
 www.remove.bg
+*.visualstudio.com
+*.wixmp.com
+*.medium.com
+
 ### Twitter
 twitter.com
 *.twitter.com
 *.twimg.com
 pbs.twimg.com
 t.co
+
 ### Instagram
 instagram.com
 *.instagram.com
 *.cdninstagram.com
 scontent-ams4-1.cdninstagram.com
+
+### Facebook
 fbcdn.net
 *.fbcdn.net
 facebook.com
