@@ -1,0 +1,93 @@
+{
+  "blocked": [
+    "*://vk.com/*henta*",
+    "*://vk.com/*hent*",
+    "*://vk.com/*notsafe*",
+    "*://vk.com/*porn*",
+    "*://yandex.*/search/*porn*",
+    "*://yandex.*/search/*hent*",
+    "*://*henta*/*",
+    "*://*porn*/*",
+    "*://*/*porn*",
+    "*://*sex*/*"
+  ],
+  "close": 0,
+  "contextmenu-frame": true,
+  "contextmenu-pause": true,
+  "contextmenu-resume": true,
+  "contextmenu-top": false,
+  "css": "",
+  "initialBlock": true,
+  "initialBlockCurrent": true,
+  "map": {},
+  "message": "",
+  "no-password-on-add": false,
+  "notes": {
+    "*://*/*porn*": {
+      "date": 1707159753748,
+      "origin": "options"
+    },
+    "*://*henta*/*": {
+      "date": 1707159745874,
+      "origin": "options"
+    },
+    "*://*porn*/*": {
+      "date": 1707159749548,
+      "origin": "options"
+    },
+    "*://*sex*/*": {
+      "date": 1707159757696,
+      "origin": "options"
+    },
+    "*://vk.com/*hent*": {
+      "date": 1707159715918,
+      "origin": "options"
+    },
+    "*://vk.com/*henta*": {
+      "date": 1707159710640,
+      "origin": "options"
+    },
+    "*://vk.com/*notsafe*": {
+      "date": 1707159720132,
+      "origin": "options"
+    },
+    "*://vk.com/*porn*": {
+      "date": 1707159724664,
+      "origin": "options"
+    },
+    "*://yandex.*/search/*hent*": {
+      "date": 1707159742122,
+      "origin": "options"
+    },
+    "*://yandex.*/search/*porn*": {
+      "date": 1707159738284,
+      "origin": "options"
+    }
+  },
+  "pause-periods": [
+    5,
+    10,
+    15,
+    30,
+    60,
+    360,
+    1440
+  ],
+  "redirect": "",
+  "retries": {
+    "count": 0,
+    "first": 0
+  },
+  "reverse": false,
+  "schedule": {
+    "times": {}
+  },
+  "schedule-offset": 0,
+  "schedules": {},
+  "sha256": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "timeout": 60,
+  "title": true,
+  "wrong": 1,
+  "managed.storage.overwrite.on.start": false,
+  "guid": "cc5b209c-f72a-4d84-9505-de270a659b3e"
+}
