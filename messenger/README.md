@@ -6,9 +6,9 @@ The section is dedicated to social networks, messengers, and communication tools
 
 ✔ $\color{green}{\textsf{Very Good}}$
 
-✔ Использует передовое сквозное шифрование[^8]
+✔ Uses advanced end-to-end encryptionе[^8]
 <br>
-✔ Аудит шифрования был успешно пройден[^9]
+✔ The encryption audit was successfully passed[^9]
 <br>
 ❌ Незашифрованные сообщения видны любому владельцу сервера[^10]
 
