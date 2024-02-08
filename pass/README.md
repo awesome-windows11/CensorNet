@@ -13,15 +13,15 @@
   
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
-✔ В отличии от LastPass Bitwarden не хранит адреса в открытом формате, и не следит за пользователем[^8]
+✔ В отличии от LastPass Bitwarden [не хранит](https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/) адреса в открытом формате, и не следит за пользователем
 <br>
-✔ По состоянию на май 2023 года Bitwarden были пройдены требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53[^7]
+✔ По состоянию на май 2023 года Bitwarden [были пройдены](https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment) требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53
 <br>
-❌ Имеет некоторые проблемы, которые позже исправили[^5]
+❌ Имеет некоторые [проблемы](https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/), которые позже исправили
 <br>
-❌ Bitwarden использует сторонние уязвимые сервера Microsoft Azure[^6]
+❌ Bitwarden использует сторонние уязвимые сервера [Microsoft Azure](https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499)
 <br>
-❌ Автозаполнение лучше выключить[^1]
+❌ [Автозаполнение](https://startpack.ru/articles/20230310-bitwarden) лучше выключить
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
@@ -80,8 +80,3 @@ https://github.com/anrcry/totp-generator
 [^11]: https://www.privacyguides.org/ru/basics/multi-factor-authentication/
 [^3]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
 [^4]: https://securelist.com/how-to-steal-a-million-of-your-data/91855/
-[^5]: https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/
-[^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
-[^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
-[^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
-[^1]: https://startpack.ru/articles/20230310-bitwarden
