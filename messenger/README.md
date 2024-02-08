@@ -18,11 +18,11 @@ The section is dedicated to social networks, messengers, and communication tools
 
 ❌ Registration by phone number
 <br>
-✔ Есть 2FA в форме пин-кода (однако сообщения это не переносит!)
+✔ There is 2FA in the form of a pin code (but it doesn't carry messages!)
 <br>
-✔ Сообщения не переносятся между устройствами (синхронизация доступна только локально - через seed фразу)
+✔ Messages are not transferred between devices (synchronization is available only locally - via seed phrase)
 <br>
-❌ Номер телефона виден всем участникам чата (скрыть это нельзя)[^3]
+❌The phone number is **visible** to all chat participants (you cannot hide it)[^3]
 <br>
 ❌ Signal пытается автоматически просканировать телефонную книгу контактов (вот почему контакты нужно хранить в отдельном скрытом разделе)
 <br>
