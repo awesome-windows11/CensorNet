@@ -44,7 +44,7 @@
 [^6]: https://habr.com/ru/companies/vdsina/articles/539330/
 [^7]: https://support.signal.org/hc/ru/articles/360007318911
 
-### <img width=20px src="https://i.imgur.com/8tayY2n.png"></img> Telegram
+### <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png"></img> Telegram
 
 Мы рекомендуем использовать альтернативные клиенты для Windows.
 
