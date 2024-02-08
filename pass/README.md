@@ -2,7 +2,7 @@ Everything you need to know about passwords and protecting your personal account
 
 <h2 align="center">🛡 Pass</h2>
 
-- Use [mnemonics](https://safe.roskomsvoboda.org/passwords/) or song lines to create passwords (the security of this method is questionable)
+- Use [mnemonics](https://safe.roskomsvoboda.org/passwords/) or song lines to create passwords (the security of this method is questionable!)
 - Используйте [парольные карточки](https://habr.com/ru/articles/534494/)/[матрицы](https://rjfelix.github.io/password-matrix/) или хэш файлов (безопасность под вопросом)
 - Используйте [шифр виженера](https://findhow.org/5076-shifr-vizhenera-onlajn.html) для паролей
 - Используйте числа константы или цветовые кода HEX для создания PIN кодов (чтобы нигде не хранить их в явном виде)
