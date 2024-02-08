@@ -17,8 +17,8 @@ Possible SIM card reissuance and phone number spoofing by intruders
 - Location-based unlocking, facial photo unlocking and the like also allows you to retrieve data
 - Using TOTP inside the password manager (which is insecure and an egg in one basket)
 
-<img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
-<br>
+<h3> <img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> <a href="https://github.com/beemdevelopment/Aegis">Aegis</a> </h3>
+
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
 <img width=20px src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/logo.png"></img> https://github.com/andOTP/andOTP
