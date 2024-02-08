@@ -46,7 +46,7 @@
 
 ### <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png"></img> Telegram
 
-$\color{orange}{\textsf{Normal}}$
+$\color{YellowOrange}{\textsf{Normal}}$
 
 Мы рекомендуем использовать альтернативные клиенты для Windows.
 
