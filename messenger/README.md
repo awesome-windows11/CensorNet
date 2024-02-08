@@ -1,6 +1,6 @@
 The section is dedicated to social networks, messengers, and communication tools
 
-<h2 align="center">🔗 Messengers</h2>
+<h2 align="center">🔗 Instant Messaging</h2>
 
 ### <img width=20px src="https://i.imgur.com/8tayY2n.png"></img> [Element](https://element.io/) ([servers](https://servers.joinmatrix.org/))
 
