@@ -19,7 +19,7 @@ Possible SIM card reissuance and phone number spoofing by intruders
 
 <h3> <img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> <a href="https://github.com/beemdevelopment/Aegis">Aegis</a> </h3>
 
-<h3> <img width=20px src="https://2fas.com/assets/apple-touch-icon-144x144.png"></img> <a href="https://github.com/twofas">2FAS</a> </h3>
+<h3> <img width=20px src="https://i.imgur.com/CCcxXJx.png"></img> <a href="https://github.com/twofas">2FAS</a> </h3>
 
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
