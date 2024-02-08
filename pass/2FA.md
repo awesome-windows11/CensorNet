@@ -21,7 +21,7 @@ Possible SIM card reissuance and phone number spoofing by intruders
 ✔ Open Source
 
 <h3> <img width=20px src="https://i.imgur.com/CCcxXJx.png"></img> <a href="https://github.com/twofas">2FAS</a> </h3>
-✔ Open Source ([recently](https://www.reddit.com/r/Bitwarden/comments/129m0j1/2fas_authentication_app_is_now_open_source/)
+✔ Open Source ([recently](https://www.reddit.com/r/Bitwarden/comments/129m0j1/2fas_authentication_app_is_now_open_source/))
 
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
