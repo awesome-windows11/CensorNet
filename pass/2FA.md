@@ -41,15 +41,15 @@ https://github.com/anrcry/totp-generator
 
 <h3> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> <a href="https://authy.com">Authy - suck!</a> </h3>
 
-❌ Зависимая эко-система
+❌ Dependent eco-system
 <br>
-❌ Синхронизация и хранение на их серверах не является безопасным
+❌ Synchronization and storage on **their** servers is not secure
 <br>
-❌ Регистрация по номеру телефона
+❌ Registration by phone number
 <br>
-❌ Некоторые сервисы навязывают использовать Authy, вместо других TOTP приложений[^3]
+❌ Some services impose the use of Authy instead of other TOTP applications[^3]
 <br>
-❌ Настольные приложения для TOTP кодов не являются безопасными, и рушат весь принцип двухфакторной аутентификации[^4]
+❌ Desktop applications for TOTP codes are not secure, and ruin the entire principle of two-factor authentication[^4]
 
 [^10]: https://xakep.ru/2017/01/17/two-factor-authentication-hacking/
 [^11]: https://www.privacyguides.org/ru/basics/multi-factor-authentication/
