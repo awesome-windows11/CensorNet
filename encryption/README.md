@@ -56,6 +56,8 @@ https://argon2.online/
 USB флешка | https://www.predator-usb.com/predator/en/index.php?n=Main.Download
 <br>
 DeepSound | http://jpinsoft.net/deepsound/download.aspx
+<br>
+https://md5file.com/calculator
 
 https://8gwifi.org/scrypt.jsp
 
