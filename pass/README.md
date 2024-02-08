@@ -32,11 +32,10 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> [KeePassXC](https://github.com/keepassxreboot/keepassxc)
 
+### <img width=20px src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"></img> [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+
+### <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> [LessPass]([https://proton.me/pass](https://lesspass.com))
+
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img> [Proton Pass](https://proton.me/pass)
 
 ❌ **В России не работает без VPN! Синхронизация сломана!**
-
-
-<img width=20px src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"></img> https://github.com/Kunzisoft/KeePassDX
-<br>
-<img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> https://lesspass.com
