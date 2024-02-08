@@ -13,9 +13,9 @@ Possible SIM card reissuance and phone number spoofing by intruders
 
 ### ❗ Possible 2FA TOTP hacking methods
 - Gaining ROOT access and extracting a secret from an application
-- Разблокирование загрузчика также позволяет получить данные любых приложений (единственное решение - активировать шифрование в настройках приложения, все представленные ниже приложения позволяют это сделать)
-- Разблокировка по местоположению, по фотографии лица и подобные также позволяет получить данные
-- Использование TOTP внутри менеджера паролей (что небезопасно и является ложением яиц в одну корзину)
+- Unlocking the bootloader also allows you to get any apps data (the only solution is to activate encryption in the app settings, all the apps below allow you to do this)
+- Location-based unlocking, facial photo unlocking and the like also allows you to retrieve data
+- Using TOTP inside the password manager (which is insecure and an egg in one basket)
 
 <img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> https://github.com/beemdevelopment/Aegis
 <br>
