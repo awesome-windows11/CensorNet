@@ -4,7 +4,7 @@
 
 - Используйте [мнемонику](https://safe.roskomsvoboda.org/passwords/) или строчки песен для создания паролей (безопасность данного метода под вопросом)
 - Используйте [парольные карточки](https://habr.com/ru/articles/534494/)/[матрицы](https://rjfelix.github.io/password-matrix/) или хэш файлов (безопасность под вопросом)
-- Используйте шифр виженера для паролей[^14]
+- Используйте [шифр виженера](https://findhow.org/5076-shifr-vizhenera-onlajn.html) для паролей
 - Используйте числа константы или цветовые кода HEX для создания PIN кодов (чтобы нигде не хранить их в явном виде)
 - Испоьзуйте математические выражения с константами для создания PIN кодов
 - Важные пароли всё же лучше хранить исключительно в голове, чтобы они НИГДЕ не была записаны (пароли высокой степени важности)[^2]
@@ -86,4 +86,3 @@ https://github.com/anrcry/totp-generator
 [^1]: https://startpack.ru/articles/20230310-bitwarden
 [^2]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
 [^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
-[^14]: https://findhow.org/5076-shifr-vizhenera-onlajn.html
