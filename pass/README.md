@@ -2,7 +2,7 @@
 
 <h2 align="center">🛡 Pass</h2>
 
-- Используйте мнемонику или строчки песен для создания паролей (безопасность данного метода под вопросом)[^9]
+- Используйте [мнемонику](https://safe.roskomsvoboda.org/passwords/) или строчки песен для создания паролей (безопасность данного метода под вопросом)[^9]
 - Используйте парольные карточки/[матрицы](https://rjfelix.github.io/password-matrix/) или хэш файлов (безопасность под вопросом)[^13]
 - Используйте шифр виженера для паролей[^14]
 - Используйте числа константы или цветовые кода HEX для создания PIN кодов (чтобы нигде не хранить их в явном виде)
@@ -83,7 +83,6 @@ https://github.com/anrcry/totp-generator
 [^6]: https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499
 [^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
 [^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
-[^9]: https://safe.roskomsvoboda.org/passwords/
 [^1]: https://startpack.ru/articles/20230310-bitwarden
 [^2]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
 [^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
