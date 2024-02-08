@@ -62,8 +62,6 @@ https://qna.habr.com/q/535966
 
 ----
 
-Element.io | https://element.io/get-started
-<br>
 https://simplex.chat/
 <br>
 Мессенджер | https://github.com/orbitdb/orbit
