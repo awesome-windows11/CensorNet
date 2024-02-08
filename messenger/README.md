@@ -10,7 +10,7 @@ The section is dedicated to social networks, messengers, and communication tools
 <br>
 ✔ The encryption audit was successfully passed[^9]
 <br>
-❌ Незашифрованные сообщения видны любому владельцу сервера[^10]
+❌ Unencrypted messages are visible to any server owner[^10]
 
 ### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/)
 
