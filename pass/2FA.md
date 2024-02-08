@@ -47,7 +47,7 @@ https://github.com/anrcry/totp-generator
 <br>
 ❌ Registration by phone number
 <br>
-❌ Some services impose the use of Authy instead of other TOTP applications[^3]
+❌ Some services [impose](https://gist.github.com/gboudreau/94bb0c11a6209c82418d01a59d958c93) the use of Authy instead of other TOTP applications[^3]
 <br>
 ❌ Desktop applications for TOTP codes are not secure, and ruin the entire principle of two-factor authentication[^4]
 
