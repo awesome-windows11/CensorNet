@@ -1,4 +1,4 @@
-Всё что нужно знать о паролях и защиты личных учётных записей (аккаунтов)
+Everything you need to know about passwords and protecting your personal account(s)
 
 <h2 align="center">🛡 Pass</h2>
 
