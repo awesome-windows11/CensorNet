@@ -30,8 +30,10 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 <br>
 ❌ [Autofill](https://startpack.ru/articles/20230310-bitwarden) is best turned off
 
-<img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
-<br> 
+### <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img> [Proton Pass](https://proton.me/pass)
+
+❌ **В России не работает без VPN! Синхронизация сломана!**
+
 <img width=20px src="https://site-iota-coral.vercel.app/censor/keepassxc.png"></img> https://github.com/keepassxreboot/keepassxc
 <br>
 <img width=20px src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"></img> https://github.com/Kunzisoft/KeePassDX
