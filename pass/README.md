@@ -22,13 +22,13 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 ✔ Unlike LastPass, Bitwarden [does not store](https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/) addresses in a public format, and does not track the user
 <br>
-✔ По состоянию на май 2023 года Bitwarden [были пройдены](https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment) требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53
+✔ As of May 2023, Bitwarden [had passed](https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment) the SOC 2 Type 2 and SOC 3 requirements, as well as tests from Cure53
 <br>
-❌ Имеет некоторые [проблемы](https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/), которые позже исправили
+❌ Has some [problems](https://bauinvest.su/opublikovany-rezultaty-audita-bezopasnosti/) that were later fixed
 <br>
-❌ Bitwarden использует сторонние уязвимые сервера [Microsoft Azure](https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499)
+❌ Bitwarden uses third-party vulnerable servers [Microsoft Azure](https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499)
 <br>
-❌ [Автозаполнение](https://startpack.ru/articles/20230310-bitwarden) лучше выключить
+❌ [Autocomplete](https://startpack.ru/articles/20230310-bitwarden) is best turned off
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
