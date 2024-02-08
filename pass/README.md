@@ -28,7 +28,7 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 <br>
 ❌ Bitwarden uses third-party vulnerable servers [Microsoft Azure](https://community.bitwarden.com/t/recent-ms-azure-server-vulnerabilities-and-bitwarden-data/49499)
 <br>
-❌ [Autocomplete](https://startpack.ru/articles/20230310-bitwarden) is best turned off
+❌ [Autofill](https://startpack.ru/articles/20230310-bitwarden) is best turned off
 
 <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img>  https://proton.me/pass (❌ *В России не работает без VPN! Синхронизация сломана!*) 
 <br> 
