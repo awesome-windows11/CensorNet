@@ -48,8 +48,9 @@
 
 $\color{YellowOrange}{\textsf{Normal}}$
 
-Мы рекомендуем использовать альтернативные клиенты для Windows.
+Мы рекомендуем использовать альтернативные клиенты для Windows и Android.
 
+<h4>Windows Client</h4>
 https://github.com/AyuGram/AyuGramDesktop
 <br>
 https://qna.habr.com/q/535966
