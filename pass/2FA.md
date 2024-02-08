@@ -5,9 +5,11 @@ Passwords are not being cracked by anyone but the lazy. The recent massive leak 
 ### ❌ Vulnerable (Disadvantages) of 2FA SMS
 Receiving OTP codes via SMS or email are one of the weaker ways to secure your accounts with MFA. Obtaining a code by email or SMS takes away from the "something you have" idea, because there are a variety of ways a hacker could take over your phone number or gain access to your email without having physical access to any of your devices at all. If an unauthorized person gained access to your email, they would be able to use that access to both reset your password and receive the authentication code, giving them full access to your account.[^11]
 
-- СМС могут быть перехвачены как на уровне провайдера, так и заменой или клонированием SIM-карты
-- Физический доступ к SIM-карте никак не обезопасит от данного рода защиты (единственное решение - установка PIN, который не очень безопасен)
-- Возможный перевыпуск SIM-карт и подмена номера телефона злоумышленниками
+SMS can be intercepted either at the ISP level or by replacing or cloning the SIM card
+<br>
+Physical access to the SIM card will not secure against this kind of protection (the only solution is to set a PIN, which is not very secure)
+<br>
+Possible SIM card reissuance and phone number spoofing by intruders
 
 ### ❗ Possible 2FA TOTP hacking methods
 - Получение ROOT доступа и извлечение секрета из приложения
