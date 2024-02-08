@@ -2,14 +2,21 @@ Everything you need to know about passwords and protecting your personal account
 
 <h2 align="center">🛡 Pass</h2>
 
-- Use [mnemonics](https://safe.roskomsvoboda.org/passwords/) or song lines to create passwords (the security of this method is questionable!)
-- Use [password card](https://habr.com/ru/articles/534494/)/[matrix](https://rjfelix.github.io/password-matrix/) or hash files (security in question!)
-- Используйте [шифр виженера](https://findhow.org/5076-shifr-vizhenera-onlajn.html) для паролей
-- Используйте числа константы или цветовые кода HEX для создания PIN кодов (чтобы нигде не хранить их в явном виде)
-- Испоьзуйте математические выражения с константами для создания PIN кодов
-- Важные пароли всё же лучше хранить исключительно [в голове](https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/), чтобы они НИГДЕ не была записаны (пароли высокой степени важности)
-- [Использовать](https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/) знак [нулевой ширины](https://symbl.cc/ru/200B/)
-- Используйте [генератор](https://bitwarden.com/password-generator/) паролей
+Use [mnemonics](https://safe.roskomsvoboda.org/passwords/) or song lines to create passwords (the security of this method is questionable!)
+<br>
+Use [password card](https://habr.com/ru/articles/534494/)/[matrix](https://rjfelix.github.io/password-matrix/) or hash files (security in question!)
+<br>
+Use [wijener cipher](https://findhow.org/5076-shifr-vizhenera-onlajn.html) for passwords
+<br>
+Use constant numbers or HEX color codes to create PIN codes (so you don't have to store them explicitly anywhere)
+<br>
+Use mathematical expressions with constants to create PIN codes
+<br>
+Important passwords are still best kept exclusively [in your head](https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/) so that they are not written down anywhere (high importance passwords).
+<br>
+[Use](https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/) sign [zero width](https://symbl.cc/ru/200B/)
+<br>
+Use [generator](https://bitwarden.com/password-generator/) passwords
   
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
