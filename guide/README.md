@@ -41,3 +41,5 @@ https://passwordbits.com
 https://fakeinfo.net
 <br>
 https://anonymousplanet.org/guide.html
+<br>
+https://github.com/farhanashrafdev/90DaysOfCyberSecurity
