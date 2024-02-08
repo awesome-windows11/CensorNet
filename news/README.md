@@ -68,6 +68,8 @@ https://web.telegram.org/k/#@zatelecom
 https://web.telegram.org/k/#@na_svyazi_helpdesk
 <br>
 https://web.telegram.org/k/#@ifreedomlab
+<br>
+https://web.telegram.org/k/#@deptone
 
 https://web.telegram.org/k/#@cyberyozhtalks
 
