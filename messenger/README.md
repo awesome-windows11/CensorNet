@@ -48,6 +48,10 @@
 
 Мы рекомендуем использовать альтернативные клиенты для Windows.
 
+https://github.com/AyuGram/AyuGramDesktop
+<br>
+https://qna.habr.com/q/535966
+
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
 ❌ $\color{red}{\textsf{BAD!}}$
