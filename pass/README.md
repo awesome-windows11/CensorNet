@@ -16,7 +16,7 @@ Important passwords are still best kept exclusively [in your head](https://book.
 <br>
 [Use](https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/) sign [zero width](https://symbl.cc/ru/200B/)
 <br>
-Use [generator](https://bitwarden.com/password-generator/) passwords
+Use passwords [generator](https://bitwarden.com/password-generator/)
   
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
