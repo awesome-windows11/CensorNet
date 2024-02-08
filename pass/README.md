@@ -20,7 +20,7 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
   
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
-✔ В отличии от LastPass Bitwarden [не хранит](https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/) адреса в открытом формате, и не следит за пользователем
+✔ Unlike LastPass, Bitwarden [does not store](https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/) addresses in a public format, and does not track the user
 <br>
 ✔ По состоянию на май 2023 года Bitwarden [были пройдены](https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment) требования SOC 2 Тип 2 и SOC 3, а также тесты от компании Cure53
 <br>
