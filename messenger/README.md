@@ -44,6 +44,10 @@
 [^6]: https://habr.com/ru/companies/vdsina/articles/539330/
 [^7]: https://support.signal.org/hc/ru/articles/360007318911
 
+### <img width=20px src="https://i.imgur.com/8tayY2n.png"></img> Telegram
+
+Мы рекомендуем использовать альтернативные клиенты для Windows.
+
 #### <img width=20px src="https://i.imgur.com/bs0qdUL.png"></img> ~WhatsApp~ 
 
 ❌ $\color{red}{\textsf{BAD!}}$
