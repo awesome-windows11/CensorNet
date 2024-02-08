@@ -20,9 +20,9 @@ The section is dedicated to social networks, messengers, and communication tools
 <br>
 ✔ There is 2FA in the form of a pin code (but it doesn't carry messages!)
 <br>
-✔ Messages are not transferred between devices (synchronization is available only locally - via seed phrase)
+✔ Messages are **not** transferred between devices (synchronization is available only locally - via seed phrase)
 <br>
-❌The phone number is **visible** to all chat participants (you cannot hide it)[^3]
+❌ The phone number is **visible** to all chat participants (you cannot hide it)[^3]
 <br>
 ❌ Signal пытается автоматически просканировать телефонную книгу контактов (вот почему контакты нужно хранить в отдельном скрытом разделе)
 <br>
