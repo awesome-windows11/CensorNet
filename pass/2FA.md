@@ -12,7 +12,7 @@ Physical access to the SIM card will not secure against this kind of protection 
 Possible SIM card reissuance and phone number spoofing by intruders
 
 ### ❗ Possible 2FA TOTP hacking methods
-- Получение ROOT доступа и извлечение секрета из приложения
+- Gaining ROOT access and extracting a secret from an application
 - Разблокирование загрузчика также позволяет получить данные любых приложений (единственное решение - активировать шифрование в настройках приложения, все представленные ниже приложения позволяют это сделать)
 - Разблокировка по местоположению, по фотографии лица и подобные также позволяет получить данные
 - Использование TOTP внутри менеджера паролей (что небезопасно и является ложением яиц в одну корзину)
