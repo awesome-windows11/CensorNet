@@ -9,7 +9,8 @@
 - Испоьзуйте математические выражения с константами для создания PIN кодов
 - Важные пароли всё же лучше хранить исключительно в голове, чтобы они НИГДЕ не была записаны (пароли высокой степени важности)[^2]
 - Использовать знак [нулевой ширины](https://symbl.cc/ru/200B/)[^12]
-
+- Используйте [генератор](https://bitwarden.com/password-generator/) паролей
+  
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/bitwarden.png"></img> [Bitwarden](https://bitwarden.com/download/)
 
 ✔ В отличии от LastPass Bitwarden не хранит адреса в открытом формате, и не следит за пользователем[^8]
