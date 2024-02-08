@@ -34,7 +34,7 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 ### <img width=20px src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"></img> [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
 
-### <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> [LessPass]([https://proton.me/pass](https://lesspass.com))
+### <img width=20px src="https://site-iota-coral.vercel.app/censor/lesspass.png"></img> [LessPass](https://lesspass.com)
 
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img> [Proton Pass](https://proton.me/pass)
 
