@@ -16,7 +16,7 @@ The section is dedicated to social networks, messengers, and communication tools
 
 ✔ $\color{green}{\textsf{Good}}$
 
-❌ Регистрация по номеру телефону
+❌ Registration by phone number
 <br>
 ✔ Есть 2FA в форме пин-кода (однако сообщения это не переносит!)
 <br>
