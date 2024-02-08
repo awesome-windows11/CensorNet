@@ -3,7 +3,7 @@
 Passwords are not being cracked by anyone but the lazy. The recent massive leak of Yahoo accounts only reinforces the fact that a password alone - no matter how long or complex - is no longer enough for strong security. Two-factor authentication is what promises to provide that protection, adding an extra layer of security.[^10]
 
 ### ❌ Vulnerable (Disadvantages) of 2FA SMS
-Получение OTP-кодов по СМС или электронной почте - один из самых слабых способов защиты учетных записей с помощью MFA. Получение кода по электронной почте или СМС невилирует принцип "что-то, что у вас есть", поскольку существует множество способов, которыми хакер может завладеть вашим телефонным номером или получить доступ к вашей электронной почте, не имея физического доступа ни к одному из ваших устройств. Если злоумышленник получит доступ к вашей электронной почте, то он сможет использовать этот доступ как для сброса пароля, так и для получения кода аутентификации, что даст ему полный доступ к вашей учетной записи.[^11]
+Obtaining OTP codes via SMS or email is one of the weakest ways to protect accounts with MFA. Obtaining a code via email or SMS does not invalidate the "something you have" principle, as there are many ways a hacker can get a hold of your phone number or access your email without having physical access to any of your devices. If an attacker gains access to your email, they can use that access to both reset your password and obtain an authentication code, giving them full access to your account.[^11]
 
 - СМС могут быть перехвачены как на уровне провайдера, так и заменой или клонированием SIM-карты
 - Физический доступ к SIM-карте никак не обезопасит от данного рода защиты (единственное решение - установка PIN, который не очень безопасен)
