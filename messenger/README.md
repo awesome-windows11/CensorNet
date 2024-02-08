@@ -1,4 +1,4 @@
-Раздел посвящён социальным сетям, мессенджерам, а также средствам связи
+The section is dedicated to social networks, messengers, and communication tools
 
 <h2 align="center">🔗 Messengers</h2>
 
