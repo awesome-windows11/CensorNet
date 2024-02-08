@@ -7,7 +7,7 @@
 - Используйте [шифр виженера](https://findhow.org/5076-shifr-vizhenera-onlajn.html) для паролей
 - Используйте числа константы или цветовые кода HEX для создания PIN кодов (чтобы нигде не хранить их в явном виде)
 - Испоьзуйте математические выражения с константами для создания PIN кодов
-- Важные пароли всё же лучше хранить исключительно в голове, чтобы они НИГДЕ не была записаны (пароли высокой степени важности)[^2]
+- Важные пароли всё же лучше хранить исключительно [в голове](https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/), чтобы они НИГДЕ не была записаны (пароли высокой степени важности)
 - Использовать знак [нулевой ширины](https://symbl.cc/ru/200B/)[^12]
 - Используйте [генератор](https://bitwarden.com/password-generator/) паролей
   
@@ -85,5 +85,4 @@ https://github.com/anrcry/totp-generator
 [^7]: https://bitwarden.com/help/is-bitwarden-audited/#2023-network-security-assessment
 [^8]: https://www.reddit.com/r/Bitwarden/comments/104uuqx/moved_to_bitwarden_if_i_am_not_self_hosting_how/
 [^1]: https://startpack.ru/articles/20230310-bitwarden
-[^2]: https://book.cyberyozh.com/ru/sozdanie-nadezhnogo-parolya/
 [^12]: https://book.cyberyozh.com/ru/sekretyi-nadezhnogo-parolya/
