@@ -19,6 +19,8 @@ Possible SIM card reissuance and phone number spoofing by intruders
 
 ### <img width=20px src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/metadata/en-US/images/icon.png"></img> <a href="https://github.com/beemdevelopment/Aegis">Aegis</a>
 ✔ Open Source
+<br>
+✔ Recommends [PrivacyGuides](https://www.privacyguides.org/en/multi-factor-authentication/#aegis-authenticator-android)
 
 ### <img width=20px src="https://i.imgur.com/CCcxXJx.png"></img> <a href="https://github.com/twofas">2FAS</a>
 ✔ Open Source ([recently](https://www.reddit.com/r/Bitwarden/comments/129m0j1/2fas_authentication_app_is_now_open_source/))
