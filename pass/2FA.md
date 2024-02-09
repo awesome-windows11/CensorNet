@@ -50,6 +50,8 @@ https://github.com/anrcry/totp-generator
 ❌ Some services [impose](https://gist.github.com/gboudreau/94bb0c11a6209c82418d01a59d958c93) the use of Authy instead of other TOTP applications[^3]
 <br>
 ❌ Desktop applications for TOTP codes are not secure, and ruin the entire principle of two-factor authentication[^4]
+<br>
+✔ The desktop app closed in August 2024 (the application is now [more](https://www.reddit.com/r/Bitwarden/comments/191ikkd/here_is_one_more_reason_to_move_away_from_authy/) secure)
 
 [^10]: https://xakep.ru/2017/01/17/two-factor-authentication-hacking/
 [^11]: https://www.privacyguides.org/ru/basics/multi-factor-authentication/
