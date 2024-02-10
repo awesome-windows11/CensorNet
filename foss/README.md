@@ -1,6 +1,6 @@
 <h2 align="center"> 🤝 FOSS App: Freedom, Privacy, Democracy... </h2>
 
-### <img width=20px src="https://i.ibb.co/pdfSrkS/Tor-Browser.png"></img> [TorBrowser](https://www.torproject.org/), <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
+### <img width=20px src="https://github.com/awesome-windows11/CensorNet/assets/87380272/a0670efd-770e-49b9-be40-8cac6a1f5568"></img> [KiwiBrowser](https://github.com/kiwibrowser/src.next)
 
 #### ~<img width=20px src="https://i.ibb.co/LnpQFQy/PlayStore.png"></img> Google PlayStore~
 
