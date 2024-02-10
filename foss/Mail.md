@@ -12,6 +12,9 @@
 <br>
 ❌ Компания принадлежит рекламному агенству (и кажется [передаёт данные](https://www.pcmag.com/reviews/onmail) третьим лицам)
 
+#### <img width=20px src="https://skiff.com/favicon.ico"></img> ~Skiff~
+❌ Компания свернулась и [продалась](https://www.reddit.com/r/privacy/comments/1an3n5v/skiff_sold_to_notion/) Notion
+
 #### <img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> ~VK Mail~
 ❌ Владелец ВКонтакте
 <br>
