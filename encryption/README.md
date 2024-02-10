@@ -38,6 +38,8 @@ https://paranoiaworks.mobi/ptepc
 Encryption Images | https://github.com/kaushalmeena/digi-cloak
 
 Схема Шамира https://habr.com/ru/companies/globalsign/articles/776520/
+<br>
+https://simon-frey.com/s4/
 
 <h3 align="center">🔑 Hash</h3>
 
