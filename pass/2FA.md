@@ -1,6 +1,6 @@
-<h2 align="center">[2FA](https://en.wikipedia.org/wiki/Comparison_of_OTP_applications) (TOTP / HOTP) </h2> 
+<h2 align="center">2FA (TOTP / HOTP) </h2> 
 
-Passwords are not being cracked by anyone but the lazy. The recent massive leak of Yahoo accounts only reinforces the fact that a password alone - no matter how long or complex - is no longer enough for strong security. Two-factor authentication is what promises to provide that protection, adding an extra layer of security.[^10]
+Passwords are not being cracked by anyone but the lazy. The recent massive leak of Yahoo accounts only reinforces the fact that a password alone - no matter how long or complex - is no longer enough for strong security. [Two-factor authentication](https://en.wikipedia.org/wiki/Comparison_of_OTP_applications) is what promises to provide that protection, adding an extra layer of security.[^10]
 
 ### ❌ Vulnerable (Disadvantages) of 2FA SMS
 Receiving OTP codes via SMS or email are one of the weaker ways to secure your accounts with MFA. Obtaining a code by email or SMS takes away from the "something you have" idea, because there are a variety of ways a hacker could take over your phone number or gain access to your email without having physical access to any of your devices at all. If an unauthorized person gained access to your email, they would be able to use that access to both reset your password and receive the authentication code, giving them full access to your account.[^11]
