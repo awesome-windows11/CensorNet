@@ -41,7 +41,7 @@ https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
 
-<h3> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> <a href="https://authy.com">Authy - suck!</a> </h3>
+<h4> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img>Authy - suck!</h4>
 
 ❌ Dependent eco-system
 <br>
