@@ -1,4 +1,4 @@
-<h2 align="center">2FA (TOTP / HOTP) </h2> 
+<h2 align="center">[2FA](https://en.wikipedia.org/wiki/Comparison_of_OTP_applications) (TOTP / HOTP) </h2> 
 
 Passwords are not being cracked by anyone but the lazy. The recent massive leak of Yahoo accounts only reinforces the fact that a password alone - no matter how long or complex - is no longer enough for strong security. Two-factor authentication is what promises to provide that protection, adding an extra layer of security.[^10]
 
