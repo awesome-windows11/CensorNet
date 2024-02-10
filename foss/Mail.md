@@ -1,5 +1,17 @@
 <h2 align="center"> ✉ Email Service Providers </h2>
 
+### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
+✔ Сквозное шифрование PGP и [шифрование](https://habr.com/ru/companies/first/articles/674864/) с нулевым доступом (однако стоит заметить что метаданные и тема передаются в незашифрованном виде)
+<br>
+✔ Proton базируется в Швейцарии. Это означает, что все пользовательские данные защищены строгими законами о конфиденциальности этой страны
+<br>
+✔ Все приложения имеют открытый исходный код и проверяются независимыми специалистами в области безопасности. Поэтому кто угодно может изучать их
+
+### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
+❌ Кажется почтовый сервис [может](https://www.reddit.com/r/Onmail/comments/qwzzs4/on_onmail_privacysecurity_tldr_its_a_bummer/) [читать](https://www.reddit.com/r/apple/comments/8vm4u7/psa_edison_email_app_has_the_ability_to_read_user/) тексты сообщений
+<br>
+❌ Компания принадлежит рекламному агенству (и кажется [передаёт данные](https://www.pcmag.com/reviews/onmail) третьим лицам)
+
 #### <img width=20px src="https://i.ibb.co/yRG82BQ/vkmail.png"></img> ~VK Mail~
 ❌ Владелец ВКонтакте
 <br>
@@ -28,15 +40,3 @@
 ❌ Как следствие: отсутствие должного шифрование и возможность читать содержимое почтового ящика
 <br>
 ❌ И VK, и Яндекс - подтвердили возможность получения [доступа](https://novayagazeta.ru/articles/2020/01/31/83709-eto-skrytyy-trolling-spetssluzhb) к переписке
-
-### <img width=20px src="https://i.ibb.co/ccGGB7m/OnMail.png"></img> [OnMail](https://www.onmail.com)
-❌ Кажется почтовый сервис [может](https://www.reddit.com/r/Onmail/comments/qwzzs4/on_onmail_privacysecurity_tldr_its_a_bummer/) [читать](https://www.reddit.com/r/apple/comments/8vm4u7/psa_edison_email_app_has_the_ability_to_read_user/) тексты сообщений
-<br>
-❌ Компания принадлежит рекламному агенству (и кажется [передаёт данные](https://www.pcmag.com/reviews/onmail) третьим лицам)
-
-### <img width=20px src="https://i.ibb.co/JCjqBbk/Proton.png"></img> [Proton](https://proton.me)
-✔ Сквозное шифрование PGP и [шифрование](https://habr.com/ru/companies/first/articles/674864/) с нулевым доступом (однако стоит заметить что метаданные и тема передаются в незашифрованном виде)[^9]
-<br>
-✔ Proton базируется в Швейцарии. Это означает, что все пользовательские данные защищены строгими законами о конфиденциальности этой страны
-<br>
-✔ Все приложения имеют открытый исходный код и проверяются независимыми специалистами в области безопасности. Поэтому кто угодно может изучать их
