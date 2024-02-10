@@ -41,8 +41,7 @@ https://totp.app
 <br>
 https://github.com/anrcry/totp-generator
 
-<h4> <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> Authy - suck!</h4>
-
+#### <img width=20px src="https://site-iota-coral.vercel.app/censor/authy.png"></img> Authy - suck!</h4>
 ❌ Dependent eco-system
 <br>
 ❌ Synchronization and storage on **their** servers is not secure
