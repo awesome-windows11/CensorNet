@@ -44,8 +44,6 @@ VPN список | https://vpnlove.me
 <br>
 Net Healer | https://net-healer.com
 <br>
-SkyVPN | https://www.skyvpn.net
-<br>
 https://vpn-free.pro/
 <br>
 HighLoad VPN | https://hi-l.im
@@ -67,6 +65,8 @@ https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncf
 https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
 <br>
 https://riseup.net (⛔ *Не работает в России!*)
+<br>
+https://www.skyvpn.net (⛔ *Не работает в России!*)
 
 <h3> <img width=20px src="https://i.imgur.com/jakBQAz.png"></img> <a href="https://1.1.1.1">CloudFlare 1.1.1.1</a></h3>
 
