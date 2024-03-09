@@ -60,6 +60,8 @@ https://www.top10vpn.com
 <br>
 https://freevpnplanet.com/
 <br>
+https://chrome.google.com/webstore/detail/ngkjielajlecigijlijjkhkhlhmmcgfh
+<br>
 https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncfpfggjefnekilbkcpjdgp
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
