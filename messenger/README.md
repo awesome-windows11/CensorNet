@@ -22,7 +22,7 @@ The section is dedicated to social networks, messengers, and communication tools
 <br>
 ✔ Messages are **not** transferred between devices (synchronization is available only locally - via seed phrase)
 <br>
-❌ The phone number is **visible** to all chat participants (you cannot hide it)[^3]
+✔ ~The phone number is **visible** to all chat participants (you cannot hide it)~[^3] From March 2024 you [can](https://lifehacker.com/tech/how-to-hide-your-phone-number-on-signal) [hide](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) [your](https://www.theverge.com/2024/2/20/24078395/signal-username-phone-number-beta) [phone](https://techcrunch.com/2024/02/20/signal-now-lets-you-keep-your-phone-number-private-with-the-launch-of-usernames/) number
 <br>
 ❌ Signal пытается автоматически просканировать телефонную книгу контактов (вот почему контакты нужно хранить в отдельном скрытом разделе)
 <br>
