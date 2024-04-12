@@ -8,7 +8,7 @@ https://github.com/HACKERALERT/Picocrypt
 <br>
 https://github.com/veracrypt/VeraCrypt
 <br>
-https://github.com/cryptomator/cryptomator
+<img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/Cryptomator.png"></img> https://github.com/cryptomator/cryptomator
 
 Стенография внутри изображений
 
