@@ -7,10 +7,13 @@ https://github.com/sh-dv/hat.sh
 https://github.com/HACKERALERT/Picocrypt
 <br>
 https://github.com/veracrypt/VeraCrypt
-<br>
+
+### Cryptomator
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/Cryptomator.png"></img> https://github.com/cryptomator/cryptomator
 
-Стенография внутри изображений
+### Стенография
+
+Внутри изображений
 
 https://github.com/DJayalath/ImSter
 
