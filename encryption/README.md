@@ -11,6 +11,8 @@ https://github.com/veracrypt/VeraCrypt
 ### Cryptomator
 <img width=20px src="https://raw.githubusercontent.com/awesome-icons/icons/main/Cryptomator.png"></img> https://github.com/cryptomator/cryptomator
 
+✔ Full [offline](https://new.reddit.com/r/Cryptomator/comments/tpkzcr/new_user_risks_of_cryptomator_availability/) encryption support
+
 ### Стенография
 
 Внутри изображений
