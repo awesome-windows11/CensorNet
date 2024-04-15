@@ -28,6 +28,8 @@ Possible SIM card reissuance and phone number spoofing by intruders
 
 ### <img width=20px src="https://i.imgur.com/CCcxXJx.png"></img> <a href="https://github.com/twofas">2FAS</a>
 ✔ Open Source ([recently](https://www.reddit.com/r/Bitwarden/comments/129m0j1/2fas_authentication_app_is_now_open_source/))
+<br>
+👁️‍🗨️ It is possible to view the security key 
 
 <img width=20px src="https://i.imgur.com/R46JaVd.png"></img> https://play.google.com/store/apps/details?id=com.authenticator.authservice2
 <br>
