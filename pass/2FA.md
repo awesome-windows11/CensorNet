@@ -52,11 +52,8 @@ https://github.com/anrcry/totp-generator
 <br>
 ❌ Registration by phone number
 <br>
-❌ Some services [impose](https://gist.github.com/gboudreau/94bb0c11a6209c82418d01a59d958c93) the use of Authy instead of other TOTP applications[^3]
+❌ Some [services](https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/) [impose](https://gist.github.com/gboudreau/94bb0c11a6209c82418d01a59d958c93) the use of Authy instead of other TOTP applications
 <br>
-❌ Desktop applications for TOTP codes are not secure, and ruin the entire principle of two-factor authentication[^4]
+❌ Desktop applications for TOTP codes are not secure, and ruin the entire [principle](https://securelist.com/how-to-steal-a-million-of-your-data/91855/) of two-factor authentication
 <br>
 ✔ The desktop app closed in August 2024 (the application is [now](https://www.reddit.com/r/privacy/comments/191gu54/authy_2fa_desktop_clients_are_being_discontinued/) [more](https://www.reddit.com/r/Bitwarden/comments/191ikkd/here_is_one_more_reason_to_move_away_from_authy/) [secure](https://www.reddit.com/r/technology/comments/191h5nf/authy_authenticator_apps_for_desktop_are_being/))
-
-[^3]: https://www.reddit.com/r/Twitch/comments/9phayo/why_is_twitch_forcing_us_to_use_authy_as_the_2fa/
-[^4]: https://securelist.com/how-to-steal-a-million-of-your-data/91855/
