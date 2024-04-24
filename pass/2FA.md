@@ -58,7 +58,7 @@ https://github.com/anrcry/totp-generator
 <br>
 ✔ The desktop app closed in August 2024 (the application is [now](https://www.reddit.com/r/privacy/comments/191gu54/authy_2fa_desktop_clients_are_being_discontinued/) [more](https://www.reddit.com/r/Bitwarden/comments/191ikkd/here_is_one_more_reason_to_move_away_from_authy/) [secure](https://www.reddit.com/r/technology/comments/191h5nf/authy_authenticator_apps_for_desktop_are_being/))
 
-<h2 align="center">Yubikey</h2> 
+<h2 align="center">WebAuthn (Yubikey)</h2> 
 
 <h3>Browser compatibility</h3>
 
