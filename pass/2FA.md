@@ -73,3 +73,5 @@ https://github.com/anrcry/totp-generator
 ❌ Bromite
 <br>
 ❌ Iceraven 
+<br>
+❌ Fennec
