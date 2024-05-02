@@ -69,6 +69,8 @@ https://pastenym.ch
 <br>
 <img width=20px src="https://anonfiles.com/img/favicon/favicon-32x32-anonfiles.png"></img> https://anonfiles.com
 <br>
+https://gofile.io
+<br>
 https://storj.io
 <br>
 https://github.com/ipfs/ipfs-desktop
