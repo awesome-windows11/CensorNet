@@ -36,6 +36,8 @@
 ❌ Пароли и письма не шифруются (об этом не идёт [даже речи](http://lib.itsec.ru/forum.php?sub=5646&from=0&format=printer-friendly)!)
 
 #### <img width=20px src="https://i.ibb.co/Yd8SPKb/Yandex.png"></img> ~Яндекс~
+❗❗ Возможность взлома аккаунта через номер телефона (перехват SIM или SMS)
+<br>
 ❌ Находится в [реестре ОРИ](https://roskomsvoboda.org/post/yandeks-vnesen-v-reestr-organizatorov/)
 <br>
 ❌ Официально раскрыли случай [утечки получения](https://yandex.ru/company/news/2021-02-12) доступа к аккаунта
@@ -45,5 +47,3 @@
 ❌ И VK, и Яндекс - подтвердили возможность получения [доступа](https://novayagazeta.ru/articles/2020/01/31/83709-eto-skrytyy-trolling-spetssluzhb) к переписке
 <br>
 ❌ Нет защиты FIDO U2F
-<br>
-❌ Возможность взлома аккаунта через номер телефона (перехват SIM или SMS)
