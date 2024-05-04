@@ -186,11 +186,17 @@ Self updates are a spyware feature since they are usually ways for the developer
 
 Other known spywares, like Chromium, make use of this method
 
-<h2>Stack Browser Next SE </h2>
+<h2>Stack Browser Next SE</h2>
 
 $\color{orange}{\textsf{Medium}}$
 
 Based on slow Electron with added telemetry from Chromium
+
+<h2>Arc Browser</h2>
+
+$\color{orange}{\textsf{Medium}}$
+
+Mandatory registration to use the browser (what a f***?)
 
 [^1]: https://www.reddit.com/r/browsers/comments/12o6dje/so_ms_edge_mind_explaining_this_to_me_why_are_you/
 [^2]: https://www.kuketz-blog.de/microsoft-edge-datensendeverhalten-desktop-version-browser-check-teil4/
