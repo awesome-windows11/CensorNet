@@ -95,6 +95,7 @@ Let's briefly recall the marketing slogan Microsoft uses to promote the Edge bro
 <h2> <img src="https://github.com/awesome-windows11/CensorNet/assets/87380272/8a9b964c-f244-4bb2-9a0d-14b8d8505923" width="25px"></img> Opera</h2>
 
 ❌ $\color{red}{\textsf{HIGH}}$
+
 Opera makes about 83 unsolicited requests on its first run:
 
 ![image](https://github.com/awesome-windows11/CensorNet/assets/87380272/0816aea8-741d-48f4-9be3-95e5fc7c764f)
@@ -184,6 +185,12 @@ If you start up Waterfox for the first time, it will make between 31 to 130 requ
 Self updates are a spyware feature since they are usually ways for the developer of a program to put spyware into their software without presenting it in a prominent way where the user can understand what they are giving up when they download the update.
 
 Other known spywares, like Chromium, make use of this method
+
+<h2>Stack Browser Next SE </h2>
+
+$\color{orange}{\textsf{Medium}}$
+
+Based on slow Electron with added telemetry from Chromium
 
 [^1]: https://www.reddit.com/r/browsers/comments/12o6dje/so_ms_edge_mind_explaining_this_to_me_why_are_you/
 [^2]: https://www.kuketz-blog.de/microsoft-edge-datensendeverhalten-desktop-version-browser-check-teil4/
