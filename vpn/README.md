@@ -64,7 +64,7 @@ https://chrome.google.com/webstore/detail/ngkjielajlecigijlijjkhkhlhmmcgfh
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncfpfggjefnekilbkcpjdgp
 <br>
-https://chrome.google.com/webstore/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
+https://chromewebstore.google.com/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
 <br>
 15 minutes free: https://chromewebstore.google.com/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
 <br>
