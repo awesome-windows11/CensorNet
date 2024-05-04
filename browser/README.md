@@ -191,6 +191,8 @@ Other known spywares, like Chromium, make use of this method
 $\color{orange}{\textsf{Medium}}$
 
 Based on slow Electron with added telemetry from Chromium
+<br>
+Prescribed in the system and download folders
 
 <h2>Arc Browser</h2>
 
