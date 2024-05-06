@@ -9,18 +9,22 @@
 ✔ Поддерживает OpenVPN
 
 <h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
-
 ✔ Проксирует только US/EN сайты
 <br>
 ✔ Имеет Android версию
 
 <h3> <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> <a href="https://torproject.org/download/">Tor Browser</a></h3>
-
 ✔ Полная анонимность
 <br>
 ❌ Медленная скорость подключения
 <br>
 ❌ Android версия использует только режим инкогнито
+
+<h3> <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a></h3>
+✔ Не режет скорость
+<br>
+✔ Есть поддержка исключений
+
 
 https://github.com/abysshint/tor-control-panel
 <br>
@@ -59,8 +63,6 @@ SOON... | https://tachyon.eco
 https://www.top10vpn.com
 <br>
 https://freevpnplanet.com/
-<br>
-https://chrome.google.com/webstore/detail/ngkjielajlecigijlijjkhkhlhmmcgfh
 <br>
 https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncfpfggjefnekilbkcpjdgp
 <br>
