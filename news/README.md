@@ -45,6 +45,8 @@ https://xakep.ru/tag/paroli-hack/
 https://www.eff.org/
 <br>
 https://stackdiary.com/category/security/
+<br>
+https://noyb.eu/en
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
