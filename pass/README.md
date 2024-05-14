@@ -42,6 +42,8 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 <h3 align="center">🛡 Protecting sites from recovery</h3>
 
+Many sites offer convenient ways to recover by phone number only, however, which greatly reduces security. Here is a brief summary of the different sites.
+
 Site | Mandatory phone number | Restore by password | Recovery by phone number
 ------------ | ---- | ---- | ----
 Google | ✔ No | |
