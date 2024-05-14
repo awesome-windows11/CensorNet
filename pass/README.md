@@ -47,4 +47,4 @@ Many sites offer convenient ways to recover by phone number only, however, which
 Site | 📱 Mandatory phone number | 🔓 Restore by password | 🔓 Recovery by phone number | 🔑 Yubikey login
 ------------ | ---- | ---- | ---- | ---
 Google | ✔ No | ✔ No | ✔ No | ✔ Yes
-Discord | ✔ No | ❌ Yes | ❌ Yes | ✔ Yes
+Discord | ✔ No | ✔ No | ❌ Yes | ✔ Yes
