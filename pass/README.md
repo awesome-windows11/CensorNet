@@ -41,3 +41,6 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 ❌ **В России не работает без VPN! Синхронизация сломана!**
 
 <h3 align="center">🛡 Protecting sites from recovery</h3>
+| Site | Restore by password only | Recovery by phone number only |
+| ------------ | --------- | -------- |
+| Google | |
