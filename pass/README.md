@@ -46,4 +46,4 @@ Many sites offer convenient ways to recover by phone number only, however, which
 
 Site | Mandatory phone number | Restore by password | Recovery by phone number
 ------------ | ---- | ---- | ----
-Google | ✔ No | |
+Google | ✔ No |  | ✔ No
