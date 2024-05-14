@@ -39,3 +39,5 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 ### <img width=20px src="https://site-iota-coral.vercel.app/censor/proton.webp"></img> [Proton Pass](https://proton.me/pass)
 
 ❌ **В России не работает без VPN! Синхронизация сломана!**
+
+<h3 align="center">🛡 Protecting sites from recovery</h3>
