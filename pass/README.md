@@ -44,6 +44,6 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 Many sites offer convenient ways to recover by phone number only, however, which greatly reduces security. Here is a brief summary of the different sites.
 
-Site | Mandatory phone number | Restore by password | Recovery by phone number | Yubikey login
+Site | 📱 Mandatory phone number | 🔓 Restore by password | 🔓 Recovery by phone number | 🔑 Yubikey login
 ------------ | ---- | ---- | ---- | ---
 Google | ✔ No | ✔ No | ✔ No | ✔ Yes
