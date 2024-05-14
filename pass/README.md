@@ -49,5 +49,6 @@ Site | 📱 Mandatory phone number | 🔓 Restore by password | 🔓 Recovery by
 Discord | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 Google | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 GitHub | ✔ No | ✔ No | ➖ Optional | ✔ Yes
+SimpleLogin | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 VK  | ❌ Yes | ❌ Yes | ❌ Yes | ✔ Yes
 Yandex  | ❌ Yes | ✔ No | ❌ Yes | ✔ Yes
