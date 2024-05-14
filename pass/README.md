@@ -42,6 +42,6 @@ Use passwords [generator](https://bitwarden.com/password-generator/)
 
 <h3 align="center">🛡 Protecting sites from recovery</h3>
 
-Site | Restore by password only | Recovery by phone number only
------------- | ---- | ----
-Google | |
+Site | Mandatory phone number | Restore by password only | Recovery by phone number only
+------------ | ---- | ---- | ----
+Google | ✔ No | |
