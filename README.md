@@ -71,8 +71,6 @@ https://pastenym.ch
 <br>
 https://gofile.io
 <br>
-https://storj.io
-<br>
 https://github.com/ipfs/ipfs-desktop
 <br>
 https://pixeldrain.com
@@ -102,7 +100,8 @@ https://webwormhole.io
 https://wormhole.app
 <br>
 https://copypaste.me
-
+<br>
+https://storj.io
 
 
 <h2 align="center">Apps</h2>
