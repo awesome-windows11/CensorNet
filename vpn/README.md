@@ -69,7 +69,7 @@ https://chrome.google.com/webstore/detail/free-vpn-chrome-extension/jaoafpkngncf
 https://chromewebstore.google.com/detail/free-vpn-for-chrome-by-1c/fcfhplploccackoneaefokcmbjfbkenj
 <br>
 Supports excluding sites: https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno
-<>
+<br>
 15 minutes free: https://chromewebstore.google.com/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
 <br>
 https://riseup.net (⛔ *Не работает в России!*)
