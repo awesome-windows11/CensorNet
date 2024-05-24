@@ -8,11 +8,6 @@
 <br>
 ✔ Поддерживает OpenVPN
 
-<h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
-✔ Проксирует только US/EN сайты
-<br>
-✔ Имеет Android версию
-
 <h3> <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> <a href="https://torproject.org/download/">Tor Browser</a></h3>
 ✔ Полная анонимность
 <br>
@@ -85,6 +80,14 @@ https://www.skyvpn.net (⛔ *Не работает в России!*)
 ⛔ Не работает в России[^1]
 <br>
 ✔ Поддерживает Wireguard
+
+<h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
+
+⛔ Не работает в России
+<br>
+✔ Проксирует только US/EN сайты
+<br>
+✔ Имеет Android версию
 
 <h3 align="center">🕵️‍♂️ Client</h3>
 
