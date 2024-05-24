@@ -72,6 +72,8 @@ Supports excluding sites: https://chromewebstore.google.com/detail/free-vpn-for-
 <br>
 15 minutes free: https://chromewebstore.google.com/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
 <br>
+https://adguard-vpn.com (⛔ *Не работает в России!*)
+<br>
 https://riseup.net (⛔ *Не работает в России!*)
 <br>
 https://www.skyvpn.net (⛔ *Не работает в России!*)
