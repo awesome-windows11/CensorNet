@@ -18,6 +18,8 @@ https://news.ycombinator.com
 <br>
 https://restoreprivacy.com
 
+https://blog.thenewoil.org
+<br>
 https://www.zdnet.com/topic/security/
 <br>
 https://www.zdnet.com/topic/cyber-threats/
