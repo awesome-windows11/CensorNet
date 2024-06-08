@@ -46,6 +46,8 @@ https://xakep.ru/tag/paroli-hack/
 <br>
 https://www.eff.org/
 <br>
+https://techcrunch.com/
+<br>
 https://stackdiary.com/category/security/
 <br>
 https://noyb.eu/en
