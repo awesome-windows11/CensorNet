@@ -40,7 +40,7 @@ $\color{YellowOrange}{\textsf{Normal}}$
 
 #### ❗ Openly confronted Signal [without providing](https://www.forbes.com/sites/zakdoffman/2024/05/10/telegram-issues-whatsapp-and-signal-warning-for-iphone-and-android/) any evidence
 
-Мы рекомендуем использовать альтернативные клиенты для Windows и Android.
+We recommend using alternative clients for Windows and Android.
 
 <h4>Windows Client</h4>
 https://github.com/gjf/TgMP
