@@ -38,6 +38,8 @@ The section is dedicated to social networks, messengers, and communication tools
 
 $\color{YellowOrange}{\textsf{Normal}}$
 
+#### ❗ Openly confronted Signal [without providing](https://www.forbes.com/sites/zakdoffman/2024/05/10/telegram-issues-whatsapp-and-signal-warning-for-iphone-and-android/) any evidence
+
 Мы рекомендуем использовать альтернативные клиенты для Windows и Android.
 
 <h4>Windows Client</h4>
