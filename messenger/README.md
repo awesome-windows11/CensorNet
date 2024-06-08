@@ -33,6 +33,8 @@ The section is dedicated to social networks, messengers, and communication tools
 ✔ Сквозное шифрование включено по умолчанию[^7]
 <br>
 ✔ Открытый исходный код (также и сервера), однако многие считают что Signal нужнается в децентрализации по типу Matrix[^6]
+<br>
+There are [some problems](https://www.city-journal.org/article/signals-katherine-maher-problem) with the chairman 
 
 ### <img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png"></img> Telegram
 
