@@ -51,6 +51,8 @@ https://techcrunch.com/
 https://stackdiary.com/category/security/
 <br>
 https://noyb.eu/en
+<br>
+https://theintercept.com/technology/
 
 <h2 align="center"> Telegram</h2>
 https://web.telegram.org/k/#@black_triangle_tg
