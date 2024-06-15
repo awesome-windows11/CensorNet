@@ -1,3 +1,9 @@
+Browser Android | 🛡 AdBlock | 🌎 Translate | 🚅 Speed
+------------ | ---- | --- | --- |
+Chrome | ❌ | ❌ | ➖
+Yandex | ➖ (in part) | ✔ | ➖
+Kiwi | ✔ | ✔ | ✔ (old ver)
+
 <h1 align="center">🌐 Most private browsers</h1>
 
 A constantly updated guide to the best private browser (not to be confused with anonymous as well as secure, this repository has other goals)
