@@ -45,6 +45,19 @@ While it is true that the project themselves do not collect any telemetry, the d
 ✔ $\color{green}{\textsf{Nothing (?)}}$
 Other builds: https://chromium.woolyss.com
 
+There is an instruction that can reveal that you are not using Chrome, which can distinguish you from others (Vivaldi passes this check)
+
+```js
+if (navigator.userAgentData) {
+    let vendors = window.navigator.userAgentData.brands;
+    if (vendors.filter(e => e.brand === 'Google Chrome').length > 0) {
+        console.log('Chrome')
+    } else {
+        console.log('Chromium')
+    }
+}
+```
+
 ### It's open source software!
 
 ### Does not have automatic updates
