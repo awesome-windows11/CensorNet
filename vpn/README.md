@@ -32,8 +32,7 @@
 ✔ Не режет скорость
 <br>
 ✔ Работает в режиме прокси (например через Omega Proxy)
-
-
+<br><br>
 https://github.com/abysshint/tor-control-panel
 <br>
 https://github.com/Snawoot/opera-proxy (https://habr.com/ru/articles/555368/)
