@@ -28,6 +28,11 @@
 <br>
 ✔ Есть поддержка исключений
 
+<h3> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a></h3>
+✔ Не режет скорость
+<br>
+✔ Работает в режиме прокси (например через Omega Proxy)
+
 
 https://github.com/abysshint/tor-control-panel
 <br>
