@@ -1,6 +1,6 @@
 <h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
-<h3> <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://antizapret.prostovpn.org">Антизапрет</a></h3>
+### <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://antizapret.prostovpn.org">Антизапрет</a>
 
 Добровольческое бесплатное ВПН. Обладает достаточно быстрой скоростью.
 
@@ -8,7 +8,7 @@
 <br>
 ✔ Поддерживает OpenVPN
 
-<h3> <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a></h3>
+### <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a>
 
 ⛔ Частично работает в России
 <br>
@@ -16,7 +16,7 @@
 <br>
 ✔ Имеет Android версию
 
-<h3> <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> <a href="https://torproject.org/download/">Tor Browser</a></h3>
+### <img width=20px src="https://i.imgur.com/iEYiV6S.png"></img> <a href="https://torproject.org/download/">Tor Browser</a>
 ✔ Полная анонимность
 <br>
 ❌ Медленная скорость подключения
@@ -25,18 +25,18 @@
 
 <a href="https://github.com/abysshint/tor-control-panel">Tor Control Panel</a>
 
-<h3> <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a></h3>
+### <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a>
 ✔ Не режет скорость
 <br>
 ✔ Есть поддержка исключений
 
-<h3> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a></h3>
+### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
 
 ✔ Не [режет](https://habr.com/ru/articles/555368) скорость
 <br>
 ✔ Работает в режиме прокси (например через Omega Proxy)
 
-<h3> <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://github.com/amnezia-vpn/amnezia-client">Amnezia VPN Free</a></h3>
+### <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://github.com/amnezia-vpn/amnezia-client">Amnezia VPN Free</a>
 
 ⚠ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (_для TikTok, Spotify и т.д. не подойдёт!_)
 <br>
