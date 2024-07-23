@@ -36,7 +36,7 @@
 <br>
 ✔ Работает в режиме прокси (например через Omega Proxy)
 
-<h3> <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://amnezia.org">Amnezia VPN Free</a></h3>
+<h3> <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://github.com/amnezia-vpn/amnezia-client">Amnezia VPN Free</a></h3>
 
 ✔ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (для TikTok, Spotify и т.д. не подойдёт!)
 <br>
