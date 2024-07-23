@@ -23,23 +23,25 @@
 <br>
 ❌ Android версия использует только режим инкогнито
 
+<a href="https://github.com/abysshint/tor-control-panel">Tor Control Panel</a>
+
 <h3> <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a></h3>
 ✔ Не режет скорость
 <br>
 ✔ Есть поддержка исключений
 
 <h3> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a></h3>
-✔ Не режет скорость
+
+✔ Не [режет](https://habr.com/ru/articles/555368) скорость
 <br>
 ✔ Работает в режиме прокси (например через Omega Proxy)
-<br><br>
 
-https://github.com/abysshint/tor-control-panel
+<h3> <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://amnezia.org">Amnezia VPN Free</a></h3>
+
+✔ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (для TikTok, Spotify и т.д. не подойдёт!)
 <br>
-https://github.com/Snawoot/opera-proxy (https://habr.com/ru/articles/555368/)
-<br>
-<img width=20px src="https://i.imgur.com/YF43wA4.png"></img> https://amnezia.org (https://t.me/amnezia_vpn_news_ru, https://t.me/free_vpn_amnezia_bot)
-<br>
+✔ Не [режет](https://t.me/amnezia_vpn_news_ru) скорость
+
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
