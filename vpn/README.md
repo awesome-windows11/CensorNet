@@ -4,7 +4,7 @@
 
 Добровольческое бесплатное ВПН. Обладает достаточно быстрой скоростью.
 
-✔ Проксирует только заблокированные сайты
+⚠ Проксирует только заблокированные сайты
 <br>
 ✔ Поддерживает OpenVPN
 
@@ -12,7 +12,7 @@
 
 ⛔ Частично работает в России
 <br>
-✔ Проксирует только US/EN сайты
+⚠ Проксирует только US/EN сайты
 <br>
 ✔ Имеет Android версию
 
@@ -38,7 +38,7 @@
 
 <h3> <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://github.com/amnezia-vpn/amnezia-client">Amnezia VPN Free</a></h3>
 
-✔ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (для TikTok, Spotify и т.д. не подойдёт!)
+⚠ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (_для TikTok, Spotify и т.д. не подойдёт!_)
 <br>
 ✔ Не [режет](https://t.me/amnezia_vpn_news_ru) скорость
 
