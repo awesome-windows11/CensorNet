@@ -25,11 +25,6 @@
 
 <a href="https://github.com/abysshint/tor-control-panel">Tor Control Panel</a>
 
-### <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a>
-✔ Не режет скорость
-<br>
-✔ Есть поддержка исключений
-
 ### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
 
 ✔ Не [режет](https://habr.com/ru/articles/555368) скорость
@@ -41,6 +36,11 @@
 ⚠ Проксирует [только](https://t.me/free_vpn_amnezia_bot) заблокированные сайты (_для TikTok, Spotify и т.д. не подойдёт!_)
 <br>
 ✔ Не [режет](https://t.me/amnezia_vpn_news_ru) скорость
+
+### <img width=20px src="https://i.imgur.com/eq4sLmU.png"></img> <a href="https://chromewebstore.google.com/detail/troywell-vpn-pro-fast-and/ngkjielajlecigijlijjkhkhlhmmcgfh">Troywell VPN Pro</a>
+✔ Не режет скорость
+<br>
+✔ Есть поддержка исключений
 
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
