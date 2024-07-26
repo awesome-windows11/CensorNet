@@ -40,7 +40,11 @@ The section is dedicated to social networks, messengers, and communication tools
 
 $\color{YellowOrange}{\textsf{Normal}}$
 
-#### ❗ Openly confronted Signal [without providing](https://www.forbes.com/sites/zakdoffman/2024/05/10/telegram-issues-whatsapp-and-signal-warning-for-iphone-and-android/) any evidence
+❗ Openly confronted Signal [without providing](https://www.forbes.com/sites/zakdoffman/2024/05/10/telegram-issues-whatsapp-and-signal-warning-for-iphone-and-android/) any evidence
+<br>
+❌ Hidden ID for each user that **cannot** be changed
+<br>
+❌ Participation in [spam advertising](https://youtu.be/4VAIKZSbdAo)
 
 We recommend using alternative clients for Windows and Android.
 
