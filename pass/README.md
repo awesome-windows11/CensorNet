@@ -51,4 +51,4 @@ Google | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 GitHub | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 SimpleLogin | ✔ No | ✔ No | ➖ Optional | ✔ Yes
 VK  | ❌ Yes | ❌ Yes | ❌ Yes | ✔ Yes
-Yandex  | ❌ Yes | ✔ No | ❌ Yes | ✔ Yes
+Yandex  | ❌ Yes | ✔ No | ✔ No | ✔ Yes
