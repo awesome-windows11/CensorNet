@@ -14,7 +14,7 @@
 
 ✔ Не [режет](https://habr.com/ru/articles/555368) скорость
 <br>
-✔ Работает в режиме прокси (например через Omega Proxy)
+✔ Работает в режиме прокси (например через [Omega Proxy](https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?pli=1))
 
 ### <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a>
 
