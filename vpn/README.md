@@ -52,6 +52,8 @@
 <br>
 https://github.com/krlvm/PowerTunnel-Android
 <br>
+https://github.com/dovecoteescapee/ByeDPIAndroid
+<br>
 <img width=20px src="https://i.imgur.com/ZPk4Rro.png"></img> https://www.nthlink.com
 <br>
 Veepn | https://veepn.com/ru/
