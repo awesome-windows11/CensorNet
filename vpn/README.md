@@ -1,6 +1,6 @@
 <h2 align="center">🕵️‍♂️ VPN (Privacy and anonymity)</h2>
 
-### Получить свой приватный VPN: vpngen@vpngen.aleeas.com
+### ❗❗ Получить свой приватный VPN -> vpngen@vpngen.aleeas.com
 
 ### <img width=16px src="https://i.imgur.com/LZCFWf2.png"></img> <a href="https://antizapret.prostovpn.org">Антизапрет</a>
 
