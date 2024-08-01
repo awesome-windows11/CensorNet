@@ -10,6 +10,12 @@
 <br>
 ✔ Поддерживает OpenVPN
 
+### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
+
+✔ Не [режет](https://habr.com/ru/articles/555368) скорость
+<br>
+✔ Работает в режиме прокси (например через Omega Proxy)
+
 ### <img width=20px src="https://i.imgur.com/D1KhiFU.png"></img> <a href="https://psiphon3.com/download.html">Psiphon3</a>
 
 ⛔ Частично работает в России
@@ -26,12 +32,6 @@
 ❌ Android версия использует только режим инкогнито
 
 <a href="https://github.com/abysshint/tor-control-panel">Tor Control Panel</a>
-
-### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
-
-✔ Не [режет](https://habr.com/ru/articles/555368) скорость
-<br>
-✔ Работает в режиме прокси (например через Omega Proxy)
 
 ### <img width=20px src="https://i.imgur.com/YF43wA4.png"></img> <a href="https://github.com/amnezia-vpn/amnezia-client">Amnezia VPN Free</a>
 
