@@ -12,7 +12,7 @@
 
 ### <img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> <a href="https://github.com/ValdikSS/GoodbyeDPI">GoodbyeDPI</a>
 
-Одно из самых лучших средств для обхода замедлений ТПСУ
+Одно из самых лучших средств для обхода [замедлений](https://habr.com/ru/articles/335436/) ТПСУ
 
 ### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
 
