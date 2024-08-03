@@ -10,6 +10,10 @@
 <br>
 ✔ Поддерживает OpenVPN
 
+### <img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> <a href="https://github.com/ValdikSS/GoodbyeDPI">GoodbyeDPI</a>
+
+Один из самых лучших средство обхода замедлений ТПСУ
+
 ### <img width=20px src="https://i.imgur.com/c7F8UyQ.png"></img> <a href="https://github.com/Snawoot/opera-proxy">Opera Proxy</a>
 
 ✔ Не [режет](https://habr.com/ru/articles/555368) скорость
@@ -47,8 +51,6 @@
 <img width=20px src="https://i.imgur.com/Ck0mIRu.png"></img> https://lantern.io/download
 <br>
 <img width=20px src="https://i.imgur.com/s0Z9qE0.png"></img> https://windscribe.com/download
-<br>
-<img width=20px src="https://i.imgur.com/WIYjsmF.png"></img> https://github.com/ValdikSS/GoodbyeDPI
 <br>
 https://github.com/krlvm/PowerTunnel-Android
 <br>
