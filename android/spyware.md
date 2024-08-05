@@ -1,6 +1,6 @@
 ### ADB Android Huawei Spyware
 
-**com.huawei.powergenie**[^1]
+**com.huawei.powergenie** [Stopping](https://xdaforums.com/t/remove-powergenie-to-allow-background-apps-to-receive-push-notifications.3890409/) applications in the background
 
 **com.huawei.android.hwaps**
 
