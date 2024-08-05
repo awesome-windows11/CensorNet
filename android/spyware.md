@@ -1,16 +1,16 @@
 ### ADB Android Huawei [Spyware](https://forum.xda-developers.com/t/p40-pro-debloating-guide.4088633) & [Bloatware](https://forum.xda-developers.com/honor-6x/how-to/guide-list-bloat-software-emui-safe-to-t3700814) 
 
-**com.huawei.powergenie** [Stopping](https://xdaforums.com/t/remove-powergenie-to-allow-background-apps-to-receive-push-notifications.3890409/) applications in the background
+**com.huawei.powergenie** [Stopping](https://xdaforums.com/t/remove-powergenie-to-allow-background-apps-to-receive-push-notifications.3890409/) applications in the [background](https://dontkillmyapp.com/huawei)
 
 **com.huawei.android.hwaps**
 
-**com.android.keyguard** Разблокировка журнала HUAWEI (Название пакета действительно запутанное) Это проприетарное приложение, основанное на пакете AOSP под названием `com.android.keyguard`. Это совсем не умно. Позволяет настраивать обои для экрана блокировки.[^2]
+**com.android.keyguard** Разблокировка журнала HUAWEI (Название пакета действительно запутанное) Это проприетарное приложение, основанное на пакете AOSP под названием `com.android.keyguard`. Это совсем не умно. Позволяет [настраивать обои](https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh) для экрана блокировки.
 
 **com.android.hwmirror** Позволяет использовать телефон в качестве зеркала...
 
 **com.baidu.input_huawei** Woh! 51 разрешение!  Huawei китайская стоковая клавиатура ввода.
 
-**com.hicloud.android.clone** Huawei Phone Clone[^3] 171 Permissions[^4]
+**com.hicloud.android.clone** Huawei [Phone Clone](https://play.google.com/store/apps/details?id=com.hicloud.android.clone) [171 Permissions](https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest)
 
 Приложение для миграции данных между телефонами Huawei. Имейте в виду, что все ваши данные будут синхронизированы в облаке Huawei и собраны компанией.
 
@@ -179,8 +179,3 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 **com.huawei.securitymgr** Позволяет хранить конфиденциальную информацию в скрытом пространстве внутри устройства, доступ к которому можно получить только с помощью отпечатка пальца или пароля. Шифрование данных в состоянии покоя? Если нет, то это бесполезно
 
 **com.huawei.systemmanager ❌** Управляет поведением приложений и разрешает им работать (или не работать) в фоновом режиме. **УДАЛЕНИЕ МОЖЕТ СЛОМАТЬ ТЕЛЕФОН И ОТПРАВИТЬ ЕГО В BOOTLOOP!**
-
-[^1]: https://dontkillmyapp.com/huawei
-[^2]: https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
-[^3]: https://play.google.com/store/apps/details?id=com.hicloud.android.clone
-[^4]: https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest
