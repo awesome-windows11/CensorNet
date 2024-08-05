@@ -1,4 +1,4 @@
-### ADB Android Huawei Spyware
+### ADB Android Huawei [Spyware](https://forum.xda-developers.com/t/p40-pro-debloating-guide.4088633) & [Bloatware](https://forum.xda-developers.com/honor-6x/how-to/guide-list-bloat-software-emui-safe-to-t3700814) 
 
 **com.huawei.powergenie** [Stopping](https://xdaforums.com/t/remove-powergenie-to-allow-background-apps-to-receive-push-notifications.3890409/) applications in the background
 
@@ -184,7 +184,3 @@ https://developers.google.com/identity/fido/android/native-apps Безопасн
 [^2]: https://gitlab.com/W1nst0n/universal-android-debloater/-/blob/master/lists/Huawei.sh
 [^3]: https://play.google.com/store/apps/details?id=com.hicloud.android.clone
 [^4]: https://reports.exodus-privacy.eu.org/en/reports/com.hicloud.android.clone/latest
-
-https://forum.xda-developers.com/honor-6x/how-to/guide-list-bloat-software-emui-safe-to-t3700814
-<br>
-https://forum.xda-developers.com/t/p40-pro-debloating-guide.4088633
