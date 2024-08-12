@@ -21,5 +21,3 @@ defaults write com.google.Chrome.plist ExtensionManifestV2Availability -int 2
 ```
 
 Go to `chrome://policy/` and click "Reload policies".
-
-More details: [https://www.securitylab.ru/news/550809.php](https://www.securitylab.ru/news/550809.php)
