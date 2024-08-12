@@ -21,3 +21,5 @@ defaults write com.google.Chrome.plist ExtensionManifestV2Availability -int 2
 ```
 
 Go to `chrome://policy/` and click "Reload policies".
+
+## We urge you to boycott Chromium and switch to [Librewolf](https://librewolf.net/installation/)!
