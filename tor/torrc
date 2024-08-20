@@ -2,8 +2,56 @@
 ## Tor will look for this file in various places based on your platform:
 ## https://support.torproject.org/tbb/tbb-editing-torrc/
 
+## Указывает, на каком порту будет работать SOCKS-прокси Tor. По умолчанию это порт 9050.
+##  Можно указать несколько портов или задать IP-адрес, на котором будет слушать SocksPort:
 ## Tor opens a SOCKS proxy on port 9050 by default -- even if you don't
 ## configure one below. Set "SOCKSPort 0" if you plan to run Tor only
 ## as a relay, and not make any local application connections yourself.
 SOCKSPort 9050 # Default: Bind to localhost:9050 for local connections.
 SOCKSPort 192.168.0.1:9100 # Bind to this address:port too.
+
+## Указывает порт, на котором будет слушать интерфейс управления Tor. Это нужно для взаимодействия с Tor через программы, такие как Vidalia или Tor Browser.
+ControlPort 9050
+
+## Указывает, через какие узлы выходить из сети Tor. Можно задать страны или конкретные узлы.
+## Чтобы использовать конкретные узлы, можно указать их идентификаторы: ABCD1234EF5678901234567890ABCDEF12345678
+ExitNodes {gb},{se},{nl},{de},{no},{hr},{at},{pl},{ro},{ch}
+
+## Исключает определенные узлы из цепочки.
+ExcludeNodes {ru},{cn}
+
+## Исключает определенные узлы для выхода.
+ExcludeExitNodes {ru},{cn}
+
+## Определяет, через какие узлы входить в сеть Tor.
+EntryNodes {us},{ca}
+
+## Указывает путь к файлу GeoIP для определения местоположения узлов.
+GeoIPFile /usr/share/tor/geoip
+
+## Путь к директории, где Tor будет хранить свои данные.
+DataDirectory /var/lib/tor
+
+## Указывает уровень логирования и куда выводить логи.
+Log notice file /var/log/tor/notices.log
+Log info stderr
+
+## Ограничивают скорость передачи данных.
+BandwidthRate 100 KB  # Ограничение средней скорости
+BandwidthBurst 200 KB  # Ограничение пиковых значений
+
+## Запускает Tor как демон (в фоне). Полезно для серверов.
+RunAsDaemon 1
+
+## Задает псевдоним для вашего реле, если вы запускаете свой Tor сервер.
+Nickname MyTorRelay
+
+## Ограничивают полосу пропускания, которую ваше реле будет отдавать сети.
+RelayBandwidthRate 100 KB
+RelayBandwidthBurst 200 KB
+
+## Указывает порт, на котором будет слушать ваш реле.
+ORPort 9001
+
+### Включает каталог сервера.
+DirPort 9030
