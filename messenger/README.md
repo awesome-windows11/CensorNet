@@ -12,7 +12,7 @@ The section is dedicated to social networks, messengers, and communication tools
 <br>
 ❌ Unencrypted messages are visible to any server owner[^10]
 
-### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://signal.org/) [[Molly](https://molly.im/)]
+### <img width=20px src="https://i.imgur.com/X0JxslT.png"></img> [Signal](https://github.com/signalapp) [[Molly](https://molly.im/)]
 
 ✔ $\color{green}{\textsf{Good}}$
 
