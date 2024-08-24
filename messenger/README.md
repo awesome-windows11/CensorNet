@@ -16,6 +16,8 @@ The section is dedicated to social networks, messengers, and communication tools
 
 ✔ $\color{green}{\textsf{Good}}$
 
+**⛔ Blocked in Russia**
+<br>
 ❌ Registration by phone number
 <br>
 ✔ There is 2FA in the form of a pin code (but it doesn't carry messages!)
