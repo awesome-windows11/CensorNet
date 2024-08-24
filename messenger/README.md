@@ -16,7 +16,7 @@ The section is dedicated to social networks, messengers, and communication tools
 
 ✔ $\color{green}{\textsf{Good}}$
 
-**⛔ Blocked in Russia**
+**⛔ [Blocked](https://roskomsvoboda.org/en/post/blochat-signal/) in Russia**
 <br>
 ❌ Registration by phone number
 <br>
