@@ -170,7 +170,7 @@ https://isitblockedinrussia.com
 <br>
 https://downforeveryoneorjustme.com
 <br>
-
+https://dpidetect.org
 
 <h2 align="center">👀 Trackers Browser</h2>
 
