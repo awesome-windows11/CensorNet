@@ -1,6 +1,7 @@
 ## Browser/TorBrowser/Data/Tor
 ## Tor will look for this file in various places based on your platform:
 ## https://support.torproject.org/tbb/tbb-editing-torrc/
+## https://gitlab.torproject.org/tpo/core/tor/-/blob/HEAD/src/config/torrc.sample.in
 
 ## Указывает, на каком порту будет работать SOCKS-прокси Tor. По умолчанию это порт 9050.
 ##  Можно указать несколько портов или задать IP-адрес, на котором будет слушать SocksPort:
