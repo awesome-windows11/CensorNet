@@ -47,3 +47,5 @@ https://github.com/farhanashrafdev/90DaysOfCyberSecurity
 Citizen Lab: https://citizenlab.ca/
 <br>
 https://censorbib.nymity.ch/#Almutairi2024a
+<br>
+https://simplifiedprivacy.com
