@@ -1,5 +1,4 @@
 music.youtube.com###player
 music.youtube.com###main-panel
-
 ##[class^="AppMoneySidebar"]
 ##[class^="AppMoney"]
