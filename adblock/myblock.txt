@@ -1,2 +1,10 @@
 music.youtube.com###player
 music.youtube.com###main-panel
+
+[class^="AppMoneySidebar"] {
+  display: none;
+}
+
+[class^="AppMoney"] {
+  display: none;
+}
